@@ -1,0 +1,30 @@
+[개발환경 설치]
+
+[git hub]
+* fork(저장소 복제 기능)
+
+* 이클립스 git hub 연동
+    http://jwgye.tistory.com/38
+
+    windows > Perspective > Open perspective > other
+
+    Cloan a Git repositiory 
+    
+[er master 셋팅]
+
+[oracle express]
+*	기본설치후 command mode 
+	> connect 
+	> azam
+	> azam
+	
+
+* sid, dbname 확인
+SQL> select name, db_unique_name from v$database;
+
+NAME               DB_UNIQUE_NAME
+------------------ ----------------------------------------
+XE                 XE
+
+
+

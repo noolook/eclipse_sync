@@ -1,0 +1,4997 @@
+WORD_KOR WORD_ENG WORD_ENG_DESC WORD_KOR_DESC
+연혁 HIST history 
+고저 HILO High low 
+ HIST HIST HISTORY 
+감춤 HID HIDDEN 
+시분 HHMM hour and minute 
+ HISTORY HISTORY HISTORY 
+건강 HLTH HEALTH 
+ HEDGE HEDGE HEDGE 
+인적 HMAN human 
+장애인 HMAN Handicaped Man 
+무주택 HMLSS HOMELESS 
+ HEAD HEAD HEADER 
+수작업 HDWK HAND WORK 
+보유세 HDTX holding tax 
+인계 HDOV HAND OVER 
+히든 HDN HIDDEN 
+고향 HMTW HOME TOWN 
+수어음 HBIL HAND BILL 
+고액 HAMT HIGH AMOUNT 
+호 HO ho 
+취미 HOBY hobby 
+ HOL HOL HOL 
+당 PER PER 
+지주 HOLD holding 
+ HOLD HOLD HOLD 
+타개 BRK BREAK 
+ HOLDER HOLDER HOLDER 
+연락 CNTC contact 
+자택 HOME home 
+ CONSTRAINT CNST CONSTRAINT 
+존칭 HON honorably 
+승낙 CNSN consent 
+희망 HOPE hope 
+ HOST HOST HOST 
+주택 HOUS house 
+ HOUSE HOUSE HOUSE 
+연결B CNSD consolidation 
+사정가 CNDT_PR condition price 
+고수익 HPR high Profit 
+본부 HQ headquarters 
+ 5레벨 LVL5 5 LEVEL 
+ 6레벨 LVL6 6 LEVEL 
+ 7레벨 LVL7 7 LEVEL 
+ 8레벨 LVL8 8 LEVEL 
+생계형 LVLH LIVELIHOOD 
+압축 CMPR compression 
+구성비 CMPR Component ratio 
+인하 LWRN LOWERING 
+동호회 CLUB CLUB 
+최하위 LWST Lowest 
+폐업 CLSE close 
+ 4종 CLS4 4TH CLASS 
+ M3 M3 한국은행 통화지표 M1 M2 M3 
+ 2종 CLS2 2TH CLASS 
+ MAC MAC MAC 
+마감전 CLS_BF close before 
+주계좌 MACC Main ACCOUNT 
+기계 MACH machine 
+ CLOSE CLOSE CLOSE 
+카탈로그 CLOG CATALOG 
+산입 INCL inclusion 
+부대 INCD incidential 
+소득 INC income 
+ IN IN IN 
+내 IN IN 
+불가 IMPT impropriety 
+ MAIN MAIN main 
+ MAINTE MAINTE MAINTE 
+전공 MAJR major 
+작성 MAKE make 
+제작 MAKE make 
+제조 MAKE make 
+프로젝트금융 PRJF project finance 
+ PRIMARY PRIMARY PRIMARY 
+ PRICES PRICES PRICES 
+ PRICE PRICE PRICE 
+중도금 MAMT mid amount 
+제조사 MAN the manufacture 
+ MANAGER MANAGER MANAGER 
+ MANUAL MANUAL MANUAL 
+매핑 MAP MAPPING 
+ MAP MAP MAPPING 
+ MAPPER MAPPER MAPPER 
+ MAPPING MAPPING MAPPING 
+표시자 MARK_MN mark man 
+ MARKET MARKET MARKET 
+해운 MARN MARINE 
+ MASK MASK mask 
+ BACKUP BKUP BACKUP 
+ MATURED MATURED MATURED 
+ MATURITY MATURITY MATURITY 
+계산서 BILL bill 
+ BID BID BID 
+ MAX MAX MAX 
+예산번호 BGNO a registration number of budget 
+이동통신사 MBCP Mobile Company 
+유휴국 MBID Mobile Identification 
+기어음 MBIL MACHINE BILL 
+모바일 MBL MOBILE 
+ BEFORE BEFORE BEFORE 
+대손상각비 BDRC Bad Debt Refund Cost 
+기장 BDG BADGE 
+대손 BDEB bad debt 
+ DW DW Data Warehouse 
+다우존스 DWJN Dow Jones 
+ BB BB B2B 
+대우증권 DWSC Daewoo Securities Co.  Ltd. 
+ BASKET BASKET BASKET 
+ BASIS BASIS BASIS 
+동태 DYST DAYNAMIC STATE 
+ BASE BASE BASE 
+기초 BASE base 
+기준 BASE base 
+실시협약 EAGR execution agree 
+근거 BASE base 
+조기 EARL earlier 
+대지 EART earth 
+대지면적 EART_AREA earth area 
+ EASTER EASTER EASTER 
+ BAL BAL BALANCE 
+ BACK BACK BACK 
+ PREMIUM PREMIUM PREMIUM 
+거래처구분 CLNT_TYPE client type 
+거래처명 CLNT_NM A CLIENT'S NAME 
+구상 CLM claim 
+콜론 CLLN CALL LOAN 
+콜머니 CLLM CALL MONEY 
+전자채권 ECLM Electronic Claim 
+ CLEARED CLEARED CLEARED 
+ CLEAR CLEAR CLEAR 
+ CLEAN CLEAN CLEAN 
+교육 ED education 
+협력 CLBR COLLABORATION 
+폐점 CLBR closing of branch 
+ CLASS CLASS CLASS 
+반 CLAS class 
+매일 EDD every day 
+ CLAIM CLAM CLAIM 
+별 CLAF classified 
+개발비 DVLP_CST develope cost 
+책임 DUTY duty 
+직책 DUTY DUTY 
+수입B INCM income 
+입사 INCO in company 
+결정권 DTRM_RGT determine_right 
+감가상각누계액 DTOT depreciation total 
+인출 OAMT out amount 
+ WHEN WHEN WHEN 
+ INCREMENT INCREMNT INCREMENT 
+주간 WEEK week 
+결혼 WEDD wedding 
+회수율 WDRT withdraw rate 
+ WINDOW WD WINDOW 
+원화차입 WB Won Borrowing 
+ INDEX INDEX INDEX 
+경고 WARN Warning 
+원화환산금액 WAMT convert amount in won currency 
+증표 VUCH VOUCHER 
+산업 INDS industry 
+가상 VT Virtual 
+방문 VSIT VISIT 
+대주 LNDR lender 
+검증 VRFC verification 
+항해 VOYG VOYAGE 
+ VOLUME VOLUME VOLUME 
+용량 VOLM VOLUME 
+법규 LNRG law and regulations 
+저 LO low 
+승부 VND victory and defeat 
+선적 LOAD load 
+ VALUATION VLUE VALUATION 
+변동성 VLTB volitibility 
+기세 VIGR vigor 
+전망 VIEW view 
+ LOAN LOAN LOAN 
+대출금 LOAN_MNY loaned money 
+대행 VCRE vicarious execution 
+입지 LOC location 
+선순위 PRE_ORD pre order 
+ LOC LOC LOCATION 
+ LOCAL LOCAL LOCAL 
+ LOCATION LOCATION LOCATION 
+수입금 PRCDS proceeds 
+물가 PRCC price of commodity 
+ LOCKOUT LOCKOUT LOCKOUT 
+소재 LOCT location 
+ PR PR  
+숙박 LODG lodge 
+신구 NEW_OLD the old and the new 
+ LOG LOG LOG 
+ LOG명 LOG_NM LOG_name 
+명칭 NM name 
+뉴스 NEWS news 
+로그온 LOGON LOGON 
+입력자명 IMN_NM input operator name 
+입력자 IMN input operator (man) 
+즉시 IMMD immediate 
+ LONG LONG LONG 
+ LOOKUP LOOKUP LOOKUP 
+한글약어명 IKNM informal korean name 
+상해 IJRY INJURY 
+인터넷인터페이스 II INTERNET INTERFACE 
+ LOSS LOSS LOSS 
+손실액 LOSS_AMT loss amount 
+약어명 IFNM informal name 
+추첨 LOT LOT 
+분양 LOTO lottingout 
+분양가 LOTO_PR lottingout price 
+이차B IDIF interest difference 
+ IDENTIFY IDENTIFY IDENTIFY 
+ LOW LOW LOW 
+피보전 IDAJ independent adjust 
+피계약자 ICON_MN independent contract man 
+행내 IBNK inner bank 
+ IBM IBM IBM 
+ IBCA IBCA FITCH IBCA 
+윤년 LPYR leap year 
+입근주명 IAMT_NM in amount name 
+입금주 IAMT_MSTR master 
+입금액 IAMT in amount 
+장기상품 LSGD LongSaving Goods 
+하한가 LSLP the lowest limit price 
+ LESS율 LSRT less rate 
+최저가 LSTP lowest price 
+최고가 HSTP highest price 
+상한가 HSLP highest limit price 
+필지 LTND a lot of land 
+세대 HSHD a household 
+가구 HSHD Household 
+ HS HS harmonized system 
+ LETTER LTTR LETTER 
+강사 LTUR Lecturer 
+ LU LU LU 
+하역 LULD load and unload 
+ VAN VAN Value-Added Network 
+ VALID VALID VALID 
+하역지 LUPL load and unload place 
+이탈 LV leaving 
+레벨 LVL LEVEL 
+수준 LVL level 
+ 1레벨 LVL1 1 LEVEL 
+ 2레벨 LVL2 2 LEVEL 
+ 3레벨 LVL3 3 LEVEL 
+ 4레벨 LVL4 4 LEVEL 
+가처분 PDSP provisional disposition 
+기일전 PDDT Pre due date 
+흐름 FLOW flow 
+ FLOW FLOW FLOW 
+포장 PCKN PACKING 
+제세공과금 PBTX public tax of finance 
+섭외 PBRL public relations 
+공공차관 PBLN PUBLIC LOAN 
+재정 PBLF public finance 
+외화특정금전신탁 FMBT Foreign Currency Money Bond Trust 
+항 FMLY family 
+ PB PB Private Banking 
+ PAYER PAYER PAYER 
+총납입액 PAY_TAMT pay total amount 
+금융채 FNBN Financial bond 
+승진 PRMT Promotion 
+지급자 PAY_MN pay man 
+지급인 PAY_MN pay man 
+촉진비 PRMT_CST promotion cost 
+ PRNCIPAL PRNCIPAL PRINCIPAL 
+납부 PAY payment 
+부모 PRNT parents 
+출력 PRNT print 
+문제 PROB problem 
+도착항 PARV port of arrival 
+공정 PROC process 
+절차 PROC process 
+ PARTIAL PARTIAL PARTIAL 
+ PART PART PART 
+일부 PART part 
+거실 PARL parlor 
+ PARAGRAPH PARA PARAGRAPH 
+ PAR PAR PAR 
+ PAPER PAPER PAPER 
+피아노 PANO piano 
+성능 EFFC efficiency 
+실효 EFFC efficiency. 
+ EFFECT EFFECT EFFECT 
+영문정식명 EFNM english formular name 
+노력도 EFRT effort 
+환가료율 EFRT exchange fee rate 
+노력상 EFZE effort prize 
+ EDI EI electronic data interchange 
+단계 STAG stage 
+유출 OUTF outflow 
+ OUT OUT OUT 
+외 OUT OUT 
+ START START START 
+정본 OTXT origin text 
+원본 OTXT origin text 
+원문 OTXT origin text 
+지출관 OTMN OUTGOINGS MAN 
+ STATE STATE STATE 
+ STATUS STATUS STATUS 
+ OTC OTC OVER THE COUNTER 
+ OS OS OS 
+주주 STCH stockholder 
+주권 STCK stock 
+주식 STCK stock 
+좌수 STCK_CNT stock count 
+주식수 STCK_CNT stock count 
+ STD STD STANDARD 
+ LIQ LIQ LIQUIDATION 
+입출고 STDV store_delivery 
+링크 LINK link 
+회선 LINE LINE 
+라인 LINE LINE 
+ LIMIT LIMIT LIMIT 
+ 1단계 STG1 STAGE 1 
+ 2단계 STG2 STAGE 2 
+ 3단계 STG3 STAGE 3 
+인지대 STGE stamp generation 
+지분 POSS possession 
+주가지수 STID stock price index 
+ POS POS POSITION 
+포지션 POS position 
+직위 POS position 
+결제후 STLM_AF settlement after 
+ PORTFOL PORTFOL PORTFOLIO 
+결제지 STLM_PLC settlement place 
+ STLMT STLMT SETTLEMENT 
+단자 STLN Short loan 
+내입 POAC Payment On account 
+증시자금 STMC stock market capital 
+증시 STMK stock market 
+기재 STMT statement 
+ STANDBY STNB standby LC 
+규격 STND standard 
+오후 PM afternoon 
+수익관리 PM profit management 
+ PLUS PLUS PLUS 
+ STOCK STOCK STOCK 
+지번 PLMK place mark 
+질권 PLDG pledge 
+ STOP STOP STOP 
+입고 STOR store 
+위치 PLC plce 
+ PLAN PLAN PLAN 
+ STR STR STRING 
+방안 PLAN plan 
+접대자 RCMN RECEPTION MAN 
+손익계정원장 PLAL profit and loss accounts ledger 
+수주 RCOD Receive(accept) an order 
+접대비 RCPC RECEPTION EXPENSES 
+손익계정 PLAC a profit and loss account 
+접대 RCPT RECEPTION 
+등록필증 RCRT registration certificate 
+모집 RCRT recruitment 
+ PIN PIN PERSONAL IDENTIFICATION NUMBER 
+사진 PIC picture 
+복구 RCVR recovery 
+통화자 PHMN phoned man 
+ PG PG Payment Gateway 
+ RDM RDM ROLL DATE METHOD 
+이익잉여금 PFSP a profit surplus fund 
+수행 PFRM performance 
+편성 ORGN organization 
+ ORGINAL ORGINAL ORGINAL 
+ ORG ORG ORGANIZATION 
+조직 ORG organization 
+공관 ORES official residence 
+부점명2 BRNM2 branch name 
+보통 ORDN ordinary 
+선수수익 BRPR before receive profit 
+출신 BRTH birth 
+채번 GVNO giving a number 
+차입후 BRW_AF borrow after 
+유통 CIRC circulation 
+차입전 BRW_BF BORROW BEFOR 
+상업송장 CINV an commercial  invoice 
+ CIF CIF COST INSURANCE AND FREIGHT 
+부담자 BRDN_MN burden man 
+부담인 BRDN_MN burden man 
+ BS BS A BALANCE SHEET 
+사업별 BSBY by business 
+업무별 BSBY business part 
+업태 BSCD business conditions 
+가지 BR branch 
+업무원가후 BPAF  
+사업부 BSDP business department 
+ BORROW BORROW BORROW 
+ BOOK BOOK BOOK 
+기업체 BSNC Business Corporation 
+신체 BODY the body 
+통장 BNKB bankbook 
+업무량 BSQT business_quantity 
+수혜 BNFT benefit 
+수익자명 BNFC_NM beneficiary name 
+수익자 BNFC beneficiary 
+ BNE BNE BENE CERT 
+건폐율 BTLR building-to-land ratio 
+은행별 BNBY bank_BY 
+벤치마크 BMRK bench mark 
+ BM BM BENCHMARK 
+신도 BLVR beliver 
+맞벌이 BTWR both working 
+소속부 BLNG_BR belonged branch 
+ BUDGET BUDGET BUDGET 
+포괄 BLKT blanket 
+난수 RNUM random numbers 
+제각 RMVL remove value 
+사업 BUSI business 
+송금인명 RMTR_NM remitter name 
+영업 BUSI business 
+업무비 BUSI_EXPN business expense account 
+방수 RMCT room count 
+사업명 BUSI_NM a business name 
+ RM RM RISK MANAGEMENT 
+관련자 RLUR relation user 
+종교 RLGN religion 
+관계사 RLCO relation company 
+ PROCEEDS PROCEEDS PROCEEDS 
+ PROCESS PROCESS PROCESS 
+산출 PROD product 
+생산 PROD product 
+사용자당 PERU per user 
+작품 PROD product 
+제품 PROD product 
+ PRODUCT PRODUCT PRODUCT 
+ EXCHANGE EXCHANGE EXCHANGE 
+ PROFIT PROFIT PROFIT 
+ PROGRESS PROGRESS PROGRESS 
+프로젝트 PROJ project 
+ PROJ PROJ PROJECTED 
+커뮤니티 COMY Community 
+ COMPOUND COMPOUND COMPOUND 
+의뢰서 ASKL ask letter 
+의뢰인 ASKM ask man 
+한국신용정보 NICE NATIONAL INFORMATION & CREDIT EVALUATION 
+나이스 NICE NICE 
+조립 ASMB assemble 
+ ASOF ASOF AS OF 
+자산보유자 ASOR ASSET ORIGINATOR 
+호가 ASPR ask a price 
+ ASSET ASSET ASSET 
+ ASSIGNED ASSIGNED ASSIGNED 
+추정 ASSM assumption 
+송화인명 CSGR_NM consignor name 
+ ASSOC ASSOC ASSOC 
+ ASSOCIATE ASSOCIATE ASSOCIATE 
+ NET NET net 
+승인기호 ASYM approval symbol 
+ AT AT AT 
+ NEEDS NEED needs 
+취득세 ATAX acquisition tax 
+ NEAR NEAR NEAR 
+요징수 NDCL need collect 
+필요성 NCST necessity 
+ NAV NAV 순자산가치(Net Asset Value) 
+순자산가치 NAV 순자산가치(Net Asset Value) 
+귀화 NATZ naturalization 
+내국인 NATV a native 
+통화별 CRBY BY currency 
+통화채 CRBD currency bond 
+부속 ATMT attachment 
+ CPTY CPTY COUNTERPARTY 
+ ATTRIBUTE ATRB attribute 
+제휴 CPRT cooperate 
+근태 ATTD attitude 
+ ATTEN ATTEN ATTEN 
+ ATTENTION ATTENTION ATTENTION 
+ ATTN ATTN ATTENTION 
+상용구 CPHR common phrase 
+ ATTR ATTR ATTR 
+ CP CP commercial paper 
+ AUCTION AUCTION AUCTION 
+ COUPON COUPON COUPON 
+ COUNTRY COUNTRY COUNTRY 
+권한 AUTH authority 
+ COUNT COUNT COUNT 
+ AUTH AUTH AUTHORIZATION 
+인증서 AUTH_SH authentication sheet 
+컨텐츠 COT Contents 
+자동화 AUTO AUTOmatic operation 
+퇴결 RTRT retreat 
+ AVERAGE AVERAGE AVERAGE 
+리턴 RTRN RETURN 
+ AVG AVG AVERAGE 
+ AW AW AIR WEY 
+실현성 RTIN realization 
+실물 RTHG real thing 
+임대차 RTCT 임대차 계약 a rental contract 
+등록세 RTAX registration tax 
+유보 RSVT RESERVATION 
+손절매 CTLS CUT LOSS 
+관세사 CTMN CTAX_MN 
+문화 CULT CULTURE 
+ CUM CUM CUMULATIVE 
+삼성카드 SSCD samsung card 
+조사자 SRVY_MN survey man 
+서버 SRVR server 
+ CURRENCY CURRENCY CURRENCY 
+ CURRENT CURRENT CURRENT 
+여유 SRPL surplus 
+선임고객전담역 SRM SRM(senior  risk manager) 
+ CURVE CURVE CURVE 
+원천 SRC source 
+ CUSIP CUSIP Committee on uniform securities identification procedures (CUSIP) 
+ CUSTOM CUSTOM CUSTOM 
+ CUSTOMER CUSTOMER CUSTOMER 
+ CUTOFF CUTOFF CUTOFF 
+환산이자 CVIN convert interest 
+민간투자 CVIV civil investment 
+민간 CVL civil 
+민원 CVL_APP civil appeal 
+환산원금 CVPR convert principal 
+표지 CVR cover 
+ COVERING CVRN COVERING 
+보완 SPMT supplementation 
+조달 SPLY supply 
+환산 CVRT convert 
+환산잔액 CVRT_BAL convert balance 
+전환권 CVRT_RGT conversion RIGHT 
+자익 SPFT self profit 
+ SPECIFIC SPECIFIC SPECIFIC 
+ SPECIAL SPECIAL SPECIAL 
+ SPEC SPEC SPECIFICATION 
+ CYCLE CYCLE CYCLE 
+연한채 CYYS YEARS OF A CONTRACT 
+금융권구분 FNCE_TYPE finace type 
+ SPC SPC Special Purpose Company 
+특수채 SPBD special bond 
+특인 SPAP SPECIAL APPROVAL 
+보조부 SPAB a supplementary account book 
+ SP SP  
+ SOURCE SOURCE SOURCE 
+ SORT SORT SORT 
+ SOFT SOFT SOFT 
+선출 FO FIRST OUT 
+ RISK RISK RISK 
+상승 RISE a rise 
+ RIPO RIPO ripo 
+식품 FOOD food 
+이용자 USER user 
+ FOREIGN FOREIGN FOREIGN 
+사용료 USE_FEE use fee 
+ DAYS DAYS DAYS 
+ USE USE USE 
+ USD USD USD 
+차대 DBCR the debit or credit account 
+미수수익 URPR un-receive PROFIT 
+미수수익2 URP2 un-receive PROFIT 2 
+이중 DBLE double 
+ DBMS DBMS  
+사용량 UQUT a amount(quantity) use 
+자료실 DBRD DATA BOARD 
+내국수입유산스 DBU domestic banker' usance 
+수정자 UPDT_MN update man 
+수정전 UPDT_BF correction before 
+신고인 DCLR declarer 
+신고인명 DCLR_NM declarer_name 
+예수 DCLT deposit and collection 
+미지급금 UPAY_AMT un-payment amount 
+문서 DCMN documents 
+서류 DCMN documents 
+ RATING RATG rating 
+서류명 DCMN_NM document name 
+권배락 RAO right allot off 
+직급 RANK rank 
+임대가 RAMT rent amount 
+재조정 RADJ re-adjust 
+위험회피 RA Risk Avoidance 
+ QUOTE QUOTE QUOTE 
+원용 QUOT quote 
+ INF INF INFINITY 
+의문 QUES QUESTION 
+ QUALIFIER QUALIFIER QUALIFIER 
+영향력 INFL INFLUENCE 
+물량 QNTY the amount [quantity] of materials [resources]. 
+질의응답 QNA QUESTION AND ANSWER 
+ INFO INFO INFORMATION 
+대분류 LCLS large classification 
+창업 INGR inauguration 
+ LC LC LETTER OF CREDIT 
+신용장 LC letter of credit  L/C 
+법정 LAWC law court 
+법적 LAW law 
+법령 LAW law 
+ INITIAL INITIAL INITIAL 
+규정 LAW LAW 
+화장실 LAVA lavatory  
+ LAST LAST LAST 
+동거 INMT Inmate 
+ LAG LAG LAG 
+사다리 LADD ladder 
+ COPY_T COPY_T COPY_T 
+색 COO COLOR 
+ INP INP INSP CERT 
+ CONVENTN CONVENTN CONVENTION 
+ CONV CONV CONVERSION 
+ CONTRACT CONTRACT CONTRACT 
+ CONTRA CONTRA CONTRA 
+ INS INS INS POLICY 
+약정이자 CONT_INT contract interest 
+계약서 CONT contract 
+구축 CONS construction 
+구조 CONS construction 
+보험 INSR insurance 
+건축 CONS construction 
+분납 INST installments 
+삽입 INST insert 
+축하 CONG congratulations 
+지시B INST INSTRUCTED 
+ CONDITION CONDITION CONDITION 
+조건 COND condition 
+서약 COND condition 
+발의 INSTANCE INSTANCE 
+생활 LIFE life 
+인가 LICN license  a charter (법인 단체 설립의) 
+금리 INT interest 
+ LG LG letter of guarantee 
+수입화물선취보증 LG letter of guarantee 
+내부거래 INTD INTERNAL DEALING 
+ INTER INTER INTER 
+ INTEREST INTEREST INTEREST 
+ INTERNAL INTERNAL INTERNAL 
+ INTERVAL INTERVAL INTERVAL 
+주도자 LEDR LEADER 
+국제 INTL international 
+강화 INTN INTENSIFY 
+외출 LEAV leave 
+전세권 LEAS_RGT lease_right 
+ INTEROFFICE INTOFFICE INTEROFFICE 
+ LEAD LEAD LEAD 
+ INTRA INTRA INTRA 
+제소 INTU institute 
+면담 INTV interview 
+ FLOOR FLOOR FLOOR 
+송장 INV invoice 
+ INVESTMENT INVEST INVESTMENT 
+플래그 FLAG flag 
+권유 INVT invite 
+유치 INVT INVITATION 
+혁신 INVT INNOVATION 
+ FIX FIX FIX 
+유치자 INVT_MN invite man 
+ FINANCIAL FINANCE FINANCE 
+ FINAL FINAL FINAL 
+선입선출 FIFO FIRST IN FIRST OUT 
+편출입 IOEN in out entry 
+ FF FF FLAT FILE 
+ IP IP Internet Protocol 
+ FEE FEE FEE 
+회비 FEE membership fee 
+보수 FEE fee 
+연합회 FEDR federation 
+보수약정 FECN fee contract 
+ FEDWIRE FDWR fedwire 
+초일 FDD the first day 
+마진율 MRGN_RT margin_rate 
+합병 MRGR merger 
+시장 MRKT market 
+본기성 MRMD main ready-made 
+ MORE율 MRRT more rate 
+담보 MRTG mortgage 
+담보부 MRTG mortgage 
+담보권 MRTG_RGT mortgage right 
+ MS MS MS 
+감지 SNSN SENSING 
+ SNP SNP STANDARD AND POOR'S 
+을갑 SNF the second and the first 
+ MESSAGE MSG MESSAGE 
+전금 SNDM send money 
+수급 SNDM supply and demand 
+기간별 TMBY BY TERM 
+측정 MSRM MEASUREMENT 
+마스터 MSTR master 
+주 MSTR master 
+인수율 TKRT take rate 
+상호 MTAL mutual 
+직함 TIT title 
+ FORFAITING FORFAIT FORFAITING 
+금융기관 FORG financial organization 
+서식 FORM form 
+양식 FORM FORM 
+형식 FORM form 
+형태 FORM form 
+용지번호 FORM_NO form no 
+ TICK TICK TICK 
+ FORWARD FORWARD FORWARD 
+금회 THTM This time 
+금반 THTM This time 
+경유 THRU THROUGH 
+ THRESHLD THRESHLD THRESHOLD 
+ 3행 THRB 3  BANKS 
+ FRA FRA FORWARD RATE AGREEMENT 
+요율 FRAT Fee Rate 
+분수 FRCT fraction 
+사기 FRD fraud 
+태그 TAG tag 
+총계정 TACT total accounts 
+ FREE FREE FREE 
+시스템ID SYSID SYSTEM ID 
+신디케이션 SYNT SYNDICATION 
+ SYNONYM SYNM SYNONYM 
+신티케이트 SYND syndicate 
+외채 FRLN foreign loan. 
+기호 SYM symbol 
+신디케이트론 SYLN syndicated loan 
+외표 FRMK foreign mark 
+ SW SW SWAP 
+식 FRML formula  
+저축 SVNG savings 
+서버ID SVID SERVER ID 
+ SV SV  
+주제어 SUWD SUBJECT WORD 
+ SUSPENSE SUSPENSE SUSPENSE 
+전산소모품 SUPC computer supplies 
+소모품 SUP supplies 
+ SUNDAY SUNDAY SUNDAY 
+ SUBSTANDARD SUBSTAND SUBSTANDARD 
+청약 SUBS subscription 
+제출 SUBM summit 
+ SUBJECT SUBJECT SUBJECT 
+주제 SUBJ subject 
+안내 GUID guide 
+ GUARANT GUARANT GUARANTOR 
+보증처 GUAR_PLC a guarantee office 
+ GUARANTEE GUAR GUARANTEE 
+보증 GUAR guarantee 
+보장 GUAR guarantee 
+대학원 GRSC GRADUATE SCHOOL 
+보증율 GRRT a guaranteed rate 
+월일 MMDD month_day 
+ GROUP GROUP GROUP 
+수여 GRNT grant 
+기념 MMRL Memorial 
+물품수령증명서 GRC goods receipt certificate 
+연면적 GRAR gross area 
+양곡 GRAN grain 
+전문명 GRAM_NM gram name 
+ GRADE GRADE GRADE 
+ GRACE GRACE GRACE 
+ GRA GRA GRA 
+ GOVNMT GOVNMT GOVERNMENT 
+지배 GOV govern 
+물건특징 GOSP goods special 
+물건가 GODS_PR goods price 
+화물 GODS goods 
+물품 GODS goods 
+물건 GODS goods 
+월세 MMTX month tax 
+물건명 GNM goods name 
+건명 GNM goods name 
+일반권 GNDN generally denomination 
+ GN GN Global Network System 
+부담율 CHRT Charge rate 
+ CHARGE CHRG CHARGE 
+본지사 MNBR main office & branch 
+변경전 CHNG_BF CHANGE_BEFORE 
+필수 MNDT mandatory 
+제조업 MNFC the manufacturing industry 
+담당자 CHMN Officer in charge (Man) 
+관리 MNG manage 
+관리역 MNGR manager 
+담당반 CHDS charge desk 
+담당계 CHDM charge department 
+출연료 CHCT charge of contribution 
+점검 CHCK CHECK 
+추적 CHAS chase 
+월간 MNTH month 
+인격 CHAR character 
+모니터 MNTR MONITOR 
+문자 CHAR a letter; a character 
+ CHANGE CHANGE CHANGE 
+ CH CH CHAR 
+결재자 CFMN confrim man 
+화재 CFGR conflagration 
+확인증 CFDC confirmation document 
+ MODE MODE MODE 
+모델 MODL Model 
+배당부 CDVD cum dividend 
+ CDP CDP  
+코드명 CDNM code name 
+ MONEY MONEY MONEY 
+양도성예금증서 CD certificate of deposit 
+ MONTH MONTH MONTH 
+ MONTHLY MONTHLY MONTHLY 
+ MONTHS MONTHS MONTHS 
+ MOODY MOODY MOODY 
+ FAX번호 FAXN  
+이사 MOVE move 
+이전B MOVE move 
+ MOVE MOVE MOVE 
+제기 FALS file a lawsuit 
+승수 MPLR multiplier. 
+하락 FALL fall 
+ FACTOR FACTOR FACTOR 
+ DA DA documents on acceptance 
+거치후 DEFR_AF DEFERRED AFTER 
+ DAILY DAILY DAILY 
+ DEFERRED DEFERRED DEFERRED 
+ DEF DEF DEFINITION 
+정의 DEF definition 
+데이터 DATA DATA 
+예상후 EXAF expect after 
+ DATA DATA DATA 
+부외 EX EX 
+평가이익 EVPF evaluation profit 
+ DATES DATES DATES 
+ DATETIME DATETIME DATETIME 
+일간 DAY DAY 
+기법 MTHD Method 
+ MTM MTM MARK TO MARKET 
+ MTN MTN MID TERM NOTE 
+증거 EVDC evidence 
+명도 EVCT evacuation 
+전용율 EUSE_PRBL exclusive use probability 
+원자재 MTRL material 
+원재료 MTRL material 
+위탁사 ETRC entrust company 
+ ETC5 ETC5 ETC5 
+ ETC4 ETC4 ETC4 
+보안 MTSC the maintenance security 
+안건 MTTR matter 
+동기 MTV MOTIVATION 
+잡이익 ETC_PRFT etcetera profit 
+기타 ETC etcetera 
+기타세 ETAX etctax 
+입주 MVIN MOVE INTO 
+동정 MVMN movements 
+기동 MVMT movement 
+산정 ESTM ESTIMATE 
+ ESTIMATE ESTIMATE ESTIMATE 
+이동전화 MVPH movement telephone 
+자점 MYBR my branch 
+임원정보 ES ES 
+ ERROR ERROR ERROR 
+명칭 NAME name 
+성명 NAME name 
+구비 EQP equip 
+ NAME NAME NAME 
+ ENTITY ENTY entity 
+참가 ENTY entry 
+외국인 FRMN a foreigner 
+ ENTERED ENTERED ENTERED 
+장표 FRMP FORM PAPER 
+ FRN FRN FLOATING RATE NOTE 
+정식명 FRNM formular name 
+ SUB SUB SUB 
+ FROM FROM from 
+ FRQ FRQ FREQUENCY 
+전략 STRT strategy 
+노동쟁의 STRK STRIKE 
+ STRIKE STRIKE STRIKE 
+ 2차 ORD2 SECEND ORDER 
+용적률 FSIN floor space index 
+금융감독원 FSS Finacial Supervisory Service 
+ FSS FSS FINANCIAL SUPERVISORY SERVICE 
+ FIRST FST FIRST 
+단수주 FSTC fraction stock 
+ SMS서비스 SMS Short Message Service 
+ SIMPLE SMPL SIMPLE 
+동월 SMMM SAME MONTH 
+ FT100 FT100 FT100 
+소금고 SMCB a small cashbox 
+정시 FTME FIXED TIME 
+기능 FTN function 
+선택번호 SLNO SELECTION NUMBER 
+ FTP FTP file transfer protocol 
+채택 SLCT select 
+선택 SLCT selection 
+선정 SLCT select 
+응답 RSPN response 
+연료 FUEL fuel 
+사유명 RSN_NM reason name 
+ FUNCTION FUNC FUNCTION 
+실적 RSLT results 
+준비금 RSFD a reserve fund 
+ FUND FUND FUND 
+지급준비율 RRPR ready rate for providing 
+재접수 RRCP re_receipt 
+주문 RQST request 
+ FUTURE FUTURE FUTURE 
+즐겨찾기 FVRT FAVORITE 
+요청자 RQMN request man 
+ FX FX FX cable charge 
+상환계획 RPSH repay schedule 
+고정성 FXTP fix type 
+ GAB GAB GAB 
+대표자명 RPNM represent man's name 
+환불 RPMT repayment 
+ REPLY RPLY  
+회답 RPLY REPLY 
+ GAP GAP GAP 
+입지급 RPAY receive AND PAYMENT 
+ ROW ROW ROW 
+상품 GD products 
+ RORAC RORC RORAC 
+ REOPEN ROPN reopen 
+권리부 RON right on 
+체감율 GDCR_RT successive diminution; decrease in order_rate 
+ ROLL ROLL ROLL 
+지리적 GEGR geographical 
+직무 ROLE role 
+일반 GEN general 
+ GENERAL GENERAL GENERAL 
+도로 ROAD road 
+보증료율 GFRT guarantee fee rate 
+ UNLIST UNLIST UNLIST 
+참조무결성 RI REFERETIAL INTEGRITY 
+주요거래정보 RI RISK Information 
+대장 RGSTR register 
+부리 GINT GIVE INTEREST 
+권리자 RGMN Right holder (Man) 
+권리율 RGHT_RT right_rate 
+이권 RGHT right 
+기간중 IPRD in(With) a period 
+상각표 RFND_TB refund_table 
+자회사 AFCO affiliated company 
+계열사 AFCO affiliate company 
+ IRC IRC Interest Rate Curve 
+금리차 IRGP Interest gap 
+ IRR IRR I    R    R 
+선대 ADVN ADVANCED 
+ IS IS IS 
+발권 ISBN the issue of banknotes 
+발급별 ISBY issue_BY 
+ ISDA ISDA i nternational s ubscriber d ialing 
+이격도 ISDE isolate degree 
+ ISIN ISIN International Securities Identification Number 
+ ISO ISO I nternational S tandardization O rganization 
+채용 ADPT adopt 
+피보험인 ISRT AN INSURANT 
+피보험자 ISRT AN INSURANT 
+ ISSUE ISSUE ISSUE 
+ ISSUED ISSUED ISSUED 
+ ISSUER ISSUER ISSUER 
+적금 ISSV INSTALLMENT_SAVINGS 
+ ADDR ADDR address 
+주소 ADDR address 
+내역명 ISTM_NM ITEMIZED STATEMENT name 
+피소 ACUS accused  
+ RUN RUN RUN 
+ ROUND RUND ROUND 
+결산기 ACTM an account term 
+현실화 ACTL actualization 
+수입인지 RVNS revenue stamp 
+귀속 RVRT revert 
+활동 ACT act 
+경정 RVSN revision 
+구좌번호 ACNO account number 
+부수업무 ACMP_BUSI accompany  
+회계사명 ACMN_NM accounts man_name 
+적립 ACML accumulation 
+개서 RWRT rewrite. 
+ ACKNOWLEDGE ACKN  
+ SAC SAC safe keeping account 
+경리 ACCT ACCOUNTANT 
+가계정 SACT suspense account 
+ SAF SAF SAF 
+금고 SAFE safe 
+급여 SAL salary 
+호봉 SALL salary level 
+동행 SAMB same bank 
+계좌별 ACBY BY ACCOUNT 
+회계 AC accounts 
+시행 ENFR enforcement 
+매도가 SAMT sell amount 
+주금 SAMT stock amount 
+ END END END 
+종결 END end 
+ SATURDAY SATURDAY SATURDAY 
+비상 EMRG EMERGENCY 
+ EMPLOYEE EMPLOYEE EMPLOYEE 
+제2금융권 SBAG secondary banking agent 
+직원명 EMP_NM employee name 
+ EMP EMP E-MARKETPLACE 
+사번 EMNO employee number 
+낙찰 SBID a successful bid. 
+낙찰자 SBID_MN a successful bid Man 
+낙찰가 SBID_PR a successful bid price 
+영문약어명 EINM english  informal name 
+주관식 SBJC subjective 
+전대 SBLS sublease 
+대용가 SBPR Substitute price 
+가입권 SBSR Subscription 
+대용 SBST substitution 
+대충 SBST substitute 
+비재정 CST_PBLF NON public finance 
+수화인 CSGN consignee 
+건물 BLDN BUILDING 
+ ARRIVE ARRIVE ARRIVE 
+ ARREAR ARREAR ARREAR 
+ ARRANGER ARR arranger 
+ C2 C2 C2 
+고객별 CSBY BY customer 
+건설가계정 CSAT construction suspense accounts 
+자본잉여금 CSAM capital surplus amount 
+특징 CRTT characteristic  
+증명서 CRTF certificate 
+ CA CA credit advice 
+자본조정후 CAAF  
+자금별 CABY capital_BY 
+금일 CRND Current day 
+신용보강 CRIN CREDIT & REINFORCEMENT 
+범죄 CRIM crime 
+이월 CAFW carrying forward 
+신용 CRDT credit 
+채권재조정 CRDJ claim readjustment 
+ CALC CALC CALCULATE 
+계산용소가 CALC_STAMT calculation stamp amount 
+계산식 CALE calculation expression 
+ CALENDAR CALENDAR CALENDAR 
+전화통화 CALL call 
+콜 CALL call 
+ CALL CALL CALL 
+ CALLABLE CALLABLE CALLABLE 
+환산금액 CAMT convert amount 
+증거금율 MGRT margin rate 
+ CANCEL CANCEL CANCEL 
+대학교 UNIV UNIVERSITY 
+ UNIT UNIT UNIT 
+ UNDERLIE UNDERLIE UNDERLYING 
+ CAP CAP CAP 
+단위별 UNBY unit_BY 
+능력 CAPA capacity 
+자본재 CAPG capital goods 
+ CAPITAL CAPITAL CAPITAL 
+ CAPITALIZE CAPITALZE CAPITALIZE 
+자동차 CAR CAR/AUTOMOBILE 
+차량 CAR car 
+선택사양 OPTFT optional feature 
+카드 CARD card 
+ CARD CARD CARD 
+기회 OPRT opportunity 
+의견회보 OPRE opinion reply 
+운용자 OPR_MN operate man 
+경력 CARR career 
+운영 OPR operate 
+재무정보서비스 CAS COMPANY ACCOUNTS SUPPORTING 
+개업 OPNB opening of business 
+의견 OPN opinion 
+ CASH CASH CASH 
+옵션행사 OPEX option exercise 
+ OPERATION OPERATION OPERATION 
+ CATEGORY CATEGORY CATEGORY 
+원인 CAUS cause 
+은행간제휴업무 CB CB 
+ OP OP OPTION 
+ CB CB CONVERTIBLE BOND 
+ ONS ONS ONS(OVERSEAS NETWORK SYSTEM) 
+주민등록상 ONRSREG on resident registration 
+ 1인 ONMN one man 
+ 1세대 ONHS one household 
+재직 WHOF while in office 
+ 1통장 ONBB one BANKBOOK 
+창의성 ONAL original 
+ ON ON ON 
+타담보 OMTG Other_mortgage 
+출력자명 OMN_NM oomn_nm 
+ WITH WITH WITH 
+연내 WIYR WITH IN THE YEAR 
+ 52주 WK52 WEEKS 52 
+주별 WKLY weekend type 
+주말 WKND weekend 
+제공 OFFR offer 
+복지 WLFR welfare 
+ OFFER OFFER OFFER 
+자진 WLNG willingness 
+공고 OFCA Official announcement 
+ WM WM W/M LIST 
+용역 SERV service 
+편출 OENT out entry 
+당좌대월 ODRF A OVERDRAFT 
+발급자 ISUE_MN issuer 
+공부상 ODCM_UP official document up 
+코스닥 KSDQ KOSDAQ 
+발급처 ISUE_PLC issue place 
+발행처 ISUE_PLC issue place 
+발행율 ISUE_RT issue_rate 
+ KP KP KOREAN PAPER 
+ KOSPI200 KOSPI200 Korea Composite Stock Price Index 200 
+ KOSPI KOSPI Korea Composite Stock Price Index 
+종별 ITBY BY item 
+항목별 ITBY BY item 
+ KOR KOR KOREA 
+지식 KNOW knowledge 
+목 ITEM item 
+종목 ITEM item 
+국민카드 KMCD kookmin card 
+ KIS KIS KIS 
+ ITEM ITEM ITEM 
+종목명 ITEM_NM item name 
+자녀 KID kid 
+ KEY KEY KEY 
+이자율 ITRR the interest rate 
+소득세율 ITRT income tax rate 
+이해 ITRT interests 
+장려 PROM promtion 
+동산 PROP property 
+구역 DSTR District 
+ DST DST DAYLIGHT SAVING TIME 
+해소 DSSL DISSOLUTION 
+시도 PROV province 
+ PROVISION PROVISION PROVISION 
+설명서 DSCR Description 
+멸실 DSAP disappear 
+제안 PRPS propose 
+취지 PRPS purpose 
+제안자 PRPS_MN propose man 
+재산 PRPT property 
+재산권 PRPT_RGT property right 
+수익율 PRRT profit rate 
+신고수리 DRCP declare receipt 
+프리즘 PRSM prism 
+ DR DR depository receipt 
+ 2후 NX2 2 next 
+신문사명 NWPP_NM a newspaper publishing company 
+신문 NWPP newspaper 
+보호 PRTC protect 
+ NUMBER NUMBER NUMBER 
+중점 PRTY PRIORITY 
+무거래 NTR nothing transaction 
+네트워크론 NTLN Network Loan 
+기 PRVS previously 
+통보처 NTCD notice desk 
+항번 PRVS provision 
+대하 PRXL Proxy loan 
+대납 PRXP Proxy payment 
+당첨자 PRZWNNR PRIZE WINNER 
+ PS PS  
+수기 MEMO memo 
+거래장 PSBK PASSBOOK 
+회원권 MEMB_RGT member right 
+매체 MED medium 
+척도 MEAR measure 
+주당 PSHR per share 
+피공급자 PSLR PASSIVE SUPPLIER 
+우편물 PSMT postal matter 
+매매손 DEAL_LOSS deal  
+ DEAL DEAL DEAL 
+우편번호 PSNO POSTAL NO. 
+증정 PSNT PRESENTATION 
+여권 PSPR passport 
+공부 ODCM official document 
+ OD OD OVERDRAFT 
+ OCR OCR  
+현재가치 PSVL present value 
+수동 PSVT passivity 
+비밀번호 PSWD password 
+의무자명 OBLG_NM an obligator name 
+의무자 OBLG obligator 
+ OBJECT OBJECT OBJECT 
+ OBJ OBJ OBJECT 
+상대방 OBJ object 
+상대 OBJ object 
+목표 OBJ object 
+목적 OBJ object 
+잠재고객 PTCS POTENTIAL COSTOMER 
+보호예수 PTDP a protective deposit 
+ SEQ SEQ SEQUENCE 
+일련번호 SEQ sequence 
+미편입 UN_ENTR un-_entry 
+미도래 UN_ADV un_advent 
+ PURPOSE PURPOSE PURPOSE 
+통합메세지서비스 UM Unified Messaging 
+실업률 UERT an unemployment rate 
+ PUT PUT PUT 
+ PUTTABLE PUTTABLE PUTTABLE 
+미징수 UCOL uncollected 
+계정ID UCID USER CONNECT ID 
+불변 UCHG unchangeability 
+약관 PVS provision 
+수정전B UB UPDATE BEFORE 
+미수금 UAMT uncollected amount 
+수정후B UA UPDATE AFTER 
+ GL GL GENERAL LEDGER 
+총회 GMET general meeting 
+ TWOWAY TW TW 
+주주총회 GMST a general meeting of stockholders 
+타이틀 TTLE TITLE 
+ DQ DQ Diamond Server Query 
+공탁금 DPST Deposit 
+출발 DPRT departure 
+예대 DPLN DEPOSIT_LOAN 
+무역 TRAD trade 
+트레이딩 TRAD Trading 
+ TRADE TRADE TRADE 
+ TRADED TRADED TRADED 
+ TRADER TRADER TRADER 
+ TRADING TRADING TRADING 
+거래후 TRAF transaction after 
+운송 TRAN transportation 
+ TRANS TRANS TRANSACTION 
+ TRANSFER TRANSFER TRANSFER 
+거래전 TRBF transaction_before 
+내분 TRBL TROUBLE 
+거래별 TRBY Transaction BY TRANSACTION 
+현수송 TRCA transportation of cash 
+교통 TRFC traffic 
+전달 DLVR delivery 
+ BUSINESS BUSINESS BUSINESS 
+업무지시 BUSO a business order 
+업무보고 BUSR a business [an opera-tional] report 
+보상금 COMP_MNY compensation money 
+구입 BUY buy 
+ COMMON COMMON COMMON 
+ COMMODITY COMMODITY COMMODITY 
+ BUY BUY BUY 
+매수자 BUY_MN buy man 
+완성도 COML completion 
+상업 COMC commercial 
+ COM COM COMM INVOICE 
+ COLUMN COLUMN COLUMN 
+컬럼 COLM COLUMN 
+ COLLAT COLLAT COLLATERAL 
+전년동월 BYSM BEFORE YEAR SAME MONTH 
+피투자 COIV COMPANY INVESTED 
+년간 BYYY By year 
+코드 C code 
+회사명 CO_NM company name 
+배당락 EXDV ex dividend 
+예상일 EXDY EXPECTED DAY 
+실시 EXEC execution 
+협약 CNVN a convention 
+이행 EXEC execution 
+센터 CNTR center 
+ EXECUTE EXECUTE EXECUTE 
+내용명 CNTN_NM content name 
+외평 EXEQ Exchange Equalization 
+ EXER EXER EXERCISE 
+ EXERCISE EXERCISE EXERCISE 
+배기량 EXHA exhaust 
+수출신용장 EXLC export letter of credit 
+황색 YLW yellow 
+ YIELD YLD yield 
+엔 YEN yen  : 일본의 화폐 단위. 약자: Y  기호 ￥ 
+YEAR YEAR YEAR 
+ EXOT EXOT EXOTIC 
+ EXOTIC EXOTIC EXOTIC 
+상하수도 WTWK Waterworks 
+예상가 EXPC_PR expect price 
+확대 EXPD Expanded 
+부정 WRNG wrong 
+운전 WRKC working [functioning] capital 
+소구 WRCR with recourse 
+ EXPECTED EXPECTED EXPECTED 
+ EXPENSE EXPENSE EXPENSE 
+ EXPIRY EXPIRY EXPIRY 
+설명 EXPL explain 
+경비 EXPN expense 
+ EXPOSURE EXPOSURE EXPOSURE 
+수출자 EXPR exporter 
+의사 DCSN decision 
+지법 DCRT A DISTRICT COURT 
+중단 DCNT DISCONTINEUANCE 
+ FACT FACT FACT 
+사실 FACT FACT 
+시설자금 FACP facilities capital 
+유무 EXST existence 
+존속 EXST existence 
+대상 OBJ object 
+출금주명 OAMT_NM out amount name 
+소멸 EXTC extinction 
+외부거래 EXTD EXTERNAL DEALING 
+대체료율 TFRT transfer fee rate 
+텍스트 TEXT text 
+ TEST TEST TEST 
+ TERMINTN TERMINTN TERMINATION 
+ TERMINAL TERMINAL TERMINAL 
+ TERM TERM TERM 
+ TEMP TEMP TEMP 
+면세 EXTX exemption from taxation 
+기술 TECH technique 
+상품주식 TDS TRADING STOCK 
+제3채무자 TDM third debt man 
+권면 FACE face 
+한은수탁 TBOK trust from bok 
+ AFTER AFTER AFTER 
+연령 AGE age 
+ TAMS TAMS TOTAL ASSET MANAGEMENT SYSTEM 
+ AGMT AGMT agreement 
+ TAG명 TAG_NM TAG name 
+대리 AGNC agency 
+대행사 AGNC Agency 
+주선 AGNC agency 
+부의 REFE refer to 
+대리인 AGNT Agent 
+재환전 REEX REEXCHANGE 
+ REDUCTN REDUCTN REDUCTN 
+요원 AGNT agent 
+동의 AGR agreement 
+유예 DLAY delay 
+ DIVIDEND DIVIDEND DIVIDEND 
+합의자 AGR_MN man of agreeing about something 
+동의서 AGR_SH agreement sheet 
+ DISPOSAL DISPOSAL DISPOSAL 
+전자토론 DISE electron discussion 
+ DISCOUNT DISCOUNT DISCOUNT 
+ ALLINCOST AIC ALL_IN_COST 
+지원 AID aid(support) 
+항공 AIR air 
+ ALLINYIELD AIY ALL_IN_YIELD 
+순번 SEQ sequence 
+대손충당금 ALBD allowance for bad debts 
+서울시 SEOUL SEOUL 
+발신자 SEND_MN the sender 
+발송자 SEND_MN a sender 
+ ALIGN ALIGN ALIGN 
+매도자 SELL_MN sell man 
+전부 ALL all 
+자기 SELF self 
+봉함예수 SELA a closedseal articles 
+ SEC SEC SECURITY 
+ ALLOC ALLOC ALLOCATION 
+ ALLOW ALLOW ALLOW 
+승계 SCSN SUCCESSION 
+ ALM부 ALMBR ALM BRANCH 
+배점 ALMK the allotment of marks 
+ ALO ALO ALO 
+비밀 SCRT secret 
+화면 SCRN screen 
+책정 ALOT allot 
+누진 SCPM successive promotion 
+특약 SCON special contract 
+경보 ALRM alarm 
+배당율 ALRT allot rate 
+ SCHEDULE SCDL SCHEDULE 
+제가입 ALSB all subscript 
+ ALTERNATE ALTER ALTER 
+ KBP KBP KBP (KOREA BOND PRICING) 
+오전 AM before noon 
+ JUNK JUNK JUNK 
+세션 SESSION SESSION 
+ SESSION SESSION SESSION 
+재판 JUD judgment 
+분개 JRNL journalize 
+설정자 SET_MN setting man 
+직업명 JOB_NM job name 
+ SETTLE SETTLE SETTLE 
+ SETTLER SETTLER SETTLER 
+직업 JOB job 
+ ABOUT율 ABRT about rate 
+비정상 ABNL abnormal 
+갑을 AB AB 
+ SFL SFL SPREAD FOR LIFE 
+안전 SFTY safety 
+단독 SG single 
+ 9월물 9M 9M 
+ 91일물 91DT 91 DAY TERM 
+세분화 SGMT SEGMENTATION 
+시그널 SGNL signal 
+ 6월물 6M 6M 
+ 5월물 5M 5M 
+ 4월물 4M 4M 
+ SIGHT율 SGRT sight rate 
+ 14일물 2W 2Week 
+ SHADOW SHADOW SHADOW 
+ 1년물 1Y 1Y 
+견징어음 SHBL SHOW BILL 
+ SHELF SHELF SHELF 
+ 1일물 1D 1 DAY 
+ REVERSE REVERSE REVERSE 
+선박 SHIP ship 
+선박명 SHIP_NM SHIP NAME 
+선박지 SHIP_PLC ship place 
+공유메모리 SHM SHARED MEMORY 
+ RESPNSBL RESPNSBL RESPONSIBLE 
+ RESET RESET RESET 
+ SHORE SHORE SHORE 
+ SHORT SHORT SHORT 
+주민 RES resident 
+제시 SHOW show 
+보고 REPT report 
+ REPORT REPORT REPORT 
+ REPO REPO REPURCHASE AGREEMENT 
+ REPAY REPAY REPAY 
+반제 REPAY repay 
+미달 SHRT shortage 
+대표 REP represent 
+공매도 SHSL Short Sale 
+ REMARK REMARK REMARK 
+증권투자신탁 SI Security Investment Trust 
+비중 RELI relative importance 
+ SID SID SID 
+ RELATION RELATION RELATION 
+부호 SIGN sign 
+관련인 REL_MN Related person 
+ REL REL RELATED 
+ REGIST REGIST REGISTRATION 
+ REGION REGION REGION 
+등기소 REGF registry office 
+ REG REG REGISTRATION 
+ SITE SITE SITE 
+ TOTAL TOTAL TOTAL 
+총면적 TOT_AREA total area 
+ SIZE SIZE SIZE 
+일괄 TOT total 
+금차 TORD THIS ORDER 
+스킨 SKIN skin 
+ TOD TOD TODAY 
+ TO TO to 
+회전대 TNLN turn loan 
+개봉예수 UNSA unseal articles 
+ TOM TMRW tomorrow 
+수신자 RECV receiver 
+명목 NMNL nominal 
+명의자 NMPER a nominal person 
+접수자 RECP_MN receipt man 
+수령액 RECP_AMT receipt amount 
+ NO NO NUMBER 
+ RECORD RECORD RECORD 
+ RECON RECON RECONCILIATION 
+무담보 NO_MRTG no mortgage 
+ RECEIVER RECEIVER RECEIVER 
+ NOA NOA NOA 
+기록 REC record 
+ NOMINAL NOMINAL NOMINAL 
+정규 NOML normal 
+ REALIZED REALIZED REALIZED 
+ NON NON NON 
+비영리법인 NON_PRFC non profit corporation 
+재처리 RE_PROC reprocess 
+재발행 RE_ISUE re_issue 
+비영업일 NON_SDAY NON BUSINESS DAY 
+재가입 RE_ENTR reentrance 
+ NORMAL NORMAL NORMAL 
+ NOSESS NOSESS NOSESSION 
+ NOSTRO NOSTRO NOSTRO 
+전결 ARVD arbitrary decision 
+지역번호 ARNO AREA NUMBER 
+정리 ARNG arrange 
+군대 ARMY army 
+예고 NOTC notice  a (previous) notice  통보(NOTI)와 같음 
+MARGIN MARGIN MARGIN 
+ AREA AREA AREA 
+영역 AREA area 
+고지 NOTI notify 
+ ARS공동망 AR Auto Response System 
+약관상 APVS according to the provisions 
+아파트 APT apartment  
+ APPROVAL APPROVAL APPROVAL 
+ APPLY APPLY APPLY 
+통지처 NOTI_PLC NOTICE PLACE 
+상소 APPE appeal 
+ NOTIFY NOTIFY NOTIFICATION 
+ NOTIONAL NOTIONAL NOTIONAL 
+ NOTL NOTL NOTIONAL 
+임직원 APEM appointment employee 
+신청자 APCT applicant 
+연간 ANUL annual  for the year 
+답변 ANSW answer 
+ ANNOUNCE ANNOUNCE ANNOUNCEMENT 
+국민연금 NPEN National Pension 
+발표 ANNC ANNOUNCEMENT 
+공지 ANNC ANNOUNCE 
+ NPV NPV NET PRESENT VALUE 
+공지사항 ANIT the(items of) official ANNOUNCEMENT 
+액 AMT amount 
+정상화 NRML normalization 
+국세 NTAX National Tax 
+감정료 JFEE judggment fee 
+감정서 JDSH judgment sheet 
+판결 JDGM judgment 
+대상자 TRGP Target person 
+법무 JAFF judicial affairs 
+절사 TRIM trim 
+투자주식 IVS INVESTMENT STOCK 
+출장 TRIP trip 
+이종통화 DFTY_CUR different type currency 
+이종 DFTY different type 
+ DEFAULT DFLT DEFAULT 
+거래자 TRMN Trader (Man) 
+기기 DEVC Device 
+ DETAILS DETAILS DETAILS 
+ DETAIL DETAIL DETAIL 
+ 1회전 TRN1 1 turn 
+ TRANCHE TRNC tranche 
+공탁 DEPS deposit 
+성향 TRND trend 
+ DEPO DEPO  
+공탁처 TRNS Trust institution 
+예탁처 DEP_PLC deposit place 
+이송 TRNS transportation 
+양도인 DELV_MN delivery man 
+수탁사 TRSC trust company 
+송달 DELV delivery 
+환적 TRSH transhipment 
+ DELTA DELTA DELTA 
+딜러 DELR dealer 
+ DELIVERY DELIVERY DELIVERY 
+ DELIVER DELIVER DELIVERABLE 
+수탁고 TRST_AMT TRUST AMOUNT 
+수탁보증 TSGR trust  guarantee 
+ TRUNCATE TRUNCATE TRUNCATE 
+임차인 HIRE_MN hire man 
+ HIGH HIGH HIGH 
+고등학교 HGSH HIGH SCHOOL 
+보조 HELP help 
+머리말 HEDE header 
+난방 HEAT heating 
+ HEADER HEADER HEADER 
+ HANDLING HDLN HANDLING 
+ HAIRCUT HAIRCUT HAIRCUT 
+전자결재 GW electronic confirmation 
+ PER PER PER 
+ PENULT PENULT PENULT 
+ PEG PEG PACK LIST 
+ DELAY DELAY DELAY 
+도급 CNTC contract 
+대사 CNST contrast 
+자문 CNSL consultation 
+상담 CNSL counsel 
+수하인 CNSG CONSIGNEE 
+접면 CNSF a contact surface. 
+배달 DELV delivery 
+연계 CNCT connection 
+수도 DELV delivery 
+관심 CNCR concern 
+통근 CMTT COMMUTATION 
+상권 CMRG commercial rights 
+전산 CMPT computer 
+명령문 CMD COMMAND 
+담보물 CLTR collateral 
+ 3종 CLS3 3TH CLASS 
+ 1종 CLS1 1TH CLASS 
+마감후 CLS_AF CLOSE AFTER 
+ CLOSING CLOSING CLOSING 
+예치금 DEP_AMT deposit_amount 
+제출자명 PRMN_MN present man name 
+제출자 PRMN present man 
+프리미엄 PRMM premium 
+예금주 DEPO deposit owner 
+주차장 PRKLT parking lot 
+가액 PRIC Price 
+ DEPOSIT DEPOSIT DEPOSIT 
+수익권 PRFT_RGT profit right 
+영리 PRFM a profit-making 
+ DERIVATIVE DERIVA DERIVATIVE 
+ DESC DESC DESC 
+소속사명 BLCO_NM EMNO 
+소속사 BLCO belonged company 
+ BLOCK BLCK BLOCK 
+법상 BLAW BASE FROM LAW 
+ BL BL Bill of Letter 
+선하증권 BL Bill of Landing(선하증권) 
+자기앞수표 BKCK a bank[banker's] check 
+결손금 DFCT Deficit 
+ BIC BIC  
+선후 BGND BEGIN AND END 
+사전B BFH BEFOREHAND 
+ 2전 BF2 2 before 
+ BETA BETA BETA 
+전일 BDD before day 
+채권관리 BD BonD management 
+ BATCH BATCH BATCH 
+ BASIC BASIC BASIC 
+기본 BASE base 
+ BARRIER BARRIER BARRIER 
+매입가 BAMT buy amount 
+ BALANCE BALANCE BALANCE 
+잔금 BAL_AMT balance amount 
+ CLEARING CLEARING CLEARING 
+당대할어 CLDB a current account loan  discount bill 
+관 CLAS class 
+폐기 DUSE disuse 
+납기 DUED Due date 
+ WEEKDAY WEEKDAY WEEKDAY 
+평당 PYDA pyung dang 
+의결권 VTRT Voting Right 
+검증값 VRFC_VAL verification value 
+휴가 VOC vocation 
+소진 VNSH vanishing 
+ VALUE VLUE VALUE 
+ VERSION VERSION VERSION 
+ VERIFIED VERIFIED VERIFIED 
+기가입 PREE previously enter 
+기징수 PRE_COLL pre-collection 
+ PRE PRE PREFIX 
+법무사 JADV judge advocate 
+절차명 PRC_NM process name 
+장애 PRBL problem 
+입행 JBNK joining [entering] a bank 
+ NEW NEW NEW 
+숫자 NMBR number 
+수입자 IMPR importer 
+수입신용장 IMLC import letter of credit 
+이미지 IMGE IMAGE 
+무시 IGNORE IGNORE 
+인터넷지로 IG Internet Giro 
+유입 IFLW inflow 
+ TORDLS IDX INDEX 
+색인 IDX INDEX 
+이념 IDEA idea 
+ AMORT AMORT AMORT 
+ AMOUNT AMOUNT AMOUNT 
+ IA IA INDEX AMORTZING 
+한글파일 HWP HWP 
+단지 HUSA housing area  
+세대별 HSHDBY by household 
+호실 HROM ho room 
+심급 HRCL hearing class 
+항구 HRBR harbor 
+년차 ANL annual 
+ VAL VAL VALUATION 
+불건전 USND unsound 
+ USANCE USNC usance 
+선고 ANNC announcement 
+유저ID USID USID 
+사용자ID USID USER IDETIFIER 
+유용성 USFL USEFUL 
+사용자명 USER_NM a user name 
+백분율 PCTG PERCENTAGE 
+ PICKLIST PCLT PICKLIST 
+공공 PBLC PUBLIC 
+ PBE PBE PRIMARY BUSINESS ENTITY 
+납부서 PAY_SH PAYMENT SHEET 
+지급지 PAY_PLC pay place 
+신청인명 APLC_NM applicant name 
+납입 PAY pay 
+공매가 PAUC_PR PUBLIC AUCTION price 
+가압류 PATT provisional attachment 
+통관 PASS pass 
+ PARTY PARTY PARTY 
+ PARTIC PARTIC PARTICIPANT 
+첨부 APND append 
+ PAGE PAGE PAGE 
+발령 APNT appointe 
+ OWNER OWNER OWNER 
+자기자본금 OWNE owner's equity 
+ APPLIED APPLIED APPLIED 
+총괄 OVRL overall 
+대월 OVRD overdraft 
+ OUTSTANDING OUTSTND OUTSTANDING 
+당방 OUR our 
+ OTHER OTHER OTHER 
+타사 OTCO OTHERS COMPANY 
+ ORIGINAL ORIGINAL ORIGINAL 
+한도관리 LM LIMITS MANAGEMENT 
+내국신용장 LLC local letter of credit 
+ LIST LIST LIST 
+목록 LIST list 
+ LIQUID LIQUID LIQUIDATION 
+에어컨 ARCD air conditioner 
+국민 PPL people 
+ PAYOUT POUT PAYOUT 
+ POSTING POSTING POSTING 
+ POST POST POST 
+ POSITION POSITION POSITION 
+지위 POS position 
+요지 PONT Point 
+국번 POFN a telephone office number 
+사서함 POB a post-office box 
+표기 MARK MARK 
+필명 PNM PEN NAME 
+ PNL PNL PROFIT AND LOSS 
+민관 PNGV the people and the government 
+할증율 PMRT premium rate 
+계획서 PLSH Planning document (Sheet) 
+경찰 PLCE police 
+장소명 PLC_NM place name 
+일정 PLAN plan 
+계획 PLAN plan 
+변론 PLAD pleading 
+ PLACE PLACE PLACE 
+ PL PL PROFIT/LOSS 
+주차대수 PKCT parking count 
+ PK PK Primary Key 
+성과관리 PI PI 
+배치 ASGN assign 
+지정 ASGN assign 
+ 3차 ORD3 THIRD ORDER 
+ 3순위 ORD3 3 ORDER 
+ CITY CITY CITY 
+본건 CIP Case In Process 
+부담 BRDN burden 
+점별 BRBY by branch 
+부점별 BRBY BY BRANCH 
+지점명 BR_NM branch name 
+양면 BOTH both faces ( debit and credit ) 
+ BOND BOND BOND 
+재책정 RE_ALOT reallot 
+대차 BNC debit and credit 
+무역수지 BLPY BALANCE OF PAYMENTS 
+소속 BLNG belong 
+재발급 RE_ISUE re-_issue 
+비고 RMRK remarks 
+복기 RMRK recover a mark 
+상환청구 RMBC reimbursement claim 
+재매각 RE_SELL re_sale 
+할증료 PFEE PREMIUM FEE 
+재정자금 PFCP public finance capital 
+ REAL REAL REAL 
+인원 PERS 인원수〕 the number of persons 
+ PERIOD PERIOD PERIOD 
+ PERCENT PERCENT PERCENT 
+ REASON REASON REASON 
+ EXCEPT EXCEPT EXCEPT 
+ REBATE REBATE REBATE 
+계속 CON continue 
+통제실 CTLR CONTROL ROOM 
+ NICE NICE NICE 
+ NIGHT NGHT night 
+ RECEIVE RECEIVE RECEIVE 
+불원 NF not far 
+ NEXT NEXT next 
+ RECLAIM RECLAIM RECLAIM 
+다음 NEXT next 
+ CSS CSS CSS 
+수납 RECP receipt 
+ NETTING NETTING NETTING 
+매입추심 NEGO  
+네고 NEGO negotiate 
+소요 NEED need 
+완료율 CRAT completion rate 
+접수처 RECP_PLC receipt place 
+접점 CPNT contact point 
+총수령액 RECP_TAMT receipt total amount 
+부부 CPL couple 
+소비자물가지수 CPI the consumer[consumers'] price index 
+사채 CPBN a corporate [company] bond 
+ COVER COVR COVER 
+ COUNTER COUNTER COUNTER 
+지문 COTT Content 
+컨텐츠별 COTB By Contents 
+기업우량정보 COSI Company Super Information 
+주민세율 RTRT residence tax RATE 
+퇴임 RTRM retirement 
+합리화 RTNL RATIONALIZATION 
+ RESTORE RSTR RESTORE 
+지준 RSRV reserved 
+재원 RSRC resources 
+자원 RSRC resource 
+잔존 SRV survival 
+환수 TNIN turn in 
+ SRC SRC SOURCE 
+제곱미터 SQMT square meter  
+ SQL SQL SQL 
+운동 SPTS SPORTS 
+지배인 SPTD superintendent 
+배우자 SPS spouse 
+부양 SPRT support 
+괴리율 SPRT SEPARATION RATE 
+괴리 SPRT SEPARATION 
+공구 TOOL Tools 
+현장 SPOT spot 
+현물 SPOT spot 
+납품 SPLY SUPPLY 
+공급 SPLY supply 
+공급자 SPLR SUPPLIER 
+합산 TOT total 
+투기 SPCL SPECULATION 
+별단 SPCL a special 
+실입금 RL_IAMT real in amount 
+ USER USER USER 
+환출 TOUT turn out 
+용도지역 USE_DIST use district 
+ USB USB UNIVERSAL SERIAL BUS 
+미수수익1 URP1 un-receive PROFIT 1 
+ URL URL URL 
+부적격 UQLF un qualified 
+ UPFRONT UPFR UPFRONT 
+수정후 UPDT_AF correction after 
+갱신 UPDT Update 
+ UPDATE UPDATE UPDATE 
+ UP UP UP 
+잔여채권 RCLM REMAINED CLAIM 
+ RATE RATE RATE 
+질문 QUES question 
+질의 QSTN QUESTION 
+적격 QLFC qualification 
+지방채 LCBD local bond 
+법 LAW law 
+ RELATED RELATED RELATED 
+ CONVERT CONVERT CONVERT 
+ RELATIVE RELATIVE RELATIVE 
+공사B CONS construction 
+건설 CONS construction 
+ REMAIN REMAIN REMAINING 
+ CONFIRM CONFIRM CONFIRM 
+선호 LIKE like 
+ LIABILITY LIABILITY LIABILITY 
+임대B RENT rental 
+리스금융 LESF lease finance 
+ LENDER LENDER LENDER 
+ LEGAL LEGAL LEGAL 
+ REPRESENTATIVE REP REPRESENTATIVE 
+본적 LEDO one’s legal domicile 
+ LEDGER LEDGER LEDGER 
+리스 LEAS lease 
+원장 LDGR ledger 
+말일 LDD the last day 
+자격 LCNS license 
+ FLOAT FLOAT FLOAT 
+분야 FLD field 
+물권 RERI real right  
+ FIXED FIXED FIXED 
+근저당 FIXD_CLTR fixed collateral 
+ RESCHEDULE RESCH RESCHEDULE 
+ RESERVE RESERVE RESERVE 
+ FEES FEES FEES 
+요소 FCTR factor 
+의제 FCTN fiction 
+시설재 FCLM facilities material 
+ foreigncurrencyholdings FCHD foreign currency holdings 
+외환보유고 FCHD foreign currency holdings 
+단기운영자금 SOCP shorterm operation capital 
+ RESTRICT RESTRICT RESTRICT 
+사회간접자본시설 SOC 사회간접자본 
+사회 SOC society 
+송신자 SNDR sender 
+세금우대정보관리 TM TAX-CUT Information Management 
+전신전화 TLPH TELEGRAPH & (TELE)PHONE 
+특기 TLNT talent 
+퇴직 RETR retire 
+ TIMING TIMING TIMING 
+퇴직금 RETR_AMT retirement amount 
+ TIMER TIMER TIMER 
+ REVAL REVAL REVALUATION 
+시기 TIME time 
+ TICKET TICKET TICKET 
+ TICKER TICKER TICKER 
+외상매출 TICK TICK 
+ THEIR THR their 
+ 1월물 1M 1M 
+ 7일물 1W 1Week 
+이론 THEY theory 
+ 2월물 2M 2M 
+신디케이트 SYND syndicate 
+ 3월물 3M 3M 
+소프트웨어 SW SOFTWARE 
+군 GRP group 
+부여 GRNT grant 
+ 7월물 7M 7M 
+ 8월물 8M 8M 
+변경후 CHNG_AF CHANGE_AFTER 
+담당자명 CHMN_NM Officer in charge (Man)_name 
+ CHILD CHILD CHILD 
+ A1등급 A1RT A1 RATE 
+ A2등급 A2RT A2 RATE 
+ A3등급 A3RT A3 RATE 
+증서 CERT certificate 
+ CER CER CERT ORGIN 
+신용공여 CDGT CREDIT & GRANT 
+ CCY CCY CURRENCY 
+신용카드 CCRD credit card 
+도급공사 CCNS contract construction 
+펌뱅킹 FB firm banking 
+ FAX FAX fax 
+가족 FAM family 
+가계 FAM family 
+하락율 FALL_RT FALL_RATE 
+거치전 DEFR_BF deferred_before 
+ DEFINED DEFINED DEFINED 
+신고 DECL declare 
+ EX EX EX 
+행사 EVNT event 
+이벤트 EVNT EVENT 
+사건 EVNT event 
+평가손실 EVLS evaluation loss 
+ JOB JOB JOB 
+직업군 JOB_GRP job group 
+ EUC EUC End User Computing 
+위탁처 ETRO entrust office 
+ ETC3 ETC3 ETC3 
+ ETC2 ETC2 ETC2 
+주니어 JR junior 
+ ET ET entertainment 
+부동산 ESTT estate 
+예상조 ESTM an estimated amount 
+설립 ESTB establishment 
+전자서명 ESGN ELECTRONIC SIGNS 
+ EQUIV EQUIV EQUIVALENT 
+설비 EQPM equipment 
+재판부 JUD_DEPT judgment department 
+감정가 JUD_PR judgment price 
+가입번호 ENO enter number 
+정당 JUST just 
+부종목 SUB_ITEM sub item 
+통계 STTS statistics 
+ STRUCT STRUCT STRUCTURE 
+ 2순위 ORD2 2 ORDER 
+ 1차 ORD1 FIRST ORDER 
+자카드 KCRD KID card 
+차수 ORD order 
+ SECOND SND SECOND 
+유사물건시세 SMLR_GODS_PR similar goods price 
+절세 SM_TAX small tax 
+임금 SLRY salary 
+전표 SLIP slip 
+반환액 RSND_AMT return send amount 
+결의 RSLU A RESOLUTION 
+ RESOURCE RSC RESOURCE 
+요구 RQST request 
+요청서 RQSH Request Sheet 
+ RPT RPT REPORT 
+탈퇴 SCDE SECEDE 
+보수B RPR repair 
+성적표 RPCD a report card 
+ ROUNDING ROUNDING ROUNDING 
+ ROLLOVER ROLLOVER ROLLOVER 
+ ROLE ROLE ROLE 
+특수채권 SCLM special claim 
+권리락 ROFF right off 
+단위명 UNNM Unit Name 
+권리자명 RGMN_NM Right holder (Man) name 
+권리 RGHT right 
+계열주 AFCH affiliate chief 
+후순위 AF_ORD after order 
+매수B SCNT sheet count 
+ ADVANCE ADVANCE ADVANCE 
+내도 ADV advent 
+부가세 ADTN_TAX addition_tax 
+부가 ADTN addition 
+가산율 ADRT addition rate 
+주소2 ADR2 address1 
+학력 SCRE school career 
+미달러 ADOL against dollar 
+인정 ADMT ADMIT 
+부기 ADMK additional remark 
+ ADJUST ADJUST ADJUSTMENT 
+조정 ADJ adjust 
+증권 SCRT securities 
+통화안정 SCRY the stabilization of currency 
+성공 SCS success 
+조치 ACTN action 
+ ACTION ACTION ACTION 
+ ACT ACT ACTUAL 
+획득 ACQT acquisition 
+날인 SEAL seal 
+인감 SEAL seal 
+ ACCRUED ACCRUED ACCRUED 
+ ACCRUAL ACCRUAL ACCRUAL 
+행위능력 ACCP action capacity 
+ ACCOUNT ACCOUNT ACCOUNT 
+장부 ACCB account book 
+구좌 ACC account 
+배서 ENDR ENDORSE 
+말입 ENDI END INCLUDE 
+ EMTN EMTN Euro MTN 
+고용 EMPL employ 
+ ELEMENT ELEMENT ELEMENT 
+전자 ELEC Electronic 
+전자금융공동망 EL ELECTRONIC BROADCASTING SYSTEM 
+금전채권신탁 MBTR MONEY BOND TRUST 
+계속성 CTIN continuation 
+ SELL SELL SELL 
+커스터디 CT CUSTODY 
+컨소시엄 CSTM consortium 
+선임 SEN senior 
+서화 ART art 
+현금흐름 CSFL cash flow 
+법원 CRT court 
+ CORRES CRS Corres 
+ CROSS CROSS CROSS 
+ CREATE CREATE CREATE 
+정정 CRCT correction 
+마일리지 MLGE mileage 
+ SEPARATE SEPARATE SEPARATE 
+ MKT MKT MARKET 
+병역 MITS Military Service 
+마이너스 MINU MINUS 
+ MIN MIN MINIMUM 
+주보험금 MIMN MAIN PART INSURANCE MONEY 
+ MICR MICR  
+피합병 MGRD mergered 
+ DIRECTN DIRECTN DIRECTION 
+방향 DIRT DIRECTION 
+ DIRTY DIRTY DIRTY 
+미사용 UN_USE un use 
+토론 DIS discussion 
+ OPTION OPTION OPTION 
+임의단체 OPTG option group 
+조작자 OPRT_MN operation man 
+조작 OPRT operation 
+운용 OPR operate 
+이의 DISS DISSENT 
+타익 OPFT others profit 
+분포 DIST distribution 
+운영자금 OPCP operate capital 
+개점 OPBR Opening of Branch 
+자행 ONSB oneself bank 
+ 1회 ONCE once 
+출력자 OMN output operator (man) 
+노인 OMAN Old MAN 
+기관명 OGNM Organization Name 
+제공자 OFMN OFEER MAN 
+ OFFSET OFFSET OFFSET 
+ OFFICIAL OFFICIAL OFFICIAL 
+적색 RED RED 
+ REDEMPTN REDEMPTN REDEMPTION 
+피평가 OEST other estimate 
+ ODD ODD ODD 
+증권예탁원 KSD Korea securities depository 
+증권전산 KSC Korea Securities Computer Corp 
+ KRW KRW KRW 
+ REF REF REFERENCE 
+ KOREA KOREA KOREA 
+한글명 KNM korean name 
+참고 REFR reference 
+ REFUND REFUND REFUND 
+ TAG TAG EDI TAG  SWIFT TAG 
+한국전력공사 KEPC korea electric power corporation 
+꼬리말 TAIL tail 
+ KEEPING KEEPING KEEPING 
+산은노조 KEBL KDB labor union 
+배분 DSTR distribution 
+할인분 DSPT DISCOUNT PART 
+발신 DSPT dispatch 
+불리 DSAD disadvantage 
+파생상품 DRTS DERIVATIVES 
+듀레이션 DRTN DURATION 
+ TARGET TARGET TARGET 
+ DRF DRF DRAFT 
+지시서 DRCT direction 
+ DRAWDOWN DRAWDOWN DRAWDOWN 
+공동망 NW network 
+ TAX TAX TAX 
+통보처명 NTCD_NM notice desk name 
+우편료 MFEE mail fee 
+ METHOD METHOD METHOD 
+메뉴 MENU MENU 
+ MENTION MENTION MENTION 
+ MEMO MEMO memo 
+비망 MEMO memo 
+ MODEL MDL MODEL 
+매매익 DEAL_PRFT deal profit 
+거래가 DEAL_PR deal price 
+여행자수표 TC traveler's check 
+일계 DDAC daily account 
+ 6일 DD6 6일 
+직종 OCPT a type of occupation 
+직군 OCPG occupation group 
+행외 OBNK outer bank 
+서비스 SERV service 
+ SERIES SERIES SERIES 
+미성년자 UMAN Under Age MAN 
+이용료율 UCRT use charge rate 
+미확인선순위공제 UCPD un-confirm pre order deduction 
+전화 TEL telephone 
+ TYPE TYPE TYPE 
+ TEXT TXT TEXT 
+거래세율 TTRT trading tax_rate 
+사본 DPLC duplicates 
+ DP DP documents against payment 
+ DOUBTFUL DOUBTFUL DOUBTFUL 
+법정동 DONG legal Dong 
+동 DONG Dong 
+ DOMESTIC DOMESTIC CONVENTION 
+워드파일 DOC DOC 
+권종별 DNTP denomination type 
+만원권 DNMN denomination 
+훼손 DMG damage 
+내국환 DMEX DOMESTIC EXCHANGE 
+수요량 DMDQ demand quantity 
+수요 DMD demand 
+연체율 DLY_RT delay rate 
+연체이자 DLY_INT delay interest 
+인도 DLVR delivery 
+딜링 DLNG Dealing 
+ COMPARE COMPARE COMPARE 
+복합 COMP composition 
+당사 THCO this company 
+공동 COMM common 
+ THE THE THE 
+기업정보 COIF company information 
+ CODE CODE CODE 
+사업체 CO company 
+내용년수 CNYS content years 
+환가 CNVS conversion 
+출연 CNTR contribution 
+대책 CNTP counterplan 
+ CONTROL CNTL CONTROL 
+ ZONE ZONE ZONE 
+ FACE FACE FACE 
+시설 FACL facilities 
+ YTM YTM YIELD TO MATURITY 
+ XFER XFER TRANSFER 
+금외 XCSH except cash 
+작가 WRTR writer 
+피보증인 WRNT A WARRANTEE 
+근무지명 WPNM work place name 
+연외 WOYR WITH OUT THE YEAR 
+작업 WORK work 
+근무 WORK work 
+근로 WORK work 
+ 25일 DD25 25일 
+예수세 DCTX deposit and collection tax 
+ SWING SWNG SWING 
+물품명 GNM goods name 
+변경명 CHNG_NM change name 
+주관처 CHF_PLC chief place 
+총계정원장 TA total accounts ledger 
+ CHAR CHAR CHARACTER 
+성격 CHAR character 
+ IB IB INTERNET BANKING 
+신주 NEW_STCK new stock 
+제3자 THPT third party 
+선방 THR their 
+순수신 PRDP PURE DEPOSIT 
+취임 IAGR inauguration 
+ TIME TIME TIME 
+ TIMESTMP TIMESTMP TIMESTAMP 
+ EVENT EVENT EVENT 
+증빙서 EVDC EVIDENCE 
+제목명 TIT_NM title name 
+ ETC1 ETC1 ETC1 
+사회적 SOC society 
+익스포져 EP EXPOSURE 
+편입전 ENTR_BF ENTRY BEFORE 
+영문명 ENNM an English name 
+선입 FI FIRST IN 
+ 1순위 ORD1 1 ORDER 
+운송장 WAYB waybill 
+찾기 FIND FIND 
+융자약정 LNCT loan contract 
+ FL FL FLOOR 
+보고서명 RPRT_NM report_name 
+ LEG LEG LEG 
+역할 ROLE role 
+대량 LG large 
+조정후 AF_ADJ after adjust 
+법인등록번호 CONO corporation registration number 
+주소1 ADR1 address1 
+행정구역 ADDT administrative district 
+ ADDON ADDON ADDON 
+ ACTUAL ACTUAL ACTUAL 
+계약자 CONT_MN contract man 
+거액 LAMT large amount 
+정리채권 ACLM ARRANGE CLAIM 
+ ACCT ACCT ACCOUNT 
+유산스 USNC usance 
+커스터디안 CTDN CUSTODIAN 
+보통주 CSTK a common stock; (英 
+마케팅 MKTN MARKETING 
+ UNCONFIRM UNCONFIRM UNCONFIRM 
+ UNASSIGNED UNASIGN UNASSIGNED 
+미회수 UN_WDRW un_withdraw 
+자사 ORCO OUR COMPANY 
+ BIS BIS Bank for International Settlement 
+상대처 OPP opposite 
+사용권 USE_RGT use_right 
+ OPEN OPEN OPEN 
+ PAY PAY PAY 
+ PREPAID PREPAID PREPAID 
+영리법인 PRFC profit corporation 
+지불게이트웨이 PG Payment Gateway 
+ OFF OFF OFF 
+ OF OF OF 
+상가 SPCT shoping center 
+일시불 PALS payment in a lump sum 
+ KOREAN KOREAN KOREAN 
+유형별 KNBY kind_BY 
+ SPOT SPOT spot 
+순여신 PRLN PURE LOAN 
+플러스알파통장 PABB plus alpha bank book 
+ KIND KIND KIND 
+유형 KIND kind 
+한국수출보험공사 KEIC KOREA EXPORT INSURANCE CORPERATION 
+소유권 OWN_RGT own_RIGHT 
+허가 PRMS permission 
+주위 SRRN surroundings 
+년월일 YYMMDD YEAR MONTH DAY 
+ NUM NUM NUMBER 
+핸드폰번호 CPNO cellular phone number 
+협조 CPRT cooperation 
+기한전 DDAY_BF deadline day 
+송화인 CSGR consignor 
+익 NEXT next 
+서수 ORDN an ordinal 
+ LINK LINK LINK 
+수출환어음매입 EXBL EXPORT EXCHANGE BILL BUY 
+ UBI UBI Ubiquitous Banking Interface 
+ EXCH EXCH EXCHANGE 
+연결 CNCT connection 
+접속 CNCT connection 
+예측 PEST PRE-ESTIMATE 
+ RELAY RLAY RELAY 
+제거 RMV REMOVE 
+접촉 CNTC contact 
+혜택 BNFT benefit 
+ 7년 YYS7 7 YEARS 
+추심후 COLL_AF collect after 
+평형 PNTP pyung type 
+운전면허 DRLI driver's license 
+야간 NGHT night 
+ COMM COMM COMMISION 
+본인 PRHS person himself 
+시행자 ENFR_MN enforcement man " 사업 시행자  건설 시행자  운영 시행자 "
+확률 PRBL probability " 요율 비율 "
+이익율 PFRT profit rate " 요율 비율 "
+전환율 CVRT conversion RATE " 요율 비율 "
+청구율 AKRT ask (demand) rate " 요율 비율 "
+환산율 CNRT conversion rate " 요율 비율 "
+경락율 ACTO_RT auction off_rate 20000312
+발행인 ISUE_MN issue_man 20000327
+본문 TEXT TEXT AB
+감사정보 AI 감사정보 AI
+수발 RNS RECEIVE AND SEND AI(수발)
+명령 COM COMMAND AI(최은주)
+일보 DRPT DAILY REPORT AI(최은주)
+경감 RDCT REDUCTION AI(최은주)
+지적 INDC INDICATION AI(최은주)
+수감 TADT TAKING AUDIT AI(최은주)
+양정 JDGT JUDGEMENT AI(최은주)
+회보 RPLY REPLY AI(최은주)
+감경 RDCT REDUCTION AI(최은주)
+계약관리 CM CONTRACT MANAGEMENT BA
+약물 DRUG DRUG BA
+연속 CSET consecutive BA
+상병 SKWN THE SICK AND WOUNDED BA
+병원명 HSNM HOSPITAL NAME BA
+복잡 CPLX COMPLEX BA
+정년 RTAG RETIREMENT AGE BA
+유지율 KPRT KEEP RATE BA
+일시금 LUMP LUMP BA
+공지거리 VCDS VACANT LAND DISTANCE BA
+건별 MTBY MATTER BY BA
+다른 DIFF different BA
+복식 DENT DOUBLE ENTRY BA
+의료 MEDL medical BA
+ 15회차 T015 15TH TURN BA
+통원 VHTL visit hospital BA
+연계관리 IF INTERFACE MANAGEMENT BA
+ 12회차 T012 12TH TURN BA
+ 11회차 T011 11TH TURN BA
+ 10회차 T010 10TH TURN BA
+ 9회차 T009 9TH TURN BA
+패키지 PCKG PACKAGE BA
+ 8회차 T008 8TH TURN BA
+ 7회차 T007 7TH TURN BA
+ 6회차 T006 6TH TURN BA
+상품별 GDBY GOODS BY BA
+ 4회차 T004 4TH TURN BA
+ 3회차 T003 3ND TURN BA
+ 14회차 T014 14TH TURN BA
+ 2회차 T002 2ND TURN BA
+ 1회차 T001 1ST TURN BA
+장해 OBST obstacle BA
+비가계 NFAM NON FAMILY BA
+부위 REGN region BA
+이수 CMPL COMPLETE BA
+무효 NLTY nullity BA
+판매지원 SA SALES ASSISTANCE BA
+재정설계 FA FINANCIAL NEEDS ANALYSIS BA
+주보험료 MIFE MAIN PART OF INSURANCE FEE BA
+원수 ACPT ACCEPTANCE BA
+ 60개월 MMS60 60개월 BA
+자금연계 CT  BA
+고객의견 CSVC VOICE OF CUSTOMER BA
+생명보험 LIFI LIFE INSURANCE BA
+손해보험 PNCI PROPERTY AND CASUALTY INSURANCE BA
+생보 LIFI LIFE INSURANCE BA
+복용 DOSE DOSE BA
+변액보험 VINS VARIABLE INSURANCE BA
+가부 RNW RIGHT AND WRONG BA
+업적통계 AS ACHIEVEMENT STATISTICS BA
+금종 CUR currency BA
+ DM DM DIRECT MAIL BA
+혈액형 BLTP BLOOD TYPE BA
+가입설계 IP INSURANCE PLANNING BA
+ 13회차 T013 13TH TURN BA
+연봉 ASAL ANNUAL SALARY BA
+부양자 SPTR SUPPORTER BA
+주의사항 NOTICE NOTICE BA
+실종 MISS MISSING BA
+응당 DUE DUE BA
+손보 PNCI PROPERTY AND CASUALTY INSURANCE BA
+ 5회차 T005 5TH TURN BA
+수술 SURG SURGERY BA(DA02)
+혼합 MEDL MEDLEY BA(DA02)
+검진 MEDI A MEDICAL BA(DA02)
+초회 ONCE ONCE BA(DA02)
+남자 MALE MALE BA(DA02)
+키워드 KEYW keyword BA(DA02)
+부담금 LIBT liablility BA(DA02)
+대면 MEET MEET/SEE BA(DA02)
+월분 ONMON ON A MONTHLY BA(DA02)
+용어 TERM term BA(DA02)
+번지 HNUM A HOUSE NUMBER BA(DA02)
+환급율 RETR RETURN RATE BA(DA02)
+추징세 ATAX ADDITIONAL TAX BA(DA02)
+사차 MARG DEATH MARGIN BA(DA02)
+인지세 STAX A STAMP TAX BA(DA02)
+친권자 PWPA a person with parental authority BA(DA02)
+호수 HADD A HOUSE /A DOOR BA(DA02)
+보험금 INSM INSURANCE MONEY BA(DA02)
+수령지 RECT RECEIPT BA(DA02)
+불가능 IMPT impossibility BA(DA02)
+주피보험자 TINS THE INSURED BA(DA02)
+소급 RETR retroaction BA(DA02)
+적부 PROY PROPRIETY BA(DA02)
+소견 ONEV ONE'S VIEW BA(DA02)
+역산 REVS REVERSE BA(DA02)
+진단 DIAN DIAGNOSIS BA(DA02)
+암 CCER CANCER BA(DA02)
+종신 WLIF whole life BA(DA02)
+보험사 INSC INSURANCE COMPANY BA(DA02)
+주계약 MCNT main contract BA(DA02)
+사고자 AACET AN ACCIDENT BA(DA02)
+플랜 PLAN PLAN BA(DA02)
+철회 PETR RETRACT BA(DA02)
+특장점 MERT merit BA(DA02)
+목적물 OBJT OBJECT BA(DA02)
+퇴원 LHOS LEAVING THE HOSPITAL BA(DA02)
+질병 SICK SICKNESS BA(DA02)
+거절체 REJP REJECT PERSON BA(DA02)
+종피보험자 SINS BE SUBJECT TO INSURED BA(DA02)
+부활시 REBT REBIRTH BA(DA02)
+부활후 REBA AFTER REBIRTH BA(DA02)
+여자 FALE female BA(DA02)
+부활전 REBB BEFORE REBIRTH BA(DA02)
+사망 DETH DEATH BA(DA02)
+재해 ACET ACCIDENT BA(DA02)
+지불 PAYT PAYMENT BA(DA02)
+변액 VAR variable BA(DA02)
+선지급 PAYP prepayment BA(DA02)
+지급율 PAYR PAYMENT RATE BA(DA02)
+수금 COLM COLLECTION OF MONEY BA(DA02)
+의무 DUTY duty BA(DA02)
+장수 LLIF LONG LIFE BA(DA02)
+보장성 GURT guarantee type BA(DA02)
+방카슈랑스 BA BA BA(DA02)
+소멸시 BENL BECOME NULL BA(DA02)
+예시 EXEM exemplification BA(DA02)
+면책 IMNT immunity BA(DA02)
+입원 IHOS HOSPITIALIZATION BA(DA02)
+흡연 SMOK smoking BA(박찬미)
+세금우대 TB TAX BREAK BA(박찬미)
+자필 AGRP autograph BA(박찬미)
+훈격 LVMD level of medal BA(박찬미)
+신장 HGHT height BA(박찬미)
+국적 NATN nationality BA(박찬미)
+부업 SJOB side JOB BA(박찬미)
+출국 DPTC departure from a country BA(박찬미)
+질문서 QSH questionnaire sheet BA(박찬미)
+체중 WGHT weight BA(박찬미)
+유공자 MNMR a man of merit BA(박찬미)
+병원 HSPT hospital BA(박찬미)
+스캔 SCAN scan BA(박찬미)
+부상 INJR INJURY BA(최은주)
+과실 ACCD accident BA(최은주)
+견적 ESTM estimation BA(최은주)
+업계 INDS INDUSTRY BA(최은주)
+전손 WDMG the whole damage BA(최은주)
+TON TON TON BA(최은주)
+출동 MOBL MOBILIZATION BA(최은주)
+차대번호 CFM CAR FRAME NUMBER BA(최은주)
+중앙선 CLIN the central line of the HIGHWAY BA(최은주)
+신호 SGNL SIGNAL BA(최은주)
+최고B NOTF NOTIFY BA(최은주)
+톤 TON RON BA(최은주)
+스포츠카 SCAR sports car BA(최은주)
+한정 LIM LIMIT BA(최은주)
+경찰서 PSTA police station BA(최은주)
+룰 RULE RULE BA(최은주)
+건널목 CROS crossing BA(최은주)
+관용 OFCL OFFICIAL BA(최은주)
+운전자 DRVR DIRVER BA(최은주)
+앞지르기 OVTK overtake BA(최은주)
+도주 RAWY run away BA(최은주)
+행정 GOVR GOVERNMENT BA(최은주)
+AIRBAG ABAG AIR BAG BA(최은주)
+물적 MTRL material BA(최은주)
+대인 AGNP against personal BA(최은주)
+역 OPP OPPOSITE BA(최은주)
+고의 INTN INTENSION BA(최은주)
+신조 NBLT NEW BUILT BA(최은주)
+위장 DSGS disguise BA(최은주)
+무면허 UNLC UNLICENSED BA(최은주)
+개문발차 DPOD depature on opening a door BA(최은주)
+실적율 RSRT RESULT RATE BA(최은주)
+보험개발원 IDI insurance development institute BA(최은주)
+대물 AGNT against A THING BA(최은주)
+에어백 ABAG AIR BAG BA(최은주)
+횡단보도 PDCR a pedestrian crossing BA(최은주)
+적재 LOAD LOAD BA(최은주)
+주취 DRNK DRUNK BA(최은주)
+장착 INST INSTALLATION BA(최은주)
+업적 ACHV Achivement BA(최은주)
+중고 UTHG USED THINGS BA(최은주)
+정원 FNUM FIXED NUMBER OF ~ BA(최은주)
+침범 INVS INVASION BA(최은주)
+후유 AFEF AFTER EFFECT BA(최은주)
+일할 DCNT DAY  COUNTING BA(최은주)
+SOFA SOFA Status of Forces Agreement BA(최은주)
+보도 FTWY A FOOTWAY BA(최은주)
+달성 ATNM attainment BA_FA(DA02)
+상이 WOND wounded BA_FA(DA02)
+흡연량 QNSM quantity of smoking BA_FA(DA02)
+약혼 ENGG engagement BA_FA(DA02)
+식료품 FOOD food BA_FA(DA02)
+광열 ENH electricity and heating BA_FA(DA02)
+소비 CNSM consumption BA_FA(DA02)
+외식 EATO eat out BA_FA(DA02)
+가사 HSWK housework BA_FA(DA02)
+흑자 BLCK the black BA_FA(DA02)
+공적 PBLC public BA_FA(DA02)
+수치 NVAL NUMERICAL VALUE BA_FA(DA02)
+독신 CELY celibacy BA_FA(DA02)
+술 ALCH alcoholic drink BA_FA(DA02)
+증가률 INRT the rate of increase BA_FA(DA02)
+보건 HYGN hygienic BA_FA(DA02)
+음주 DRNK drinking BA_FA(DA02)
+결혼식 WEDD wedding BA_FA(DA02)
+혼수 MREX marriage EXPENSE BA_FA(DA02)
+노출 EXPS exposure BA_FA(DA02)
+수지 INE income and expenditure BA_FA(DA02)
+경상가 CACC current account BA_FA(DA02)
+신혼여행 HMON honeymoon BA_FA(DA02)
+의생활 CLTH clothing habits BA_FA(DA02)
+주생활 HSLF housing life BA_FA(DA02)
+음주량 QNDR quantity of drinking BA_FA(DA02)
+자기부담금 ONEE ONE'S EXPENSE BA_IP(DA02)
+유전 INHT INHERITANCE BA_IP(DA02)
+목적지 DEST DESTINATION BA_IP(DA02)
+오토바이 AUTB AUTOBIKE BA_IP(DA02)
+재질 QULT QUALITY BA_IP(DA02)
+질환 DEAS DISEASE BA_IP(DA02)
+용품 SUPP SUPPIER BA_IP(DA02)
+과거 PAST PAST BA_IP(DA02)
+수령처 RECV RECEIVER BA_IP(DA02)
+사용인 USER USER BA_IP(DA02)
+급수 LEVL LEVEL BA_IP(DA02)
+여행 TRIP TRIP BA_IP(DA02)
+분담율 SHRT SHARE RATE BA_IP(DA02)
+ B2B B2B BUSINESS TO BUSINESS BB
+표준화 STND Standardization BC(최은주)
+APPLET APLT Applet BC(최은주)
+PSAM PSAM Purchase SAM BC(최은주)
+뱅킹카드 BC 금융IC Banking Card BC(최은주)
+RFU RFU Reseved for Future Use BC(최은주)
+전자화폐 KCSH Korea Cash BC(최은주)
+CHIP CHIP Chip BC(최은주)
+알고리즘 ALGO Algorithm BC(최은주)
+BC BC 금융IC Banking Card BC(최은주)
+애플릿 APLT Applet BC(최은주)
+현금IC CIC Cash  Integrated Circuit BC(최은주)
+칩 CHIP Chip BC(최은주)
+방카슈랑스인터페이스 BI Bancassurance Interface BI(DA02)
+전이율 TTR Transition Rate BP(DA02)
+ TM TMT Transition Matrix BP(DA02)
+ COA COA Chart Of Account BP(DA02)
+ BP BP Budget and Planning BP(DA02)
+말기 TNL TERMINAL BP(DA02)
+전행 KDB KDB BP(DA02)
+ MM MM MONTH BP(DA02)
+ ABC ABC Activity Based Cost BP(DA02)
+고객관계관리 CI CUSTOMER INFORMATION BPI
+경영계획 BP Budget and Planning BPI
+신규수신계좌가중평균만기 OAAM OPEN DEPOSIT ACCOUNT WEIGHT AVERAGE MATURITY BPI CI
+ OUTBOUND OBD 아웃마운드 BPI_MCIF
+산업평가 IR Industry Rating System BPR
+원격 RT REMOTE CD
+버젼 VER VERSION CD
+자동화기기 ATM AUTOMATION MACHINE CD
+적정 PROP PROPER CD
+도입 IMPT IMPORT CD
+ REMOTE RT REMOTE CD
+부스 BTH BOOTH CD
+제어 CNTL CONTROL CD
+판매점 SHOP SHOP CD(최은주)
+코아 CORE CORE CD(최은주)
+천원권 TWN A THOUSAND WON NOTE CD(최은주)
+점포 SHOP SHOP CD(최은주)
+다차원 MDS  CI
+자체 OSELF ONESELF CI (DA02)
+전액 TAMT TOTAL AMOUNT CI (DA02)
+ 30대 RAN30 RANKING 30 CI (DA02)
+주석 AN ANNOTATED CI (DA02)
+메모 MM MEMO CI (DA02)
+감시 WTC WATCH CI (DA02)
+리스트 LIST LIST CI (DA02)
+불인정 NADM NOT ADMIT CI (DA02)
+크래탑 CRET CRE-TOP CI (DA02)
+점유율 POST POSSESSION RATE CI(DA02)
+시장환경 MENV Market invoronment CI(DA02)
+제4공통 C4 THE FOURTH CO CI(DA02)
+수시 ODEN on demand CI(DA02)
+산금채3년 KDB3 KDB bond 3years CI(DA02)
+제3공통 C3 THE THIRD CO CI(DA02)
+회사채3년 CBD3 Company Bond 3years CI(DA02)
+순이익률 NPRT net profit rate CI(DA02)
+배율 MAGT MAGNIFICATION CI(DA02)
+제1공통 C1 FIRST CO CI(DA02)
+ SNP500 SNP5 National Association of Securities Dealers Automated Quotations CI(DA02)
+ TB TB Treasury Bond CI(DA02)
+채널 CHNL CHANNEL CI(DA02)
+ RECIPROCITY RCPR RECIPROCITY CI(DA02)
+국고채 NTBD the national treasury bond CI(DA02)
+원가율 RCRT PRIME COST RATE CI(DA02)
+ NASDAQ NDAQ National Association of Securities Dealers Automated Quotations CI(DA02)
+ GDP GDP GROSS DOMESTIC PRODUCT CI(DA02)
+증가율 INCT INCRECEMENT RATE CI(DA02)
+금융권 FINS Financial sector CI(DA02)
+ X축 XAX X-AXIS CI(DA02)
+ KOSDAQ KDAQ Korea Securities Dealers Automated Quotation CI(DA02)
+ PROFILE PRFI PROFILE CI(DA02)
+세세분류 EDC extra detail class CI(DA02)
+효율 EFCT EFFICIENCY RATE CI(DA02)
+좌표 CODI COORDINATE CI(DA02)
+재유치 RINVT RE-INVITATION CI(DA02)
+은행권 BANS Banking sector CI(DA02)
+존립 EXTE existence CI(DA02)
+만족도 SATI satisfaction CI(DA02)
+ FITCH FIT FITCH CI(DA02)
+유가 OIL oil cost CI(DA02)
+국고채3년 NTB3 national treasury bond 3years CI(DA02)
+세계 WRLD world CI(DA02)
+ Y축 YAX Y-AXIS CI(DA02)
+제2공통 C2 SECOND CO CI(DA02)
+매트릭스 MTRX MATRIX CI(DA02)
+우위 SUPY Superiority CI(DA02)
+휴면 DRNY dormancy CI-A(DA02)
+ DSN DSN DATA SOURCE NAME CI-C(DA02)
+오퍼 OFFER OFFER CI-C(DA02)
+ SERVLET SVLT servlet CI-C(DA02)
+수집 CLCT COLLECT CI-C(DA02)
+ CM CMPG campaign CI-C(DA02)
+ DB DB DATABASE CI-C(DA02)
+스크립트 SCRP script CI-C(DA02)
+제공물 OFER offer CI-C(DA02)
+ IMPORT IPOT IMPORT CI-C(DA02)
+ PORT PORT PORT CI-C(DA02)
+치환 RPLC replace CI-C(DA02)
+설문지 SRVY survey CI-C(DA02)
+ META META META CI-C(DA02)
+셀 CELL CELL CI-C(DA02)
+연산자 OPT OPERATOR CI_C(DA02)
+긍정 POTV POSITIVE CI_C(DA02)
+할당 ASIN ASSIGN CI_C(DA02)
+중요도 IMTD IMPORTANCE DEGREE CI_C(DA02)
+ SIGN SIGN SIGN CI_M(DA02)
+피지시자 FLWR FOLLOWER CI_SFA(DA02)
+협업 CLBR COLLABORATION CI_SFA(DA02)
+가능성 PSBL POSSIBILITY CI_SFA(DA02)
+명단 NLST NAME LIST CI_SFA(DA02)
+사은품 GGFT GRATITUDE GIFT CI_SFA(DA02)
+ SFA SFA SALES FORCE AUTOMATION CI_SFA(DA02)
+지시자 DRCT DIRECTOR CI_SFA(DA02)
+일지 DIRY DIARY CI_SFA(DA02)
+공유 SHR SHARING CI_SFA(DA02)
+카드제휴 CK CK CK
+사이즈 SIZE 사이즈 CL
+좌괄호 LPRN LEFT PARENTHESES CL
+불만 CMPL COMPLAINT CL
+ X X X CL
+각종 EKND EVERY KIND CL
+ Y Y Y CL
+우괄호 RPRN RIGHT PARENTHESES CL
+반응 RESP RESPONSE CL
+ STAR STAR STAR CS(최은주)
+STAT STAR STAR CS(최은주)
+기업신용평가 CS CREDIT RATING SYSTEM CS(최은주)
+신용회복지원 CRSU CREDIT RECOVERY SUPPORT CS(최은주)
+활용 PUSE PRACTICAL USE DA
+필드 FILD FIELD DA(DA02)
+ DAY DAY DAY DAY_NIGHT 거래시 사용(24/365 등에서 ..)
+데이터딕셔너리 DD DATA DICTONARY DD(DA02)
+ MIRROR MIRROR MIRROR DL_내부거래
+TEAM TEAM TEAM DL_내부거래
+REP REP REP DL_내부거래
+DEPART DEPART DEPART DL_내부거래
+ 심사자 INMN INSPECT MAN DP
+추계액 EAMT ESTIMATED AMOUNT DP
+급부 BNFT BENEFIT DP
+가입자 ENMN ENTERANCE MAN DP
+ RATE1 RATE1 RATE1 DW
+ TOUCH TOUCH TOUCH DW
+ DIFFERENCE DIFF DIFFERENCE DW
+ PRICE1 PRICE1 PRICE1 DW
+ PRICE2 PRICE2 PRICE2 DW
+전환사채 CB CONVERTIBLE BOND DW
+신주인수권부사채 BW BIND WITH WARRANTY DW
+ FENICS FENICS FENICS DW
+교환사채 EB EXCHAGEBLE BOND DW
+ RATE2 RATE2 RATE2 DW
+ EQUITY EQUITY EQUITY DW
+전문가협의회 PFCFM  DWCO
+심의위원회 DECOM  DWCO
+한자명 CHNM CHINEESE NAME DWCO
+통상 ORDN ordinarily DWCS
+신설 NWES NEWLY-ESTABLISHED DWCS
+ SLIP SLIP SLIP DWKITE(최은주)
+금리별 INT_BY interest_BY DWRP(최은주)
+재원별 RSRC_BY resources_BY DWRP(최은주)
+분산도 DSRT DEGREE OF DISPERSION DWTAMS
+직직직전가 THBP THREE BEFORE PRICE DWTAMS
+최우선 FRST FIRST OF ALL DWTAMS
+ 2우선 SND SECOND DWTAMS
+ INSTRUMENT INSTRMNT INSTRUMENT DWTAMS
+ 15분 MM15 15 MINUTES DWTAMS
+단위05 UN05 unit05 DWTAMS
+행사가 EXPR EXECUTE PRICE DWTAMS
+ 5우선 FFTH FIFTH DWTAMS
+단위01 UN01 unit01 DWTAMS
+상관도 CORT CORRELATION RATIO DWTAMS
+전전일 TDBF TWO DAYS BEFORE DWTAMS
+결제가 STLP settlement price DWTAMS
+직전가 BFPR JUST BEFORE PRICE DWTAMS
+ FEP FEP front- end processor DWTAMS
+ 4우선 FRTH FOURTH DWTAMS
+직직전가 TWBP TWO BEFORE PIRCE DWTAMS
+시세 PR PRICE DWTAMS
+ 30분 MM30 30 MINUTES DWTAMS
+집중율 CNRT CEONCENTRATE RATIO DWTAMS
+현재가 NOWP now price DWTAMS
+ 5분 MM5 5 MINUTES DWTAMS
+ KITC KITC Korea investment Trust Management & Securities Company DWTAMS
+ 3우선 THRD THIRD DWTAMS
+월물 MCON month contract DWTAMS
+ 60분 MM60 60 MINUTES DWTAMS
+자치 SELF self DWTAMS
+거래량 TRVL THE VOLUME OF TRASACTIONS  TRADING  BUSINESS DWTAMS
+ 1분 MM1 1 MINUTES DWTAMS
+ KOFEX KOFEX Korea futures exchange DWTAMS
+ 12월물 12M 기일물 단위 칼럼명의 중간에만 사용할 수 있음 DWTAMS
+정산가 ADPR ADJUSTED PRICE DWTAMS
+투자신탁회사 ITC investment trust company DWTAMS(최은주)
+1미만 UND1 1미만 DW고객(최은주)
+잠식 ENCR encroach DW고객(최은주)
+T6 T6 6 NEW TECHKNOWLEDGE DW공통(최은주)
+요주의 NATN NEED ATTENTION DW보고서
+ 함수 FUNC FUNCTION EC
+예제 EXMP EXAMPLE EC
+ ARGUMENT ARG ARGUMENT EC
+아규먼트 ARG ARGUMENT EC
+문법 SNTX SYNTAX EC
+기능군 THCP TECHNICAL GROUP EDI
+반복 REPT REPEAT EDI재개발
+CPBOOK CPBK COPYBOOK EDI재개발
+ 응답서 RPTL REPLY TELEGRAM EDI재개발
+ 한정어 LIML LIMITATION LANGUAGE EDI재개발
+ICR ICR INTERCHANGE CONTROL REFERENCE EDI재개발
+ 식별자 DIST DISCRIMINATION EDI재개발
+3초 SEC3 3 SECONDS EMPS(최은주)
+EO EO EO EO
+ POOL POOL POOL EPMS(최은주)
+당직 DUTY DUTY EPMS(최은주)
+DEFINITION DEF DEFINITION EPMS(최은주)
+MAKE MAKE MAKE EPMS(최은주)
+ETT ETT EXTRACTION TRANSFORMATION TRANSFORTATION EPMS(최은주)
+입 IN IN EPMS(최은주)
+컴파일 COMPILE COMPILE EPMS(최은주)
+반출처 COUT_PLC carry out_place EPMS(최은주)
+ROLLBACK ROLLBACK ROLLBACK EPMS(최은주)
+인계자 HDOV_MN HAND OVER_man EPMS(최은주)
+잠금 LOCK LOCK EPMS(최은주)
+COPY COPY COPY EPMS(최은주)
+INSTANCE INSTANCE INSTANCE EPMS(최은주)
+객체 OBJ OBJECT EPMS(최은주)
+COMPILE COMPILE COMPILE EPMS(최은주)
+출 OUT OUT EPMS(최은주)
+부표 MKER MAKER EPMS(최은주)
+당직자 DUTY_MN DUTY_man EPMS(최은주)
+자원반납확인서 RRCF RSRC_RET_CNFM_SH EPMS(최은주)
+DAEMON DAEMON DAEMON EPMS(최은주)
+EMS EMS EUC MANAGEMENT SYSTEM EUC
+간격 SPCE a space FA
+가스 GAS gas FA
+노무비 LBRC labor cost FA
+명세서 SPEC_SH a detailed  SHEET FA
+연구비 RSFC research funds FA
+후생비 PWLC public welfare cost FA
+분위 STND the standard of division FA
+모집단 POPL a population FA
+분산 DISP dispersion FA
+성장성 GRTH growth FA
+운반구 STTL stretcher tool FA
+외주가공비 OTPC an outside process cost FA
+판매비 SLPR the sale price FA
+전력비 ELPC electric power cost FA
+조사원 IVGT an investigator FA
+상각비 RPYC repayment cost FA
+이입액 IMPA import amount FA
+재공품 WIPR work in process FA
+현금등가물 CEQV cash equivalent FA
+표본 SMPL a sample FA
+전수 ALCP all company FA
+원시 BGNG beginning FA
+차손 LSDF a loss from the difference of quotations FA
+반제품 HFIN half-finished goods FA
+집금 MCOL MONEY COLLECTION FB
+금융정보조사 FI FINANCIAL TRANSACTION INFORMATION FI(최은주)
+인터넷외환거래 FT FT FT(DA02)
+지정가 LIMT The Limits FT(DA02)
+ EOM EOM END OF MONTH GN
+ RECEIVED RECEIVED RECEIVED GN
+ CASHFLOW CASHFLOW CASHFLOW GN
+ OBERON OBERON OBERON GN
+ DUE DUE DUE GN
+ LOTS LOTS LOTS GN
+ DEALER DEALER DEALER GN
+ EOD EOD END OF DAY GN
+ PV PV PV GN
+ FAR FAR FAR GN
+ EOY EOY END OF YEAR GN
+ SOUNDNESS SOUNDNESS SOUNDNESS GN(D02)
+ GAIN GAIN GAIN GN(D02)
+ APPRAISED APPRAISED APPRAISED GN(DA02)
+ SETTING SETTING SETTING GN(DA02)
+ SENIOR SENIOR  GN(DA02)
+ RANGE RANGE RANGE GN(DA02)
+ SUMOFBALANCE SBAL SUM OF BALANCE GN(최은주)
+PREV PREV PREVIOUS GNS
+ SYSTEM SYSTEM SYSTEM GNS
+ TT TT TELEGRAPHIC TRANSFER GNS
+ FA FA FIXED ASSET GNS
+ NAT NAT NATIONALITY GNS
+ RESIDENCE RESIDENCE RESIDENSE GNS
+ DIVIDE DIVIDE DIVIDE GNS
+ HQ HQ HEADQUARTERS GNS
+ INCOME INCOME INCOME GNS
+ MP MP MONEY PLACE GNS
+ GNS GN GLOBAL NETWORK SYSTEM GNS
+ DEBIT DEBIT DEBIT GNS
+ MB MB MONEY BORROW GNS
+ VOUCHER VOUCHER VOUCHER GNS
+ ACCUM ACCUM ACCUMULATION GNS
+ MULTIPLY MULTIPLY MULTIPLY GNS
+ ZIP ZIP ZIP GNS
+ TEL TEL TELEPHONE GNS
+ TELEX TELEX TELEX GNS
+ CREDIT CREDIT CREDIT GNS
+ LOAD LOAD LOAD GNS
+ ST ST SECURITIES GNS
+ USID USID USID GNS(DA02)
+상대자명 OPTY_NM THE OPPOSITE PARTY_name GW1(최은주)
+BOLD BOLD BOLD GW1(최은주)
+KID KID KID GW1(최은주)
+분류명 CLAS_NM classify_name GW3
+계획표 PLAN PLAN GW3
+상대자 OPTY THE OPPOSITE PARTY GW3
+ SKIN SKIN SKIN GW3(최은주)
+재고량 IVNT_QTY inventory_quantity GW3(최은주)
+열람 RDNG READING GW3(최은주)
+SM SM Shot Message Sending GW3(최은주)
+읽기 READ 읽기 GW3(최은주)
+VOD VOD Video On Demand GW3(최은주)
+WRITE WRITE WRITE GW3(최은주)
+TCO TCO TOTAL COST OF OWNERSHIP GW3(최은주)
+이용량 USE_QTY use_quantity GW3(최은주)
+작업자 OPTR operator IA
+ SU SU Super User IA
+대상명 TGNM target name IA
+부담당자 SCMN support person in charge IA
+반출입 CIO carry in-out IA
+ DUMMY DUMMY dummy IA
+사용자계정 USAC user account IA
+경위 DTLS details IA
+ DBA DBA DB Administrator IA
+수신처 RPLC receive place IA
+ DELETE DELETE delete IA
+개발계 DEVS development section IA
+확장자 EXTN_MN extention name IA
+외주 OORD outside order IA
+분장 DIVD divide IA
+착수 BGIN BEGIN IA
+뒷자리 RPOS rear postion IA
+ INSERT INSERT insert IA
+ HOME HOME home IA
+연관 LNKG linkage IA
+재수정 RMDF remodify IA
+용무 MATR A MATTER IA
+작업명 OPNM operation name IA
+작업계획서 OPPL operation plan IA
+입장 ENTR ENTER IA
+서버명 SVRN server name IA
+ DBIOMOD DBIOMOD DBIOMOD IA
+이관계 MGRS migration place IA
+ DBIO DBIO database I-o IA
+직인 OFSL official seal IA
+ CO CO common IA
+퇴장 WKOT walkout IA
+ DIFF DIFF difference IA
+후열 REAR rear reading IA
+운영계 OPRS operation place IA
+ STEP STEP step IA
+대행자 AGNT agent IA
+폴더 FLDR folder IA
+분담표 ASHT assignment sheet IA
+속도 SPEED speed IA
+ CLIENT CLIENT client IA
+발견자 FNDR finder IA
+주무 CMPT competent IA
+철수 WDRW withdrawal IA
+시스템명 SYSN system name IA
+출입 GOUT GO OUT IA
+ PACKAGE PACKAGE package IA
+양식명 FMNM form name IA
+정담당자 OCMN original person in charge IA
+결재선 APLN approval line IA
+ ACCESS ACCESS access IA
+메뉴명 MNNM menu name IA
+보고자 RPTR reporter IA
+기록물 ARCH archive IA
+체크 CHCK check IA
+ IT본부 ITHQ it HEADQUATERS IA
+역이관 RMGR reverse migration IA
+인수자 TAKE_MN taking over IA
+ SELECT SELECT select IA
+정보취급자 INFP information person IA
+장애명 PRBL_NM PROBLEM NAME IA
+피 TRGT target IA
+배부 DSTB distribution IA
+앞자리 FPOS front position IA
+ FIELD FIELD field IA
+적합성 PROP PROPER IA
+ PROTECT PROTECT protect IA
+ COND COND condition IA
+ VENDOR VENDOR vendor IA
+정보기기 INFE information equipment IA
+ QUERY QUERY query IA
+ TAPE TAPE tape IA
+ MDB MDB mdb IA
+ MC MC migration control IA
+입회자 ATST attestor IA
+발견 FIND find IA
+동시 SMTM same time IA
+기안 DRFT drafting IA
+기안자 DRFM drafter IA
+가이드 GUID guide IA
+비정기 NTRM nonfixed term IA
+외부사용자 OUSR outside user IA
+ FILE FILE file IA
+ NULL NULL null IA
+보호구역 PRTA protect area IA
+회람자 CCLT_MN circulator IA
+데이터명 DTNM data name IA
+레지스트리 RGST registry IA
+등록신청서 RGAP registration application IA
+물리 PHYS physical IA
+컬럼명 COLM_NM column name IA
+ WHERE WHERE where IA
+영향 EFCT effect IA
+업무팀 BSTM business team IA
+테스터 TSTR tester IA
+회람 CCLT circulation IA
+반출입증 CIOC carry in-out certification IA
+작업의뢰서 OPLR operation letter request IA
+ SCRIPT SCRIPT script IA
+반출 COUT carry out IA
+ TELNET TELNET telnet IA
+출력물 OTHN output thing IA
+ AP AP application IA
+ AD AD administration IA
+튜닝 TUNE tuning IA
+출입자 GOUT_MN coming-out person IA
+접속자 CNCT_NM connect MAN IA
+요건 RQST requisite IA
+조치후 ACTN_AF AFTER ACTION IA
+ GUIDE GUID GUIDE IA
+후열자 REAR_MN rear reader IA
+상주 RSDE reside IA
+스텝 STEP step IA
+서약자 PLGR pledger IA
+패턴 PTRN pattern IA
+ EV EV elevator IA
+ LOGIN LOGIN login IA
+ SHELL SHELL shell IA
+저장명 SAVE_NM stored name IA
+부재 ABSN absence IA
+정보취급관리자 INFM information manager IA
+소산 DSPS disperse IA
+ TABLE TABLE table IA
+부서 DEPT department IA
+화면명 SCRN_NM screen name IA
+ ADDRESS ADDRESS address IA
+장치 DVCE DEVICE IA(최은주)
+사용신청서 USAP USE APPLICATION IA(최은주)
+내부통제 IA Internal Audit IA(최은주)
+MANMONTH MM MANMONTH IA(최은주)
+발주 ORDR ORDER IA(최은주)
+SLA SLA SERVICE-LEVEL AGREEMENT IA(최은주)
+잔류 RMNG REMAINING IA(최은주)
+부재중 ABSN ABSENT IB
+납세자 TXPA TAX PAYER IB
+ WEB WEB WEB IB
+ BLS BLS BUSINESS LOGIC SERVER IB
+모바일뱅킹 MBLB MOBILE BANKING IB
+프레임 FRME FRAME IB
+ SNA SNA SNA IB
+다운로드 DWNL DOWNLOAD IB
+산은캐피탈 KDBC KDB CAPITAL IB
+기업회계지원 CAS COMPANY ACCOUNTS SUPPORTING IB
+왜도 SKEW SKEWNESS IB(최은주)
+T T T IB(최은주)
+첨도 KURT KURTOSIS IB(최은주)
+콜모고로프스미르노프 KOSM Kolmogorov-Smirnov IB(최은주)
+임계 CRTL critical IB(최은주)
+Z Z Z IB(최은주)
+FILLER FILLER FILLER IC(최은주)
+반환매입 RBUY REFUND BUY IC(최은주)
+정산후 ADJ_AF adjust_after IC(최은주)
+가치저장환불 VSRF VALUE SAVE REFUND IC(최은주)
+대금환불 PREF PRICE REFUND IC(최은주)
+정산전 ADJ_BF adjust_before IC(최은주)
+반환발행 RISU REFUND ISUE IC(최은주)
+ELS펀드 ELSF Equity Linked Securities Fund ID
+재투자 RINV Reinvestment ID(최은주)
+분배율 ALTR Allotment RATE ID(최은주)
+임의식 OPTP Option Type ID(최은주)
+보족율 SUPR Supplement Rate ID(최은주)
+조회필 INQR INQUIRED ID(최은주)
+1주일 WS1 DNE WEEK ID(최은주)
+간접투자증권 ID INDERECT INVEST SECURITY ID(최은주)
+거치식 DFDT Deferred Type ID(최은주)
+운용사 OPCO Operational Company ID(최은주)
+낙약 AGRE AGREE ID(최은주)
+판매사 SLCO SALES COMPANY ID(최은주)
+분배 ALOT Allotment ID(최은주)
+템플릿 TMPL TEMPLET IH
+동아리 CMPN companions IH
+다중 MLTI MULTIPLE IH
+세로 HGHT height IH
+메신저 MSGR MESSENGER IH
+호주 HDFM THE HEAD OF FAMILY IH
+머리글 HDLN HEADLINE IH
+자격증 CERT a certificate of qualifications IH
+부설 ATCH attach[annex(e)] <a thing to another> IH
+응모 APPL APPLICATION IH
+홈페이지 HMPG HOMEPAGE IH
+상측 TSD TOP SIDE IH
+서술형 DSCV DESCRIPTIVE IH
+설문 QSTN QAUESTION IH
+바닥글 BTLN BOTTOM LINE IH
+지인 ACQU acquaintance IH
+우측 RSD RIGHT SIDE IH
+이름 NAME NAME IH
+가로 WDTH width IH
+페이지 PAGE PAGE IH
+클럽 CLUB CLUB IH
+퇴사 RETR retirement IH
+팝업 POPU POPUP IH
+목돈 RSUM A ROUND(GOOD) SUM IH
+객관식 OBJV OBJECTIVE IH
+졸업 GRDU graduation IH
+사외 OCMP outside the company IH
+응모자 APCN APPLICANT IH
+게시물 BOBJ OBJECTS ON BULLETIN IH
+ RBIZ RBIZ RBIZ IH
+힌트 HINT HINT IH
+ MESSENGER MSGR MESSNEGER IH
+합격자 SUCN A SUCCESSFUL CANDIDATE IH
+ 2년 YYS2 TWO YEARS IH
+ HOMEPAGE HMPG HOMEPAGE IH
+인터넷홈페이지 IH INTERNET HOMEPAGE IH
+소개 INTR INTRODUCTION IH
+하측 BSD BOTTOM SIDE IH
+관계명 RLNM RELATION NAME IH
+선착순 OARV THE ORDER OF ARRIVAL IH
+좌측 LSD LEFT SIDE IH
+정답 CANS CORRECT ANSWER IH
+입학 ESCH ENTERACE INTO A SCHOOL IH
+퀴즈 QUIZ QUIZ IH
+ HTML HTML HTML IH
+연구소 LAB laboratory IH
+호주명 HFNM THE NAME OF THE HEAD OF FAMILY IH
+전문대학 VCLG VOCATIONAL COLLEGE IH
+마련 PREP PREPERATION IH
+ RND RND RESEARCH AND DEVELOP IH
+직책명 DTNM DUTY NAME IH
+카테고리 CATEGORY CATEGORY IH(02)
+한번 ONCE once IH(DA02)
+탈출 ESC escape IH(DA02)
+웹로그 WLOG WEB LOG IH(DA02)
+ VIP VIP VERY IMPORTANT PERSON IH(DA02)
+접근 ACC access IH(DA02)
+ 365코너 CT365 365 counter IH(DA02)
+ B1등급 B1RT B1등급 IH(최은주)
+B3등급 B3RT B1등급 IH(최은주)
+B2등급 B2RT B1등급 IH(최은주)
+전형 SLCT SELECT  MAKE CHOICE  SCREEN IH(최은주)
+C2등급 C2RT B1등급 IH(최은주)
+C3등급 C3RT B1등급 IH(최은주)
+초등학교 ESCH ELEMENTRY SCHOOL IH(최은주)
+C1등급 C1RT B1등급 IH(최은주)
+보훈 PNVA PATRIOTS AND VETRANS AFFAIRS IH(최은주)
+D1등급 D1RT B1등급 IH(최은주)
+중학교 MSCH MIDDLE SCHOOL IH(최은주)
+무위험 NRK NO RISK II(최은주)
+IC카드 ICC Integrated Circuit Card II(최은주)
+IM IM integration IM(DA02)
+ ASK ASK ASK IM(DA02)
+ TP TP Transfer Pricing IM(DA02)
+ WAVE WAVE WAVE IM(DA02)
+개정 RVSN REVISION IM(DA02)
+목차 IDX INDEX IN
+유료 FEE FEE IN
+사이트 SITE SITE IN
+친밀도 FRLY FRIENDLY IN
+배너 BNER BANNER IN
+학위 DGRE DEGREE IN
+납입자 PAY_MN pay_man KITE내부거래
+ 수익율변동성 PRVL profit rate volitibility LI
+주채권B MCLM MAIN CLAIMS LI RE
+평가표 ESTM_TB estimate_table LI(RE최은주)
+FILTERING FT FILTERING LI(기업신용평가 최은주)
+NR NR NON RESIDENT LI(기업신용평가 최은주)
+거주 RESI RESIDENT LI(기업신용평가 최은주)
+JG JG JUDGMENT LI(기업신용평가 최은주)
+CEILING CEIL CEILING LI(기업신용평가 최은주)
+ED ED EXPECTED DEFAULT FREQUENCY LI(기업신용평가 최은주)
+FCF FCF FREE CASH FLOW LI(기업신용평가 최은주)
+모형 MODL MODEL LI(기업신용평가 최은주)
+FR FR FOREIGN EXCHANGE RISK LI(기업신용평가 최은주)
+기업평가항목 CEIT COMPANY ESTIMATE ITEM LI(기업신용평가 최은주)
+CF CF CASH FLOW LI(기업신용평가 최은주)
+D D 등급명입니다. LI(기업신용평가 최은주)
+지도 GUID GUIDANCE LI(기업신용평가 최은주)
+DD DD DISTANCE TO DEFAULT LI(기업신용평가 최은주)
+MN MN MONITORING LI(기업신용평가 최은주)
+통계모형결합등급 SMCR STATISTICAL MODEL COMBINE RATE LI(기업신용평가 최은주)
+외환리스크 FR FOREIGN EXCHANGE RISK LI(기업신용평가 최은주)
+JUDGMENT JG JUDGMENT LI(기업신용평가 최은주)
+시뮬레이션 SM SIMULATION LI(기업신용평가 최은주)
+ALERT ALRT ALERT LI(기업신용평가 최은주)
+지표별 INBY INDEX BY LI(기업신용평가 최은주)
+금융업종평가 FIES FINANCIAL INDUSTRY ESTIMATE LI(기업신용평가 최은주)
+SIMULATION SM SIMULATION LI(기업신용평가 최은주)
+PD PD PROBABILITY OF DEFAULT LI(기업신용평가 최은주)
+CS CS CREDIT RATING SYSTEM LI(기업신용평가 최은주)
+HALTON HLTN HALTON LI(기업신용평가 최은주)
+배치용 BATU BATCH USE LI(기업신용평가 최은주)
+거리 DSTS DISTANCE LI(기업신용평가 최은주)
+CPA CPA CERTIFIED PUBLIC ACCOUNTANT LI(기업신용평가 최은주)
+신용평점모형 SCM SCORING MODEL LI(기업신용평가 최은주)
+특화대출 SPLN SPECIALIZED LENDING LI(기업신용평가 최은주)
+기준명 CRNM CRITERION NAME LI(기업신용평가 최은주)
+신용평점 SC SCORING LI(기업신용평가 최은주)
+신설법인평가 NECO NEWLY_ESTABLISHED CORPORATION LI(기업신용평가 최은주)
+실제부도율 RDRT REAL DEFAUL RATE LI(기업신용평가 최은주)
+안전성 SCND SAFETY CONDITION LI(기업신용평가 최은주)
+E E 등급명입니다. LI(기업신용평가 최은주)
+FN FN FINANCIAL LI(기업신용평가 최은주)
+통계모형 STAM STATISTICAL MODEL LI(기업신용평가 최은주)
+권고 ADVC ADVICE LI(기업신용평가 최은주)
+차입금상환능력 DBRC DEBT REIMBURSEMENT CAPACITY LI(기업신용평가 최은주)
+MEAN MEAN MEAN LI(기업신용평가 최은주)
+평가자 ESTR ESTIMATOR LI(기업신용평가 최은주)
+구성비EXPOSURE CREX COMPONENT RATIO EXPOSURE LI(기업신용평가 최은주)
+RA RA RATE ADJUSTMENT LI(기업신용평가 최은주)
+재무평가 FNES FINANCIAL ESTIMATE LI(기업신용평가 최은주)
+융통성 ADPT ADAPTABILITY LI(기업신용평가 최은주)
+특화대출평가 SLES SPECIALIZED LENDING ESTIMATE LI(기업신용평가 최은주)
+업종별 INBY INDUSTRY TYPE BY LI(기업신용평가 최은주)
+상하향 UND UP OR DOWN LI(기업신용평가 최은주)
+대항목 LITM LARGE ITEM LI(기업신용평가 최은주)
+의존도 DDEG DEPENDENCE DEGREE LI(기업신용평가 최은주)
+제약 CONS CONSTRAINT LI(기업신용평가 최은주)
+상수 CNST CONSTANT LI(기업신용평가 최은주)
+AR AR AFFILIATE GROUP RATING LI(기업신용평가 최은주)
+EDF ED EXPECTED DEFAULT FREQUENCY LI(기업신용평가 최은주)
+점수별 SCBY SCORE BY LI(기업신용평가 최은주)
+베타 BETA BETA LI(기업신용평가 최은주)
+특이 SPEC SPECIAL LI(기업신용평가 최은주)
+하향 DOWN DOWN LI(기업신용평가 최은주)
+결합 CMBN COMBINE LI(기업신용평가 최은주)
+실태 ACND ACTUAL CONDITION LI(기업신용평가 최은주)
+LEVERAGE LVRG LEVERAGE LI(기업신용평가 최은주)
+부실율 DFRT DEFAULT RATE LI(기업신용평가 최은주)
+신뢰도 RLIB RELIABILITY LI(기업신용평가 최은주)
+NCF NCF NET CACH FLOW LI(기업신용평가 최은주)
+EBITDA EBITDA EARNING BEFORE INTEREST  TAX  DEPRECIATION AND AMORTIZATION LI(기업신용평가 최은주)
+전이 TRNS TRANSITION LI(기업신용평가 최은주)
+구성비부도율 CRDR COMPONENT RATIO DEFAULT RATE LI(기업신용평가 최은주)
+WR WR WITHDRAW LI(기업신용평가 최은주)
+상향 UP UP LI(기업신용평가 최은주)
+통계적 STAT STATISTICAL LI(기업신용평가 최은주)
+등급명 RATE_NM rate NAME LI(최은주)
+상시 ORDN ORDINARY LI(최은주)
+리뷰 REVW REVIEW LI(최은주)
+후속 FLWU FOLLOW-UP LI(최은주)
+순환 CRCL 순환 LI(최은주)
+사이클 CYCL 사이클 LI(최은주)
+주B MAIN MAIN LI_RE
+ POSITIVE POTV POSITIVE LICS
+ FC FC Facility Risk Rating LICS(최은주)
+SCALER SCLR SCALER LICS(최은주)
+CALIBRATION CLBR CALIBRATION LICS(최은주)
+BASEL BASEL BASEL LI기업신용평가(최은주)
+LA LA Loan Analyst LI신용위험분석(최은주)
+RE RE Risk Estimate LI신용위험분석(최은주)
+한도별 LMBY LIMIT BY LN
+유동화 ASEC Asset Securitization LN(최은주)
+저자 ATHR authorship LS(최은주)
+편 VOL volume LS(최은주)
+조 ARTC ARTICLE LS(최은주)
+출판사 PBLS PUBLISHER LS(최은주)
+절 PGRH PARAGRAPH LS(최은주)
+조항 PRVS provision LS(최은주)
+법률 LAW LAW LS(최은주)
+승인자 APMN approval man LS(최은주)
+답변자 AMN answer maN LS(최은주)
+장 CHAP CHAPTER LS(최은주)
+판례 CLAW CASE LAW LS(최은주)
+저서 OWRT ONE'S WRITING LS(최은주)
+질문자 QSNR QUESTIONER LS통화기록(최은주)
+질의자 QSNR QUESTIONER LS통화기록(최은주)
+사은 GRAT GRATITUDE MCIF(최은주)
+국외점포통합 OK OVERSEAS KDB SYSTEM OK
+국외점포 OK OVERSEAS KDB (SYSTEM) OK(최은주)
+한국계 KANC KOREAN ANCESTRY OK(최은주)
+외국계 FANC FOREIGN ANCESTRY OK(최은주)
+PARENT PARENT PARENT PARENT_ORG_ID
+ GBP GBP Greate Britain Pound PM
+정렬 SORT SORT PM
+ AUD AUD Australia Dollar PM
+ GRID GRID GRID PM
+ CHF CHF Czecho Franc PM
+계정과목별 ATIT_BY accounts item_BY PM
+차원 DMSN Dimension PM
+연계부 STGP Stopgap PM
+총괄표 SMRY SUMMARY PM
+등급별 RATE_BY rate_BY PM
+ 9년 YYS9 9 YEARS PM
+ INDICATOR INDICATOR INDICATOR PM
+조직별 ORG_BY organization_BY PM
+점수명 SCR_NM score_name PM
+ CAD CAD Canada Dollar PM
+평가B EVAL EVALUATION PM
+ IBRD IBRD International Bank For Reconstruction and Development PM
+ TAB TAB TAB PM
+ LTPR LTPR Longterm Prime Rate PM
+ PEER PEER PEER PM
+표준편차 STDV Standard Deviation PM
+ DEM DEM Deutch Mark PM
+구분명 TYPE_NM TYPE_name PM
+항목명 ITEM_NM item_name PM
+ EUR EUR Euromarket PM
+ CORE율 CORE_RT CORE_rate PM
+ KPI KPI Key Performance Indicator PM
+ PF PF Project Finance PM
+ WORKOUT WORKOUT WORKOUT PM
+ ROA ROA Return On Asset PM
+ FFR FFR French Franc PM
+ JPY JPY Japan Yen PM
+년도별 YY_BY year_BY PM
+ BPI BPI BPI PM(DA02)
+ PM PM profit management PM(DA02)
+곡선 CURV CURVE PM(DA02)
+ BPR BPR business process reengineering PM(DA02)
+기업신용위험평가 RE RISK ESTIMATE RE(최은주)
+ADJUSTED ADJUSTED ADJUSTED RM
+ DYNAMIC DYN dynamic rm
+ GAMMA01 GAMMA01 GAMMA01 RM
+ RAROC RAROC Risk Adjusted Return of Capital RM
+보전액 ADJ_AMT adjust_amount rm
+ DYNPER DYNPER dynper rm
+선행지수 CLI Composite Leading Indicator RM
+사용율 USRT USER RATE RM
+민감도분석 SNDA SENS_DEG_ANAL RM
+ DESK DESK DESK RM
+ HIERARCHY HIERARCHY hierarchy rm
+관찰 OSRV OBSERVE RM
+ RC RC Real Time CMS RM
+ EWMA EWMA Exponential Weighted Moving Average RM
+ RATIO RATIO RATIO RM
+ VEGA VEGA VEGA RM
+요인 FCTR FACTOR RM
+ VAR분석 VARA VAR_ANAL RM
+ OIS OIS Over Night Interest Swap RM
+ SMA SMA Simple Moving Average RM
+시나리오분석 SNRA SCENARIO ANALYSIS RM
+복합구분코드 CTC COMPOSITE TYPE CODE RM
+ THETA THETA THETA RM
+영향도 INFD Influence degree RM
+생산자 PDCR producer RM
+채권B CLMS CLAIMS RM
+표준물 STDF STANDARD FUTURE RM
+ DRIVER DRIVER DRIVER RM
+ RW RW RISK WATCH RM
+ CLI CLI CLI RM
+ EQ EQ Equity RM
+유동성 FLDT fluidity rm
+ CORE CORE CORE RM
+신뢰 CNFD CONFIDENCE RM
+ DELTA01 DELTA01 DELTA01 RM
+ PRINCIPAL PRINCIPAL  RM
+소진율 VNSH_RT vanishing_rate RM
+ KNOCK KNCK KNOCK RM
+ VAR VAR Value At Risk RM
+점수 SCR score RM
+협의회 CONF CONFERENCE RM
+ MARGINAL MARGINAL MARGINAL RM
+ IR IR Interest RM
+ GI GI GI RM
+ CLE CLE Credit Loss Engine RM
+키 KEY KEY RM
+ RESULT RESULT result rm
+ RESULTS RESULTS results rm
+자발 VLNT VOLUNTORY RM
+ HISTORICAL HISTORIC HISTORICAL RM
+인상 INCR increase rm
+통일 UNTY UNITY RM
+업종지수 GI Global Index RM
+고객전담역보 ARM Assitant Relationship Manager RM
+ RHO RHO RHO RM
+ ALM ALM ALM rm
+ VOLATILITY VOLATILTY VOLATILITY RM
+부도율 DHON_RT dishonor_rate RM
+ SET SET SET RM
+ LEVEL LEVEL LEVEL RM
+ REPRICING REPR repricing rm
+ SENDERO SNDR SENDERO rm
+정책 PLCY POLICY RM
+ RISKMETRICS RISKMTR RISKMETRICS RM
+이차 SND SECONDARY rm
+ WHOLE WHOLE WHOLE RM
+리스크 RISK RISK RM
+섹터 SCTR sector RM
+ STEPPING STPN STEPPING RM
+스왑션 SWPT SWAPTION RM
+복합코드 CC COMPOSITE CODE RM
+ MACAULAY MACAULAY MACAULAY RM
+거시 MAC macroscopic RM
+한도율 LIM_RT limit_rate RM
+ FRONT FRNT FRONT RM
+최적 OPTM OPTIMUM RM
+행동 BHVR behavior rm
+스케쥴 SCDL SCHEDULE RM
+ GAMMA GMMA GAMMA RM
+스트레스테스트 STST STRESS TEST RM
+전문가 PROF PROFESSIONAL RM
+물가지수 PI price index RM
+기중 TRMM IN MID TERM(Term Between) RM
+테스트 TST TEST RM
+출하 SHPT SHIPMENT RM
+신뢰계수 CNCE confidence coefficient RM
+보전금 ADJ_AMT adjust_amount rm
+ PV01 PV01 PV01 RM
+스트레스 STRS STRESS RM
+지점신용관리역 JCO Junior Credit Officer RM
+ CONTRIBUTION CNTB CONRIBUTION RM
+ NDF NDF Net Different Forward RM
+손실율 LOSS_RT loss_rate RM
+ EXPECT EXPECT EXPECT RM
+ RETURN RETURN RETURN RM
+ NIM NIM Net Interrest Margin RM
+신용관리역보 CA Credit Officer Assistant RM
+ SHORTFALL SHORTFALL SHORTFALL RM
+ BUCKET BUCKET BUCKET RM
+전결권 ARVD_RGT arbitrary decision_right RM
+추이 SHFT SHIFT RM
+ HOLDING HOLDING HOLDING RM
+ MONTECARLO MONTCARLO MONTECARLO RM
+ BACKTEST BTST BACKTEST RM
+포트폴리오 PORTFOL PORTFOLIO RM
+ ABS ABS Asset Backed Security RM
+ POLICY PLCY POLICY RM
+시나리오 SCENARIO SCENARIO RM
+ IMPLIED IMPLIED IMPLIED RM
+ MONETARY MONETARY MONETARY RM
+ PCRE PCRE PCRE RM
+ RAR RAR Risk Adjusted Expected Return RM
+ WARR WARR Weight Average Risk Rating RM
+ 90일 DD90  RM 날짜/기간
+92일 DD92  RM 날짜/기간
+18일 DD18  RM 날짜/기간
+88일 DD88  RM 날짜/기간
+87일 DD87  RM 날짜/기간
+93일 DD93  RM 날짜/기간
+28일 DD28  RM 날짜/기간
+86일 DD86  RM 날짜/기간
+83일 DD83  RM 날짜/기간
+82일 DD82  RM 날짜/기간
+95일 DD95  RM 날짜/기간
+23일 DD23  RM 날짜/기간
+32일 DD32  RM 날짜/기간
+8일 DD8  RM 날짜/기간
+17일 DD17  RM 날짜/기간
+79일 DD79  RM 날짜/기간
+16일 DD16  RM 날짜/기간
+78일 DD78  RM 날짜/기간
+15일 DD15  RM 날짜/기간
+77일 DD77  RM 날짜/기간
+81일 DD81  RM 날짜/기간
+76일 DD76  RM 날짜/기간
+75일 DD75  RM 날짜/기간
+84일 DD84  RM 날짜/기간
+85일 DD85  RM 날짜/기간
+73일 DD73  RM 날짜/기간
+72일 DD72  RM 날짜/기간
+71일 DD71  RM 날짜/기간
+89일 DD89  RM 날짜/기간
+9일 DD9  RM 날짜/기간
+70일 DD70  RM 날짜/기간
+91일 DD91  RM 날짜/기간
+69일 DD69  RM 날짜/기간
+68일 DD68  RM 날짜/기간
+67일 DD67  RM 날짜/기간
+94일 DD94  RM 날짜/기간
+3일 DD3  RM 날짜/기간
+66일 DD66  RM 날짜/기간
+65일 DD65  RM 날짜/기간
+34일 DD34  RM 날짜/기간
+64일 DD64  RM 날짜/기간
+26일 DD26  RM 날짜/기간
+63일 DD63  RM 날짜/기간
+13일 DD13  RM 날짜/기간
+62일 DD62  RM 날짜/기간
+61일 DD61  RM 날짜/기간
+60일 DD60  RM 날짜/기간
+59일 DD59  RM 날짜/기간
+7일 DD7  RM 날짜/기간
+58일 DD58  RM 날짜/기간
+14일 DD14  RM 날짜/기간
+19일 DD19  RM 날짜/기간
+12일 DD12  RM 날짜/기간
+57일 DD57  RM 날짜/기간
+11일 DD11  RM 날짜/기간
+74일 DD74  RM 날짜/기간
+56일 DD56  RM 날짜/기간
+55일 DD55  RM 날짜/기간
+10일 DD10  RM 날짜/기간
+54일 DD54  RM 날짜/기간
+53일 DD53  RM 날짜/기간
+52일 DD52  RM 날짜/기간
+51일 DD51  RM 날짜/기간
+50일 DD50  RM 날짜/기간
+30일 DD30  RM 날짜/기간
+80일 DD80  RM 날짜/기간
+45일 DD45  RM 날짜/기간
+5일 DD5  RM 날짜/기간
+49일 DD49  RM 날짜/기간
+48일 DD48  RM 날짜/기간
+47일 DD47  RM 날짜/기간
+46일 DD46  RM 날짜/기간
+24일 DD24  RM 날짜/기간
+44일 DD44  RM 날짜/기간
+43일 DD43  RM 날짜/기간
+42일 DD42  RM 날짜/기간
+41일 DD41  RM 날짜/기간
+40일 DD40  RM 날짜/기간
+4일 DD4  RM 날짜/기간
+39일 DD39  RM 날짜/기간
+38일 DD38  RM 날짜/기간
+37일 DD37  RM 날짜/기간
+36일 DD36  RM 날짜/기간
+35일 DD35  RM 날짜/기간
+96일 DD96  RM 날짜/기간
+97일 DD97  RM 날짜/기간
+2일 DD2  RM 날짜/기간
+31일 DD31  RM 날짜/기간
+98일 DD98  RM 날짜/기간
+29일 DD29  RM 날짜/기간
+99일 DD99  RM 날짜/기간
+33일 DD33  RM 날짜/기간
+22일 DD22  RM 날짜/기간
+27일 DD27  RM 날짜/기간
+20일 DD20  RM 날짜/기간
+21일 DD21  RM 날짜/기간
+12월 MM12 12 MONTH RM(DA02)
+계층 HRCH HIERARCHY RM(DA02)
+고위험 HRK HIGH RISK RM(DA02)
+구간별 STBY SECTION BY RM(DA02)
+ IRB IRB INTERNAL RATING BASED APPROACH RM(DA02)
+ EAD EAD EXPOSURE AT DEFAULT RM(DA02)
+ 7월 MM7 7 MONTH RM(DA02)
+ EVA EVA Economic Value Added RM(DA02)
+ C C C RM(DA02)
+공분산 COVAR COVARIANCE RM(DA02)
+ 3월 MM3 3 MONTH RM(DA02)
+미예상손실금액 ULA UNEXPECTED LOSS AMOUNT RM(DA02)
+ BBB BBB BBB RM(DA02)
+ 5월 MM5 5 MONTH RM(DA02)
+ AA AA AA RM(DA02)
+ HISTO HISTO HISTOGRAM RM(DA02)
+ A A A RM(DA02)
+경제적 ECON ECONOMIC RM(DA02)
+상관 COR CORRELATION RM(DA02)
+ PERCENTILE PERT PERCENTILE RM(DA02)
+핵심 CORE CORE RM(DA02)
+ TOTALVAR TVAR TOTALVAR RM(DA02)
+ PROBABILITY PROB PROBABILITY RM(DA02)
+경상적 ORDN ORDINARY RM(DA02)
+ CONTRIBUTON CNTB CONTRIBUTON RM(DA02)
+ ALL ALL ALL RM(DA02)
+기준별 BABY BASE BY RM(DA02)
+부가가치 VAAD VALUE ADDED RM(DA02)
+ 9월 MM9 9 MONTH RM(DA02)
+ COL COL COLUMN RM(DA02)
+ 11년 YYS11 11 YEAR RM(DA02)
+ AAA AAA AAA RM(DA02)
+ 1월 MM1 1 MONTH RM(DA02)
+ 10월 MM10 10 MONTH RM(DA02)
+ 11월 MM11 11 MONTH RM(DA02)
+누계 AGGT AGGREGATE RM(DA02)
+ HURDLE HRD HURDLE RM(DA02)
+ REE REE Risk Equivalent Exposure RM(DA02)
+추세 DRFT DRIFT RM(DA02)
+축소 REDT REDUCTION RM(DA02)
+ 8월 MM8 8 MONTH RM(DA02)
+ B B B RM(DA02)
+ EACHVAR EVAR EACHVAR RM(DA02)
+ 2월 MM2 2 MONTH RM(DA02)
+ 6월 MM6 6 MONTH RM(DA02)
+ 4월 MM4 4 MONTH RM(DA02)
+상관관계 COREL CORRELATION RM02(DA02)
+ STRESS STRS STRESS RM02(DA02)
+인건비 PAYC payroll costs RS
+ FOLLOWING FOLLOWING FOLLOWING ST(최은주)
+이표세 PITX PER INTEREST TAX ST(최은주)
+사업자등록증 BSCR BUSINESS MAN CETIFICATE OF REGISTERATION ST(최은주)
+해산 BRKU BREAK UP ST(최은주)
+보관처 CSPL CUSTODY PLACE ST(최은주)
+협회 ASSO ASSOCIATION ST(최은주)
+리볼빙 REVL REVOLVING ST(최은주)
+옵션부사채 BO BOND WITH IMBEDDED OPTION ST(최은주)
+등록증 CREG CERTIFICATE OF REGISTRATION ST(최은주)
+좌 ACT THE NUMBER OF ACCOUNT ST(최은주)
+자산운용협회 AMAK ASSET MANAGEMENT ASSOCIATION OF KOREA ST(최은주)
+집합 GTHR GATHERING ST(최은주)
+변경일 CDAY CHANGE DAY ST(최은주)
+할인세 DSTX DISCOUNT TAX ST(최은주)
+전자우편 EMAIL EMAIL ST(최은주)
+세법 TXLW TAX LAW ST(최은주)
+휴무 DOFF DAY OFF ST(최은주)
+추출 EXTR EXTRACT SYSTEM ID
+인수증 TKBL TAKING BILL TF
+ TRACE TRACE TRACE TF(최은주)
+TRACER TRACER TRACER TF(최은주)
+투자신탁수탁 TT INVEST TRUST TRUST TT(최은주)
+자산유동화수탁 ST SPC TRUST TT(최은주)
+UM UM UNIFIED MESSAGING SYSTEM UM(최은주)
+LOGOUT LOGOUT LOGOUT VA
+모드 MODE MODE VA
+가상계좌 VA VIRTUAL ACCOUNT VA
+동면 DGMN DONG MYON VA
+아이디 ID ID VA
+대기 WAIT WAIT VA
+로그아웃 LOGOUT LOGOUT VA
+구군 WDCT ward county VA
+소식 NEWS NEWS VF
+인력 HMPW human power VF
+현안 PNPR pending problem VF
+벤쳐 VF VENTURE VF
+깊이 DPTH DEPTH VF
+벤쳐투자실 VID Venture Investment Department VF
+ VF VF VENTURE FORUM VF
+신주인수권 PEMR pre-emptive rights WD
+ HBETA HBETA HBETA WD
+미수_이자_할인분 UID URCV+INT+DSPT WD
+미수_유가증권_이자 USI URCV+SNB+INT WD
+평가후 AE AFTER ESTIMATE WD
+평가전 BE BEFORE ESTIMATE WD
+컨벡서티 CVXT CONVEXITY WD
+우편함 MBOX MAIL BOX Work Space
+ FOB FOB free on board 가격
+ 액면가 FCVL face [par] value 가격
+ 시가 SPR start price 가격
+ 주가 STPR stock price. 가격
+ 종가 EPR end price 가격
+ 발행가 ISPR an issue price 가격
+ 공정가 OFPR official price 가격
+ 가격 PR price 가격
+ 저가 LPR low price 가격
+ 이론가 THPR THEORY PRICE 가격
+ 기준가 BSPR BASE price 가격
+ 장부가 BKPR book price(value) 가격
+ 지가 GPR ground price 가격
+ 시장가 MPR market price 가격
+ 단가 UPR unit price 가격
+ 현가 NPR now price 가격
+ 고가 HPR high price 가격
+ 가중치 WVAL weight value 값
+ 산정가 EVAL estimated value 값
+ 대표값 RVAL representative value 값
+ 가치 VAL value 값
+ 환가력 VCM value of conversion into money 값
+ 개최 OPEN open 개폐
+ 마감 CLS close 개폐
+ 폐쇄 CLS Close 개폐
+ 신규 OPEN open 개폐
+ 가동 STRT start 개폐
+ 폐지 CLS close 개폐
+ 종료 END end 개폐
+ 시작 STRT start 개폐
+ 중도 MID middle 개폐
+ 개시 STRT start 개폐
+ 해약 CLS close 개폐
+ 개설 OPEN open 개폐
+ 해지 CLS close 개폐
+ 출납 RNP receipts and payments 거래
+ 환매 RBUY rebuy 거래
+ 전매 LQDT liquidation 거래
+ 협상 NEGO negotiate 거래
+ 취급 TRT treat 거래
+ 대환 RLN reloan 거래
+ 발급 ISUE issue 거래
+ 완납 CPAY complete payment 거래
+ 역환 OPPE opposite exchange 거래
+ 기지출 PRV_OUTG previousl outgoings 거래
+ 수령 RECP receipt 거래
+ 스왑 SWAP swap 거래
+ 상계 OFST offset 거래
+ 지급후 PAY_AF pay after 거래
+ 감가상각 DPRC depreciation 거래
+ 후취 AOCP after occupy 거래
+ 거래 TR transaction 거래
+ 판매 SELL sell 거래
+ 외화차입 FC Foreign Chaip 거래
+ 결산 STLM settlement 거래
+ 출자 IVST invest 거래
+ 영수 RECP receipt 거래
+ 환입 TIN turn in 거래
+ 접수 RECP receipt 거래
+ 발송 SEND send 거래
+ 부징수 NOT_COLL not collect 거래
+ 임차 HIRE hire 거래
+ 매입B NEGO negotiation 거래
+ 연체 DLY delay 거래
+ 할인 DISC discount 거래
+ 상환 RMBR reimbursement 거래
+AWB AWB air way bill 거래
+ 인자 PRT print 거래
+ 수수 GNR give and receive 거래
+ 취소 CAN cancel 거래
+ 공매 PAUC PUBLIC AUCTION 거래
+LIBOR LBOR London Inter-Bank Offered Rate 거래
+ 등록 REG registration 거래
+ 지출 OUTG outgoings 거래
+ 감채 SINK sink 거래
+SWAP SWAP swap 거래
+ 공제 DDCT deduction 거래
+ 원거래 ORIG_TR original transaction 거래
+ 승인 APRV approval 거래
+ 차변기입 DREN a debtor entry 거래
+ 피이관 MVI move in 거래
+ 반납 RET return 거래
+ 차관 LOAN loan 거래
+ANSWERBACK ANSB answerback 거래
+ 송수신 SNR send and receive 거래
+ 취결 DRAW drawing 거래
+ 미승인 UN_APRV un-approval 거래
+ 보상 COMP compensation 거래
+ 전출 MVO move out 거래
+ 조회 INQ inquiry 거래
+ 유동 FLOT float 거래
+ 수입 IMPT import 거래
+NA NA negotiation advice 거래
+ 해체 DSLV DISSOLVE 거래
+ 차입 BRW borrow 거래
+ 정산 ADJ adjust 거래
+ 배당 ALOT allot 거래
+ABOUT ABUT about 거래
+ 매각 SELL sell 거래
+ 매도 SELL sell 거래
+ 입금 IAMT in amount 거래
+ 예탁 DEP deposit 거래
+ 충용 APPR appropriation 거래
+ 편입 ENTR entry 거래
+ 가입 ENTR entry 거래
+ 선매출 PRE_SELL pre-sell 거래
+ 앞당김 PMTR premature 거래
+ 공매B SHSL short sale 거래
+ 기표 ADV advance 거래
+FIRMOFFER FRMO firm offer 거래
+ 이연 PRLN prolong 거래
+ 처분 DSPS disposal 거래
+ 모승인 MO_APRV mom approval 거래
+ 선징수 BCOL before collect 거래
+ 인증 AUTH authentication 거래
+ 서브 SUB sub 거래
+ 수송 CRG carriage 거래
+ 변경 CHNG change 거래
+SIGHT SGHT SIGHT 거래
+ 출금금액 OAMT out amount 거래
+ 임대 RENT RENT 거래
+ 연지급 DFPM deffered payment 거래
+ 이력 HIST history 거래
+ 수출 EXPT export 거래
+OVER OVER over 거래
+ 상각 RFND refund 거래
+ 부과 IMPS imposition 거래
+ 입찰 TNDR tender 거래
+ 예치 DEP deposit 거래
+ 입출금 IO_AMT in out amount 거래
+ 배상 INDM indemnification 거래
+ 양도 DELV delivery 거래
+ 허용 PRMS permission 거래
+ 대여 LEND lend 거래
+ 출고 DELV delivery 거래
+ 입출력 IO input/output 거래
+ 입출 IO input/output 거래
+ 변제 PAYB pay back 거래
+ 가수금 SRCP suspense receipt 거래
+ 교체 EXCH exchange 거래
+ 선물 FTRD future trade 거래
+ 환전 EXCH exchange 거래
+ 이체 FTRN fund transfer 거래
+ 회송 RSND return send 거래
+ 반환 RSND return send 거래
+ 감가 DPRC depreciation 거래
+ 반송 RSND return send 거래
+ 대우 TRT treat 거래
+ 환급 TOUT turn out 거래
+ 회수 WDRW withdraw 거래
+ 대출약정 LNCT loan contract 거래
+ 교환 EXCH exchange 거래
+ 청구 ASK ask 거래
+ 선수 BRCV before receive 거래
+ 지급 PAY pay 거래
+ 재할인 RDSC rediscount 거래
+ 현수 CRCV cash receiving 거래
+RELEASE RLS release 거래
+ 외환 FX foreign exchange 거래
+ 집행 EXEC execution 거래
+ 취득 GAIN gain 거래
+ 선취 POPY preoccupy 거래
+ 전세 LEAS lease 거래
+ 과징금 PNLT penalty 거래
+ 완제 CACC complete account 거래
+ 대체 TRNS transfer 거래
+ 수취 RECV receive 거래
+ 회신 RPL reply 거래
+ 롤오버 ROVR rollover 거래
+ 출금 OAMT out amount 거래
+ 전송 SEND send 거래
+ 융자 LEND lend 거래
+ 매매 DEAL deal 거래
+ 인수 TAKE take 거래
+ 선차기 LESS LESS 거래
+LESS LESS less 거래
+ 양수 OBTN obtain 거래
+ 교부 GIVE give 거래
+ 한도 LIM limit 거래
+PAYMENT PAY paymant 거래
+ 매출 SELL sell 거래
+ 무통장 NO_BNKB no bankbook 거래
+ 예약 RSV reserve 거래
+ 현송 CSND cash sending 거래
+ 감리 SPRN superintend 거래
+ 송신 SEND send 거래
+ 발행 ISUE issue 거래
+ 협의 TALK talk 거래
+ 차관선 LOLN loan line 거래
+ 대지급 IPAY instead payment 거래
+ 징구 COLL collect 거래
+ 재매입 RENG renegotiation 거래
+ 선급 PPAY prepayment 거래
+ 경매 AUCT auction 거래
+ 프로모션 PRMT promotion 거래
+ 할부 INST installments 거래
+ 약정 CONT contract 거래
+ 협정 AGR agree 거래
+ 징수 COLL collect 거래
+ 재공매 RE_PAUC RE_PUBLIC AUCTION 거래
+ 추심 COLL collect 거래
+ 부보 INSR insurance 거래
+ 연동 LNKG linkage 거래
+ 입금금액 IAMT in amount 거래
+ 수출입 INE import and export 거래
+ 별납 EPAY extra payment 거래
+ 무역외 INEX invisible export 거래
+ 추징 PENT penalty 거래
+ 계약 CONT contract 거래
+ 보전 ADJ  거래
+ 수정 UPDT update 거래
+ 대위 PBP payment by proxy 거래
+ 헷지 HDGE hedge 거래
+ 미지급 UPAY un-payment 거래
+ 재경매 RE_AUCT RE_AUCTION 거래
+ 수하 IMPT import 거래
+ 재추심 RE_COLL re-collect 거래
+ 신청 OFFR offer 거래
+ 입력 INP input 거래
+ 이관 MVO move out 거래
+ 배정 ASGN assign 거래
+ 보정 COR correction 거래
+ 주거래 MTR main transaction 거래
+ 선납 PPAY prepayment 거래
+ 대출 LOAN loan 거래
+HANDLER HNDL handler 거래
+ 수탁 TRST trust 거래
+ 수신B RECV receive 거래
+ 준비 RSV reserve 거래
+ 미수 URCV un-receive 거래
+ 캠페인 CMPG campaign 거래
+ 매수 BUY buy 거래
+ 누적 ACML accumulation 거래
+ 전신환 TELE_EXCH telegraph exchange 거래
+ 전입 MVI move in 거래
+ 송금 RMT remittance 거래
+ 합좌 SACC sum of account 거래
+ 매입 BUY buy 거래
+ 회부 RET return 거래
+ 계산 CALC calculation 거래
+ 송하 EXPT export 거래
+ 가지급 SPAY suspense pay 거래
+ 보충 SPLM supplement 거래
+ 인쇄 PRT print 거래
+ 위탁 ETRT entrust 거래
+ 구매 BUY buying 거래
+ 미인자 UN_PRT un-print 거래(미기장)
+증명 PRF proof 검증
+ 확인 CNFM confirm 검증
+ 경영 MNG manage 경제
+ 변동 VAR variable 경제
+ 경상 WORK work 경제
+ 금융 FINC financial 경제
+ 경기 ECON economy 경제
+ 도매 WHLS wholesale 경제
+ 경제 ECON economy 경제
+ 충당 APPR appropriation 계정
+ 세세목 DDC details of details code 계정
+ 계좌 ACC account 계정
+ 합동 UNIN union 계정
+ 비품 EQPM equipment 계정
+ 별도 TMP temporary 계정
+ 기계장치 MACH machine 계정
+ 세목 DC details code 계정
+ 부채 DEBT debt 계정
+ 계정 ACCT accounts 계정
+ 난외 OFBL off balance 계정
+ 자산 ASTS assets 계정
+ 모점 MOBR mother[mom] branch 계정
+ 과목 ITEM items 계정
+ 대변 CR credit 계정
+ 차변 DR debit[debtor] 계정
+ 당좌 CRAC a current account 계정
+ 난내 ONBL on balance 계정
+ 비목 BITM budget item 계정
+ 계정과목 ATIT accounts item 계정
+ 당좌예금 CRAC a current account 계정
+ 구축물 STRC structure 계정
+ 자금관리계정 EA escrow account 계정
+ 모계정 MO_ACCT mother[mom] account 계정
+ 의존율 DPRT DEPENDENCE RATE 고객
+ 국가 NAT nation 국가
+ 한국 KOR korea 국가
+ 경험 EXPE Experience 그룹웨어 CDP
+출석 ATDN Attendance 그룹웨어 CDP
+과정 CURS Course 그룹웨어 CDP
+표창 OFCT OFFICIAL COMMENDATION 그룹웨어 CDP
+ IT IT Information Technology 그룹웨어 CDP
+표현 EXPE EXPRESSION 그룹웨어 CDP
+투입 PUIN put in(to) 그룹웨어 CDP
+자본금 CAP_AMT capital AMOUNT 금액
+ 잔액 BAL balance 금액
+ 운임 FRGH freight 금액
+ 법사가 BID bid 금액
+ 배상금 IDMN indemnity 금액
+ 출자금 IVAM investment AMOUNT 금액
+ 충당금 APPR appropriation 금액
+ 이자 INT interest 금액
+ 요금 CHRG charge 금액
+ 대금 CHRG charge 금액
+ 예탁금 DEP_AMT deposit 금액
+ 무상 FREE free 금액
+ 감액 MAMT minus amount 금액
+ 가지급금 SPAY_AMT suspense pay AMOUNT 금액
+ 평잔 ABAL average balance 금액
+ 정액 FAMT fix amount 금액
+ 합계 SUM sum 금액
+ 선급금 PPAY prepayment amount 금액
+ 기성액 RMM ready made amount of money 금액
+ 차금 DAMT Differnce  Amount 금액
+ 원가 PCST prime cost 금액
+ 증거금 MRGN margin 금액
+ 우수리 ODD the odd sum 금액
+ 차액 DAMT difference amount 금액
+ 연금 ANN annuity 금액
+ 가산금 ADD_AMT ADD AMOUNT 금액
+ 총액 TAMT total amount 금액
+ 원금 PRIN principal 금액
+ 적수 SBAL sum of balance 금액
+ 금액 AMT amount 금액
+ 순수익 NET_PRFT NET_PROFIT 금액
+ 대전 AMT amount 금액
+ 원리금 PNI principal and interest 금액
+ 잔고 BAL balance 금액
+ 차입금 BRW_AMT borrowed amount (money) 금액
+ 지급준비금 PRSV payment reserves 금액
+ 액면 FACE face 금액
+ 유상 ONRS onerous 금액
+ 보증금 GAMT guarantee amount 금액
+ 할증금 PREM_AMT PREMIUM AMOUNT 금액
+ 증액 PAMT plus amount 금액
+ 소액 SMLS small sum 금액
+ 할부금 INST_AMT installments amount 금액
+ 배당금 ALOT_AMT ALLOT AMOUNT 금액
+ 위약금 PNBC a penalty for breach of contract 금액
+ 무이자 NO_INT nothing interest 금액(무부리)
+KOSCOM KSC Korea Securities Computer Corporation 기관
+ 무디스 MDYS MOODYS 기관
+ 기관 ORG organization 기관
+ 팀 TEAM team 기관
+ 한국기업평가 KMCC Korea Management Consulting & Credit Rating Corporation 기관
+ 기구 ORG organization 기관
+ 한국신용평가 KIS korea investors service 기관
+ 한국은행 BOK bank of korea 기관
+ 참여단 PTCG participation group 기관
+ 주기업체 MCOM main company 기관
+ 삼성카드사 SSCD_CO samsung card company 기관
+OECD OECD  기관
+ 타행 OBNK other bank 기관
+ 회사 CO company 기관
+ 국세청 NTS National Tax Service  Republic of Korea 기관
+ 금융결제원 KFTC  기관
+ 주무관청 ATHR competent authorities 기관
+ 은행연합회 KFOB korea federation of bank 기관
+ 대리은행 AGNB agency bank 기관
+ 시금고 DPST depository 기관
+ 은행 BNK bank 기관
+ 회원사 MEMB_CO member company 기관
+ 위원회 COMT committee 기관
+ 인수단 TAKG take group 기관
+EURO EURO Euromarket 기관
+ 기술신용보증기금 KOTEC  기관
+BANK BNK BANK 기관
+ 카드사 CARD_CO card company 기관
+ 법인 CORP corporation 기관
+ 공사 CORP corporation 기관
+ 노조 LUNN labor union 기관
+ 성업공사 KAMCO Korea Asset Management Corporation 기관
+ 판매단 SELG sell group 기관
+ 단체 GRP group 기관
+ 간사단 MGRG manager group 기관
+ 학교 SCHL school 기관
+ 한국산업은행 KDB korea development bank 기관
+ 부실기업정리대책위원회 IELC an insolvent enterprise liquidation countermeasure committee 기관
+ 신용보증기금 KCGF korea credit guarant fund 기관
+ 대주단 LNDR lender 기관
+ 우체국 POST post 기관
+ 세무서 TXOF tax office 기관
+ 국민카드사 KMCD_CO kookmin card company 기관
+ 정부 GOV government 기관
+IMF IMF  기관
+ 주간사 CHCO chief co 기관
+KDB KDB KDB 기관
+ 당행 KDB  기관
+ 참여은행 PTCB participation bank 기관
+ 경찰청 NPA national police agency 기관
+INST INST INST 기관  거래기관
+ 그룹 GRP group 기업
+ 기업 CO company 기업
+ 중기업 MCO medium company 기업
+ 업체 CO company 기업
+ 벤쳐기업 VCO venture company 기업
+ 소기업 SCO small company 기업
+ 계열 AFFL affiliate 기업
+ 대기업 LCO large company 기업
+ 중소기업 MSCO small and medium -sized company 기업
+ 연장 EXTN extend 길이
+ 최단 SHRS shortest 길이
+ 단축 SHRT short 길이
+ 최장 LNGS longest 길이
+2분기 QUT2 2 quarter 날짜/기간
+ 일수 DDS days 날짜/기간
+ 초기 INIT initial 날짜/기간
+4개월 MMS4 4 MONTHS 날짜/기간
+1분기 QUT1 1 quarter 날짜/기간
+ 년도 YY year 날짜/기간
+4분기 QUT4 4 quarter 날짜/기간
+ 월수 MMS months 날짜/기간
+ 양력 SCAL solar calender 날짜/기간
+ 기념일 MDAY memorial day 날짜/기간
+ 월별 MMLY monthly 날짜/기간
+ 미경과 UN_PSG un-passage 날짜/기간
+ 년 YYS years 날짜/기간
+ 익일 NDD next day 날짜/기간
+ 일별 DDLY daily 날짜/기간
+ 기일 ADTE appoint day 날짜/기간
+ 전년 BYY before year 날짜/기간
+ 당월 TMM this month 날짜/기간
+ 휴일 HDAY Holiday 날짜/기간
+ 당기 TTRM this term 날짜/기간
+ 영업일 SDAY business day 날짜/기간
+ 반월 HMM half month 날짜/기간
+ 당일 TDD today 날짜/기간
+1년 YYS1 1 year 날짜/기간
+ 음력 LCAL lunar calender 날짜/기간
+ 전월 BMM before month 날짜/기간
+ 월초 BMM the beginning of the month 날짜/기간
+ 전기 BTRM before term 날짜/기간
+6개월 MMS6 6 MONTHS 날짜/기간
+ 기간 TRM term 날짜/기간
+ 일자 DATE date 날짜/기간
+3개월 MMS3 3 MONTHS 날짜/기간
+ 분기 QUT quarter 날짜/기간
+ 연중 YYW year while 날짜/기간
+ 경과 PSG passage 날짜/기간
+5년 YYS5 5 year 날짜/기간
+3분기 QUT3 3 quarter 날짜/기간
+4년 YYS4 4 years 날짜/기간
+ 기말 TRME term end 날짜/기간
+ 익년 NYY next year 날짜/기간
+10개월 MMS10 10 MONTHS 날짜/기간
+ 단기 STRM short term 날짜/기간
+3년 YYS3 3 years 날짜/기간
+ 생일 BDAY birthday 날짜/기간
+ 시점 POT a point of (in) time 날짜/기간
+1일 DD1 one day 날짜/기간
+ 장기 LTRM long term 날짜/기간
+20년 YYS20 20 YEAR 날짜/기간
+ 일 DD  날짜/기간
+18년 YYS18 18 YEAR 날짜/기간
+16년 YYS16 16 YEAR 날짜/기간
+17년 YYS17 17 YEAR 날짜/기간
+ 월중 MMW month while 날짜/기간
+ 일중 DDW day while 날짜/기간
+ 쥴리안 JLN julian 날짜/기간
+ 전일자 BDTE before date 날짜/기간
+15년 YYS15 15 year 날짜/기간
+ 월말 MME month-end 날짜/기간
+19년 YYS19 19 YEAR 날짜/기간
+ 익월 NMM next month 날짜/기간
+14년 YYS14 14 YEAR 날짜/기간
+ 만기 MTRT maturity 날짜/기간
+ 중기 MTRM middle term 날짜/기간
+13년 YYS13 13 YEAR 날짜/기간
+ 개월 MMS months 날짜/기간
+12년 YYS12 12 YEAR 날짜/기간
+ 금년 TYY this year 날짜/기간
+ 종기 ETRM end term 날짜/기간
+ 반기 HTRM half term 날짜/기간
+10년 YYS10 10 year 날짜/기간
+ 정기 FTRM fix term 날짜/기간
+1개월 MMS1 1 MONTH 날짜/기간
+11개월 MMS11 11 MONTHS 날짜/기간
+12개월 MMS12 12 MONTHS 날짜/기간
+2개월 MMS2 2 MONTHS 날짜/기간
+ 월 MM month 날짜/기간
+ 주 WEEK week 날짜/기간
+ 일시 DT date time 날짜/기간
+ 년월 YYMM year month 날짜/기간
+ 기한 DDAY deadline day 날짜/기간
+ 거치 DEFR deferred 날짜/기간
+ 차기 NTRM next term 날짜/기간
+5개월 MMS5 5 MONTHS 날짜/기간
+ 년수 YYS count of yser 날짜/기간
+ 주기 CYCL cycle 날짜/기간
+7개월 MMS7 7 MONTHS 날짜/기간
+ 연별 YYLY yearly 날짜/기간
+9개월 MMS9 9 MONTHS 날짜/기간
+8개월 MMS8 8 MONTHS 날짜/기간
+ 연말 YYE year-end 날짜/기간
+ 외신 FNEWS foreign news 내외
+ 점내 BRI branch innr 내외
+ 외부 OUTS outside 내외
+ 내선 INNR inner 내외
+ 점외 BRO branch outer 내외
+ 대외 OUTR outer 내외
+ 내수 DDMD domestic demand 내외
+ 대내 INNR inner 내외
+ 내외 INO inside and outside 내외
+ 내부 INS inside 내외
+ 당발 HSND here_send 내외
+ 타발 TSND there send 내외
+ 킬로미터 KM kilo meter 단위
+ 무게 WT weight 단위
+ 리터 L liter 단위
+ 밀리미터 MM milli meter 단위
+ 길이 LTH length 단위
+ 미터 M meter 단위
+ 넓이 WDTH width 단위
+ 크기 SIZE Size 단위
+ 밀리리터 ML milli liter 단위
+ 단위 UNIT unit 단위
+ 면적 AREA area 단위
+ 높이 HGHT height 단위
+ 단주 OSTC odd stock 단위
+ 센티미터 CM centi meter 단위
+ 계량 MSR measure 단위
+ 수량 QTY quantity 단위
+ 부서명 DPNM DEPARTMENT NAME 당행 조직의 경우는 부점(명)으로 통일하여 명명
+ 최소 MIN minimum 대소
+ 평균 AVG average 대소
+ 최대 MAX maximum 대소
+ 중소 SNM small AND medium 대소
+ 프로세스명 PROC_NM process name 명
+ 점포명 BRNM branch name 명
+ 실명 RNM ones own [real] name 명
+ 부점명 BRNM branch name 명
+ 고객명 CNM customer name 명
+ 업무명 BUSI_NM business name 명
+ 제품명 PRNM product name 명
+ 상담원명 CNSL_NM counseler name 명
+ 명의 NM name 명
+ 의뢰인명 ASKM_NM ask man name 명
+ 무기명 NO_SIGN no sign 명
+ 은행명 BNK_NM bank name 명
+ 서명 SIGN sign 명
+ 불명 AMBG ambiguity 명
+ 파일명 FILE_NM file name 명
+ 직위명 PSNM pos name 명
+ 업체명 FNM firm name 명
+ 직장명 OFFC_NM Office name 명
+ 기명 SIGN sign 명
+ 비실명 NON_RNM none real name 명
+ 상대처명 OPP_NM opposite name 명
+ 카드명 CARD_NM card name 명
+ 그룹명 GRNM group name 명
+ 회원명 MEMB_NM member name 명
+ 공급자명 SPLR_NM supplier name 명
+ 예금주명 DEPO_NM deposit owner name 명
+ 송신자명 SNDR_NM sender_name 명
+ 상품명 GNM goods name 명
+ 지분법 SHRM share method 방법
+ 방법 METH method 방법
+ 넣기 PUT put 방법
+ 복리 CINT compound interest 방법
+ 방식 FRML formula 방법
+ 층수 FNO floor number 번호
+ 사업자등록번호 BSNO business registration number 번호
+ 고객번호 CNO customer number 번호
+ 고객ID CID customer identification 번호
+ 단말ID TMNO terminal number 번호
+ 주민사업자등록번호 RBNO resident and business number 번호
+ 여권번호 PSNO passport number 번호
+ 개인번호 ENO employee number 번호
+ 회호 BNO bond number 번호
+ 승인번호 APNO approval number 번호
+ 거래번호 TRNO transaction number 번호
+ 저널번호 JRNO journal number 번호
+ 전화번호 TNO telephone number 번호
+ 등록번호 RNO registration number 번호
+ 관리번호 MGNO management number 번호
+ 법인번호 JNO juridical (legal) number 번호
+ 번호 NO number 번호
+ 계좌번호 ACNO account number 번호
+ 주민등록번호 RRNO Resident Registration number 번호
+ 단말번호 TMNO terminal number 번호
+ 관할 DIST district 범위
+ 등급 RATE rate 범위
+ 부분 PT part 범위
+ 범위 RANG range 범위
+ 소관 CNTR control 범위
+ 포함 INCL Include 범위
+ 구간 SECT section 범위
+VIEW VIEW VIEW 보고서관리
+ 다모아 DAMOA DAMOA 보고서에서 사용
+ 요구불 DEMAND DEMAND 보고서에서 사용
+ 유지비 KEEP_CST keep cost 비용
+ 감가상각비 DPRC_CST depreciation cost 비용
+ 일비 DCST day cost 비용
+ 발행비 ICST issue cost 비용
+ 비용 CST cost 비용
+ 고정비 FCST fixed cost 비용
+COST CST cost 비용
+ 식비 FDEX food expenses(cost) 비용
+ 실비 FCST fact cost 비용
+ 관리비 MEXP management expenses 비용
+ 여비 CST cost 비용
+ 비율 RTO ratio 비율
+ 수수료율 FERT fee rate 비율
+ 보험료율 IFRT insurance fee rate 비율
+ 적립율 ACRT accumulation rate 비율
+ 할인율 DCRT discdount rate 비율
+ 환율 EXRT exchange rate 비율
+ 증감율 IDRT increase and [or] decrease ratio 비율
+ 매도율 SLRT sell rate 비율
+ 성장율 GWRT growth rate 비율
+SPREAD SPRD spread 비율
+ 매입율 BYRT buy rate 비율
+ 할인료율 DFRT discdount fee rate 비율
+ 시장점유율 SHAR share rate 비율
+ 이율 RATE rate 비율
+ 세율 TXRT tax rate 비율
+ 상각율 RFRT refund rate 비율
+ 기준율 BART base rate 비율
+ 보수율 TFRT trust fee rate 비율
+ 지분율 PSRT possession rate 비율
+ 회전율 TNRT turn rate 비율
+ 임원 STAF staff 사람
+ 사용자 USER user 사람
+ 변경자 CHNG_MN change man 사람
+ 회장 CHRM chairman 사람
+ 대표자 REP_MN represent man 사람
+ 해지자 CLS_MN CLOSE MAN 사람
+ 출금인 OAMN out amount man 사람
+ 신청인 APLC applicant 사람
+ 청구자 ASK_MN ask man 사람
+ 팀원 TMBR team member 사람
+ 중개 BRKR broker 사람
+ 송금주 RMT_MN remitter 사람
+ 참여자 PTCP_MN participation man 사람
+ 등록자 REG_MN regist man 사람
+ 송금인 RMT_MN remitter 사람
+ 변제인 PAYB_MN repay man 사람
+ 간사 MGR manager 사람
+ 부점장 MGR manager 사람
+ 양수인 GRNT grantee 사람
+ 타인 OTH other 사람
+ 사업자 BUSI_MN businessman 사람
+ 면담자 INTV_MN interview man 사람
+ 지배자 GOV_MN govern man 사람
+ 유통업자 CRCL circulator 사람
+ 거주자 RSDN resident 사람
+ 권유자 INVT_MN invite man 사람
+ 모집인 RCRT_MN recruitment man 사람
+ 차주 BRWR borrower 사람
+ 차입자 BRW_MN borrow man 사람
+ 매출자 SELL_MN sell man 사람
+ 의뢰자 ASKM ask man 사람
+ 보증인 GUAR_MN guarantee man 사람
+ 감리자 SPRN superintender 사람
+ 회계사 ACMN accounts man 사람
+ 경영진 EMEM executive member 사람
+ 관리자 MNGR manager 사람
+ 팀장 TMGR team manager 사람
+ 직원 EMP employee 사람
+ 결제인 STLM_MN settlement man 사람
+ 텔러 TLR Teller 사람
+ 배서인 ENDR_MN endorsE MAN 사람
+ 관계자 REL_MN relation man 사람
+ 피고 DEF defendant 사람
+ 가설인 TMP_MN temporary man 사람
+ 실수요자 END_USER end user 사람
+ 승인권자 APRR approver 사람
+ 채무자 DEBT_MN debt man 사람
+ 동일인 SAME_MN same man 사람
+ 소유자 OWN_MN own man 사람
+ 수혜자 BNFT_MN benefit man 사람
+ 종업원 EMP employee 사람
+ 사원 EMP employee 사람
+ 징수관 CLMN collect man 사람
+ 행사자 EXMN excute man 사람
+ 의료업자 MDTR medical treatment traders 사람
+ 개인 INDV individual 사람
+ 보유자 HOLD_MN hold man 사람
+ 원고 ACSR accuser 사람
+ 취급자 TRT_MN treat man 사람
+ 상담원 CNSL counseller 사람
+ 조치자 ACTN_MN action man 사람
+ 경락자 ACTO_MN auction off man 사람
+ 위탁자 TRSR a trustor 사람
+ 근로자 WORK_MN work man 사람
+ 감사자 ADTR AUDITOR 사람
+ 개발자 DVLP_MN develope man 사람
+ 선임신용관리역 SCO senior credit officier 사람
+ 책임자 DUTY_MN duty man 사람
+ 비거주자 NON_RSDN none resident 사람
+ 세대주 HSHL householder 사람
+ 구성원 MEMB member 사람
+ 신용관리역 CO credit officier 사람
+ 회원 MEMB member 사람
+ 질권자 PLDG_MN pledge man 사람
+ 출자자 IVTR investor 사람
+ 납부자 PAY_MN pay man 사람
+ 해체자 DSLV_MN DISSOLVE MAN 사람
+ 고객전담역 RM relationship manager 사람
+LEADMANAGER LMGR lead manager 사람
+ 지점장 BR_MGR branch manager 사람
+ 발행자 ISUE_MN issue man 사람
+BROKER BRKR broker 사람
+ 작성자 MAKE_MN make_man 사람
+ 감정자 JDMN judgment man 사람
+ 소득자 INC_MN income MAN 사람
+ 후보 CNDD candidate 사람
+ 확인자 CNFM_MN confirm man 사람
+ 수탁자 TRSE trustee 사람
+ 처리자 PROC_MN process man 사람(" 조작자 담당자 ")
+응답자 RSPN_MN response man 사람(" 조작자 담당자 ")
+수취인 RECV_MN receive man 사람(수취자)
+실사용자 END_USER end user 사람(최종사용자)
+사후관리 AFFC_MNG after management 사후관리대상 여신
+ 처리 PROC process 상태
+ 해제 RELS release 상태
+ 효과 EFCT effect 상태
+ 제한 LIM limit 상태
+ 특정 SPCL special 상태
+ 특수 SPCL special 상태
+ 지시 INDC indicate 상태
+ 적용 APLY apply 상태
+ 불필요 NOT_NEED net need 상태
+ 특성 PCUL peculiar 상태
+ 잠재 LTNT latent 상태
+ 설정 SET setting 상태
+ 본질 ESNC essence 상태
+ 우대 PRIM prime 상태
+ 체결 CNCL conclusion 상태
+ 불량 BAD bad 상태
+ 소유 OWN own 상태
+ 인허가 PRMS permission 상태
+ 경합 CMPT compete 상태
+ 합의 AGR agree 상태
+ 표적 MARK mark 상태
+ 표시 MARK mark 상태
+ 파산 BKRP bankruptcy 상태
+ 예정 SCHD scheduled 상태
+ 선행 PREC precede 상태
+ 직접 DRT direct 상태
+ 불능 IMPS impossibility 상태
+ 주요 MAIN main 상태
+ 불비 IMPR imperfect 상태
+ 유지보수 MNTN maintenance 상태
+ 중요 IMP importance 상태
+ 준공 CMPL completion 상태
+ 정지 STOP stop 상태
+ 오류 ERR error 상태
+ 위조 IMIT imitation 상태
+ 결재 CNFM confirm 상태
+ 주력 MAIN main 상태
+ 완성 CMPL complete 상태
+ 제재 SNCT sanction 상태
+ 변조 IMIT imitation 상태
+ 상장 LIST list 상태
+ 중지 STOP stop 상태
+ 분실 LOSS loss 상태
+ 완료 CMPL complete 상태
+ 미완료 ICMP INcomplete 상태
+ 완공 CMPL complete 상태
+ 부실 WEAK weak 상태
+ 가설 TMP temporary 상태
+ 자동 AUTO auto 상태
+ 청산 CLR clear 상태
+ 현황 STAT state 상태
+ 도착 ARV arrive 상태
+ 중복 DUP duplication 상태
+ 추진 PRMT promote 상태
+ 부도 DHON dishonor 상태
+ 거부 DENY deny 상태
+ 기대 HOPE hope 상태
+ 가능 POSB possible 상태
+ 소송 LWST lawsuit 상태
+ 고유 NATV native 상태
+ 보유 HOLD holding 상태
+ 파견 DTCH detach 상태
+ 자유 FREE free 상태
+ 차이 DIFF difference 상태
+ 통제 CNTR Control 상태
+ 창출 CRT create 상태
+ 통할 CNTR Control 상태
+ 상실 FRFT forfeiture 상태
+ 변환 CNVR convert 상태
+SIGNON SGON sign_on 상태
+ 발생 GEN generation 상태
+ 도난 ROB rob 상태
+ 존재 EXT exist 상태
+ 주거 RES residence 상태
+ 미실현 UNRL un-real 상태
+ 보관 CSTD custody 상태
+ 화의 COMP composition 상태
+ 규제 RGLT regulation 상태
+ 결과 RSLT result 상태
+ 여부 YN yes or no 상태
+ 유효 VALD valid 상태
+ 공작 CONS construction 상태
+ 구성 CONS construction 상태
+ 미수신B UN_RECV un-receive 상태
+ 미비 LACK lack 상태
+ 요청 ASK ask 상태
+ 착공 SCNS start construct 상태
+SIGNOFF SGOF sign_off 상태
+ 의뢰 ASK ask 상태
+ 임의 OPTN option 상태
+ 상속 INHR inheritance 상태
+ 단순 SMPL simple 상태
+ 주의 CARE care 상태
+ 긴급 EMRG emergency 상태
+ 관련 REL relation 상태
+ 분할 DIV divide 상태
+ 품질 QUAL quality 상태
+ 관계 REL relation 상태
+ 과부족 ONS overs and shorts 상태
+ 간접 INDR indirect 상태
+ 보존 STRG storage 상태
+ 우선 FRST first 상태
+ 승소 WIN win the case 상태
+ 양편 BSID both side 상태
+ 인식 RCGN recognize 상태
+ 인지 RCGN recognize 상태
+ 균등 EQ equality 상태
+ 기존 EXST existing 상태
+ 의존 DPND depend 상태
+ 동일 SAME same 상태
+ 등기 REG registration 상태
+ 주관 CHF chief 상태
+ 재고 IVNT inventory 상태
+ 가용 USBL usable 상태
+ 유지 KEEP keep 상태
+ 강제 FORC force 상태
+ 정상 NORM normal 상태
+ 착오 ERR error 상태
+ 종속 DPND depend 상태
+ 예비 PRP preparation 상태
+ 하자 ERR error 상태
+ 건전 SOND SOUNDNESS 상태
+ 주체 MAIN main 상태
+ 위반 VLT violate 상태
+ 위규 VLT violate 상태
+ 잔여 RMN remain 상태
+ 특별 SPCL special 상태
+ 진척 PROC process 상태
+ 기성고 RMAD ready-made 상태
+ 예상 EXPC expect 상태
+ 분리 SPLT split 상태
+ 기성 RMAD ready-made 상태
+ 회전 TURN turn 상태
+ 우량 SPR super 상태
+ 실현 REAL real 상태
+ 우발 ACDN accident 상태
+ 포기 GIVU giving up 상태
+ 이동 MOVE move 상태
+ 병합 MERG merge 상태
+ 예외 EXCP except 상태
+ 제외 EXCL exclude 상태
+ 잠정 TMP temp 상태
+ 임시 TMP temporary 상태
+ 미착 UDLV undelivered 상태
+ 대응 CORR correspondence 상태
+ 연대 JOIN join 상태
+ 표면 FACE face 상태
+ 상황 STAT state 상태
+ 순수 PURE pure 상태
+ 회생 RVVL revival 상태
+ 참여 PTCP participation 상태
+ 종합 CPST COMPOSITE 상태
+ 설치 SETU set up 상태
+ 경락 ACTO auction off 상태
+ 한편 OSID one side 상태
+ 위임 ATHZ authorization 상태
+ 필요 NEED need 상태
+NEGO NEGO negotiate 상태
+CENTER CENT CENTER 상태
+ 차질 MISS miss 상태
+ 압류 SEIZ seize 상태
+ 개선 IMPR improvement 상태
+ 생성 CRT create 상태
+ 추천 RCMD recommend 상태
+ 동향 TRND trend 상태
+ 파생 DRVT derivation 상태
+ 수용 ACPT acceptance 상태
+ 휴식 REST rest 상태
+ 일치 SAME same 상태
+ 요양 REST rest 상태
+ 전환 CVRT CONVERT 상태
+ 취하 DSCN discontinuance 상태
+ 생략 OMIT omit 상태
+ 부활 RVVL revival 상태
+ 불특정 UN_SPEC unspecified 상태
+ 미결제 UN_STLM un-settle account 상태
+ 성별 SEX the distinction of sex 상태
+ 금지 FBID forbid 상태
+ 통합 INTG integration 상태
+ 상태 STAT state 상태
+ 해당 CORR correspondence 상태
+ 고정 FIX fix 상태
+ 수선 MEND mend 상태
+ 고정부 FIX fix 상태
+ 환원 RSTR restore 상태
+ 반영 REFL reflect 상태
+ 전체 ALL all 상태
+ 진행 PROC Process 상태
+ 집중 CENT centralize 상태
+ 사고 ACDT accident 상태
+ 거절 RJCT rejection 상태
+ 실제 FACT fact 상태
+FLAG FLAG flag 상태
+ 잉여 SURP surplus 상태
+ 당첨 WIN win 상태
+ 중앙 CENT center 상태
+ 양호 GOOD good 상태
+ 성장 GROW growth 상태
+ 공여 GRNT grant 상태
+ 부족 LACK lack 상태
+ 위험 RISK risk 상태
+ 미처리 UN_PROC un-process 상태
+ 수퍼 SPR super 상태
+ 하부 LPT lower part 상하
+ 중간 MDDL middle 상하
+ 상한 TOP top 상하
+ 이상 ABV above 상하
+ 상하 UND up and down 상하
+ 상부 UPT upper part 상하
+ 이하 BLW below 상하
+ 최고 MAX maximum 상하
+ 초과 OVER over 상하
+ 미만 UNDR under 상하
+ 상위 UP up 상하
+ 하위 LOW lower 상하
+ 등락 RNF rise and fall 상하
+ 하한 BTM bottom 상하
+ 최저 MIN minimum 상하
+ 소득세 ITAX income tax 세금
+ 세입 TAXI tax in 세금
+ 과세 TAX taxation 세금
+ 관세 CTAX customs tax 세금
+ 농특세 FTAX farm tax 세금
+ 거래세 TTAX trading tax 세금
+ 증여세 TTAX gift tax 세금
+ 세금 TAX tax 세금
+ 갑근세 GTAX the Grade A income tax 세금
+ 제세 TAX tax 세금
+ 주민세 RTAX residence tax 세금
+ 조세 TAX tax 세금
+ 법인세 JTAX juridical corporation tax 세금
+ 세후 TAXA tax after 세금
+ 비과세 NTAX none tax 세금
+ 세금공과금 TNT tax and taxes 세금
+ 교육세 ETAX education tax 세금
+ 세전 TAXB tax before 세금
+ 방위세 DTAX defense tax 세금
+ 지방세 LTAX local tax 세금
+ 공과금 TAXS taxes 세금
+ 수도료 WTR water rate 세금
+ 목적세 OTAX object tax 세금
+ 전기료 ECHR electricity charge 세금
+ 재산세 PTAX property tax 세금
+ 부가가치세 VAT The Value Added Tax 세금
+ 손실 LOSS loss 손익
+ 결손 LOSS loss 손익
+ 차익 MRGN margin 손익
+ 마진 MRGN margin 손익
+ 손익 PL profit and loss 손익
+ 손해 DMG damage 손익
+ 이익 PRFT profit 손익
+ 순이익 NET_PRFT net profit 손익
+ 수익 PRFT profit 손익
+ 순손실 NET_LOSS net loss 손익
+ 계수 CALC calculation 수
+ 단주수 OSTC_CNT odd stock count 수
+ 소수 DEC decimal 수
+ 분모 DVSR divisor 수
+ 단수 SG single 수
+ 지표 IDX index 수
+ 실수 RNO real [actual] number 수
+ 정수 FXNO fixed number 수
+ 복수 PL plural 수
+ 분자 FACN faction 수
+ 본수 CNT count 수
+ 자릿수 PCNT position count 수
+ 결번 MNO missing [wanting] number 수
+ 횟수 CNT count 수
+ 건수 CNT count 수
+ 집계 TOT totalization 수
+ 부수 CNT count 수
+ 소수점 DEC_PNT decimal point 수
+ 지수 IDX index 수
+ 계좌수 ACC_CNT account count 수(유사어로 좌수가 있슴.)
+인원수 PERS_CNT person count 수(인원)
+할인료 DFEE discdount fee 수수료
+ 과태료 PNLT penalty 수수료
+ 임대료 RENT_FEE rent FEE 수수료
+ 대체료 TRFE transfer fee 수수료
+ 추심료 CFEE collect fee 수수료
+ 보험료 IFEE insurance fee 수수료
+ 전신료 TFEE telegraph fee 수수료
+ 지체료 DFEE delay fee 수수료
+ 이용료 UFEE use_fee 수수료
+ 수수료 FEE fee 수수료
+ 중개수수료 CMSN commission 수수료
+ 보증료 GFEE guarantee fee 수수료
+ 연체료 DFEE delay fee 수수료
+ 환가료 EFEE exchange fee 수수료
+ 임차료 HIRE_FEE hire FEE 수수료
+ 기한부 TMLM A TIME LIMIT 수신
+ 지체 DLY delay 시간
+ 시효 PRSC prescription 시간
+ 전번 BF before 시간
+ 전후 BNA before and after 시간
+ 기산 RCKN reckon 시간
+ 향후 FUT future 시간
+ 금번 THIS this 시간
+ 미래 FUT future 시간
+ 직전 BF before 시간
+ 당초 ORIG origin 시간
+ 시간 TIMS times 시간
+ 지연 DLY delay 시간
+ 전주 BWK before week 시간
+ 사후 AFFC after the fact 시간
+ 시각 TIME time 시간
+ 도래 ADV advent 시간
+ 현재 NOW now 시간
+DATE DATE timestamp 시간
+ 이후 AF after 시간
+ 시간차 TDIF time difference 시간
+ 이전 BF before 시간
+ 연기 PSTP postpone 시간
+ 썸머타임 STIM summer time 시간
+ 근속 CON continuous 시간
+ 파일 FILE file 시스템
+ 포그라운드 FG forground 시스템
+ 단말 TRMN terminal 시스템
+ 보기 VIEW view 시스템
+ 로그 LOG log 시스템
+DIGIT DGT digit 시스템
+ 백그라운드 BG background 시스템
+ 체계 SYS system 시스템
+ 저널 JOUR journal 시스템
+ 버전 VER version 시스템
+ 검색 SRCH search 시스템
+ 변수 VAR variable 시스템
+ 소스 SRC source 시스템
+ 자료 DATA data 시스템
+ 타입 TYPE type 시스템
+ 값 VAL value 시스템
+EBCDIC EBCD extended binary coded decimal interchange code 시스템
+ 로그인 LOGI log in 시스템
+ 편집 EDIT edit 시스템
+ 테이블 TAB table 시스템
+ 플로우 FLOW flow 시스템
+ 정보 INFO information 시스템
+ 개발 DVLP develope 시스템
+CHECK CHCK check 시스템
+ 버튼 BTN button 시스템
+ 환경 ENV environment 시스템
+HEX HEX HEX 시스템
+IMAGE IMG image 시스템
+LOCK LOCK lock 시스템
+ 사전 DIC dictionary 시스템
+ 에러 ERR error 시스템
+LINE LINE line 시스템
+ 디렉토리 DIR directory 시스템
+ 버스 BUS bus 시스템
+ 실행 EXEC execution 시스템
+APPLICATION APLT application 시스템
+ 시스템 SYS system 시스템
+ASCII ASCI ASCII 시스템
+ 칼럼 COL column 시스템
+ 암호화 CRYP cryptograph 시스템
+ID ID identification 시스템
+ 분석 ANAL analysis 시스템
+ 프로그램 PGM program 시스템
+ 레코드 REC record 시스템
+ 모듈 MDL module 시스템
+ 암호 PSWD password 시스템
+ 인터넷 INTN internet 시스템
+ 온라인 ONLN online 시스템
+ALIAS ALIS alias 시스템
+ 저장 SAVE save 시스템
+ 전자메일 EMAIL electron mail 시스템
+ 인덱스 IDX index 시스템
+ 초기화 INIT initial 시스템
+ 삭제 DEL delete 시스템
+SEGMENT SEG SEGMENT 시스템
+ 로드 LOAD load 시스템
+ 프로세스 PROC process 시스템
+SOUND SOUND sound 시스템
+ 경로 PATH path 시스템
+BIT BIT bit 시스템
+ 설계 DSGN design 시스템
+ 도메인 DOMN domain 시스템
+TIMEOUT TMOT time_out 시스템
+ 워드 WORD word 시스템
+ 속성 ATTR attribute 시스템
+ 전문 GRAM gram 시스템
+ 알파 ALPA alpha 시스템
+ 제한값 CNST constraints 시스템
+PC PC persnal computer 시스템
+ 재입력 RINP re_input 시스템
+ 최종 LAST last 신구
+ 최근 RCNT recent 신구
+ 최초 FRST first 신구
+ 최신 NEWT newest 신구
+ 마지막 LAST last 신구
+ 배분율 DSRT distribution rate 신디케이트 배분율
+ 게시판 BLBD billboard 알림
+ 유선 TELE telegraph 알림
+ 통지 NOTI notice 알림
+ 공개 OPEN open 알림
+ 선전 AD advertisement 알림
+ 게시 NOTI notice 알림
+ 광고 AD advertisement 알림
+ 안내문 GUID_TXT guide text 알림
+ 통보 NOTI notice 알림
+ 알림 NOTI notice 알림
+ 홍보 PR public relations 알림
+ 공시 NOTI notice 알림
+ 서면 DCMN documents 알림
+ 고시 NOTI notice 알림
+ 판촉 PR Promotion 알림
+ 공표 NOTI notice 알림
+ 한글 KOR korean 언어
+ 약어 ABBR abbreviation 언어
+ 약칭 ABBR abbreviation 언어
+ 한자 CHIN chinese 언어
+ 언어 LANG language 언어
+ 영문 ENG english 언어
+ 투융자 INL investment and lend 업무
+ 외환전산망 FN Foreign exchange Network 업무
+ 재무회계 AC ACcounts 업무
+ 상시감사 IS InSpection 업무
+ 데이터웨어하우스 DW Enterprise Data Warehouse 업무
+CD CD cash dispenser 업무
+ 뮤츄얼펀드 MF Mutual Fund 업무
+ 국고 TRSR treasury 업무
+ 세무 TAXB taxation business 업무
+ 관재 PA  업무
+ 채권 BOND bond 업무
+ 재무 FNL finantial 업무
+SWIFT SF SwiFt 업무
+ 신탁 TRST trust 업무
+ 기업연금신탁 CP Corporate Pension 업무
+ 폰뱅킹 PB phone banking 업무
+M&A MNA  업무
+KITE DL DeaLing 업무
+PC뱅킹 PC pc banking 업무
+ 인터넷뱅킹인터페이스 II INTERNETBANKING INTERFACE 업무
+ 자금관리 CM Capital Management 업무
+ATM ATM Automatic Teller Machine 업무
+ 유틸리티 UT UTility 업무
+CUSTODY CT custody 업무
+GIRO GIRO giro 업무
+ 여신 LN loan 업무
+ 인사 HR human resource 업무
+ARS ARS Automatic Response System 업무
+SSO SO single sign On 업무
+ 부대서비스 AS assistant service 업무
+ 중요증서 IC Important Certipicate 업무
+CMS CMS Cash Management Service 업무
+ 환 EXCH exchange 업무
+EDIT ED EDit 업무
+ 파라미터 PF Parameter File 업무
+ 신용카드제휴 CCC credit card cooperate 업무
+CRM CR Customer Relationship management 업무
+ 상품정보 GD GooDs 업무
+ 가상뱅킹 VB Virtual Banking 업무
+ 업무 BUSI business 업무
+ 사무 BUSI business 업무
+ 예금 DEP deposit 업무
+ 연동업무 IW InterWorking 업무
+ 전자금융공통 EC Electronic banking common 업무
+SMS SS System management System 업무
+ 구조조정기금 MF Mutual Fund 업무
+ 외화차입금 FC Foreign Chaip 업무
+ 수신 DP DePosit 업무
+ 전자금융기타 EE Electronic banking Etc. 업무
+ 인터넷뱅킹 IB internet banking 업무
+BOK BOK BOK 업무
+ 콜센터 CL CALL CENTER 업무
+ 일괄전송 TS total send 업무
+ 방법론 MT Methodology (Innovator) 업무
+ 후행처리 SU Secondary Update 업무
+ 공통 CO COmmon 업무
+ 전자금융 EB electronic banking 업무
+ 타행환 EF Erectronic Funds transfer 업무
+ 기술지원 IT Information Technology 업무
+ 예산 BG budget 업무
+ 투자 IV investment 업무
+MA MNA M&A 업무
+ 원화차입금 BR BoRrowing 업무
+BANCS BS Bancs System 업무
+FOMMATER FT formmater 업무
+ 외국환 TF Trade Finance 업무
+ 일정관리 SM Schedule Management 업무
+ 고객 CS CuStomer 업무
+ 인터페이스 IF interface 업무
+ 경찰망 PN police net 업무
+ 원화딜링 WD Won Dealing 업무
+ 여신BPR LI Loan Inspection 업무
+CC CC Center Cut 업무
+ 지로 GIRO giro 업무
+ 센터집중처리 CC Center Cut 업무
+ 기존시스템 ESYS EXISTING SYSTEM 예) 구조조정기금/기업연금신탁/여신BPR/외화차입금/외환전산망/인터넷뱅킹/COSTUDY/EDI/KITE/SWIFT
+예수금 DCLT_AMT deposit and collection_amount 예수금
+ 특례 SPCA A SPECAIL CASE 외국환
+ 일요일 SUN Sunday 요일
+ 토요일 SAT Saturday 요일
+ 월요일 MON Monday 요일
+ 수요일 WED Wednesday 요일
+ 요일 DOW a day of the week 요일
+ 금요일 FRI Friday 요일
+ 목요일 THU Thursday 요일
+ 화요일 TUE Tuesday 요일
+ 전용B DUSE diversion use 용도
+ 불용 NUSE not use 용도
+ 전용 EUSE exclusive use 용도
+ 사용 USE use 용도
+ 겸용 BUSE both use 용도
+ 이용 USE use 용도
+ 용도 USE use 용도
+ 공용 CUSE common use 용도
+ 스프레드 SPRD spread 율
+ 은행계정대 BNDB bank debit 은대 =>
+사회간접자본 SOC SOC 자금
+ 감자 DCAP decrease capital 자금
+ 자금화 FUND_IZE fund -ize 자금
+ 내자 LCAP local capital 자금
+ 기금 FUND fund 자금
+ 펀드 FUND fund 자금
+ 증자 ICAP increase capital 자금
+ 민자 CCAP civil capital 자금
+ 자금 CAP capital 자금
+ 자본 CAP capital 자금
+ 외자 FCAP foreign capital 자금
+ 자동이체 AUTO_FTRN auto fund transfer 자동이체와 자동대체를 자동이체로 통일함.(자동대체의 의미 :행내자동이체  자동이체 : 행외자동이체)
+내용 CNTN content 적요
+ 참조 REF reference 적요
+ 족 JO jook 적요
+ 제목 TIT title 적요
+ 적요 RMK remark 적요
+ 각주 FTNT footnote 적요
+ 사유 RSN reason 적요
+ 흑서 BWR write in black 적요
+ 요약 SUMM summary 적요
+ 문구 PHR phrase 적요
+ 시재 CSBL the cash balance 적요
+ 사항 MTR matter 적요
+ 일람 LIST list 적요
+ 내역 ISTM itemized statement 적요
+ 주서 RWR write in red (ink) 적요
+ 명세 SPEC specification 적요
+ 개요 BRF brief 적요
+ 중계 RLAY RELAY 전자금융
+ 단말기 TRMN TERMINAL 전자금융
+ 본점 MBR main branch 점
+BRANCH BR BRANCH 점
+ 부점 BR branch 점
+ 본지점 MNBR main office & branch 점
+ 점포 BR branch 점
+ 지점 BR branch 점
+ 가맹점 MEMB member shop 점
+ 원부점 ORIG_BR original branch 점
+ 본사 MBR main branch 점
+ 영업점 BBR business branch 점
+ 영업소 BBR business branch 점
+ 총 TOT total 접두[미]사
+ 유 EXT exist 접두[미]사
+ 현 NOW now 접두[미]사
+ 식 TP type 접두[미]사
+ 명 NM name 접두[미]사
+ 순 NET net 접두[미]사
+ 미 UN un- 접두[미]사
+ 료 FEE fee 접두[미]사
+ 선B LINE line 접두[미]사
+ 대B IST instead 접두[미]사
+ 화 IZE ize 접두[미]사
+ 선 PRE pre- 접두[미]사
+ 상 UP up 접두[미]사
+ 본 M main 접두[미]사
+ 구 OLD old 접두[미]사
+ 도 DEG degree 접두[미]사
+ 신 NEW new 접두[미]사
+ 모 MO mother[mom] 접두[미]사
+ 망 NW network 접두[미]사
+ 형 FM FORM 접두[미]사
+ 원 ORG origin 접두[미]사
+ 제 ALL all 접두[미]사
+ 실 RL reality 접두[미]사
+ 층 FLR floor 접두[미]사
+ 분 PT part 접두[미]사
+ 자 MN man 접두[미]사
+ 인 MN man 접두[미]사
+ 잡 ETC etcetera 접두[미]사
+ 말 END end 접두[미]사
+ 부 NOT not 접두[미]사
+ 비B NON none 접두[미]사
+ 회 TRN turn 접두[미]사
+ 표 TB table 접두[미]사
+ 행 BNK bank 접두[미]사
+ 금 AMT amount 접두[미]사
+ 가 TMP temp 접두[미]사
+ 량 QTY quantity 접두[미]사
+ 타 OTH Other 접두[미]사
+ 문 TXT text 접두[미]사
+ 별 BY BY 접두[미]사
+ 율 RT rate 접두[미]사
+ 세 TX tax 접두[미]사
+ 지 PLC place 접두[미]사
+ 비 CST cost 접두[미]사
+ 점 BR branch 접두[미]사
+ 소 SM small 접두[미]사
+ 무 NO nothing 접두[미]사
+ 종 TP type 접두[미]사
+ 불 NOT not 접두[미]사
+ 잔 RMN remain 접두[미]사
+ 서 SH sheet 접두[미]사
+ 수 CNT count 접두[미]사
+ 처 PLC place 접두[미]사
+ 권 RGT right 접두[미]사
+ 후 AF after 접두[미]사
+ 하 DN down 접두[미]사
+ 성 TP type 접두[미]사
+ 중 MD middle 접두[미]사
+ 재 RE re- 접두[미]사
+ 전 BF before 접두[미]사
+ 대 LG large 접두[미]사
+150대 R150 RANKING 150 조사
+ 절약 SVNG SAVING 조사업무
+ 변화 CHNG change 조사업무
+ 여분 EXTR extra 조사업무
+ 연구 STDY STUDY 조사업무
+ 조사구 RSRG RESEARCH REGION 조사업무
+ 방지 PVNT prevention 조사업무
+ 품목 ITEM item 조사업무
+ 사정 CNDT condition 조사업무
+BSI BSI business survey index 조사업무
+ 공해 PLTN pollution 조사업무
+ 합작 CLBR collaboration 조사업무
+ 귀사 YRCO your company 조사업무
+ 실사 RINS REAL INSPECT 조사업무
+ 변동폭 FLUC fluctuations 조사업무
+ 진출 ADVN advance 조사업무
+ 부진 DLNS dullness 조사업무
+ 논리 LGIC logic 조사업무
+ 심사필 PSEX pass the examination 조사업무
+ 에너지 ENRG energy 조사업무
+ 실업 JBLS JOBLESS 조사업무
+ 확장 EXTN extension 조사업무
+ 조사부 RSDP RESEARCH DEPARTMENT 조사업무
+ 권종 DNMN denomination 종류
+ 정식 RFRM regular formal 종류
+ 건전성 SDTP soundness type 종류
+ 옵션 OPTN option 종류
+ 사업성 BSTP business type 종류
+ 개인별 IDBY individual type 종류
+ 예비타당성 PADQ preparation adequate 종류
+ 부문 CLAS classify 종류
+ 저축성 SVTP save type 종류
+ 종류별 KDBY BY kind 종류
+ 소분류 SCLS small class 종류
+ 업종 INDS_TYPE industry type 종류
+ 중분류 MD_CLAS middle classfication 종류
+ 약식 IFRM in-formal 종류
+ 유형B EXTP exist type 종류
+ 연식 MDYY made year 종류
+ 타당성 ADQ adequate 종류
+ 무형 NOFM NO FORM 종류
+ 개별 INDV individual 종류
+ 종류 KIND kind 종류
+ 생산직 PROD product 종류
+ 식별 RCGN recognize 종류
+ 수익성 PFTP profit type 종류
+ 분류 CLAS classify 종류
+ 지급식 PYTP pay type 종류
+ 구분코드 TC type code 종류
+ 구분 TYPE TYPE 종류
+ 주기별 CYBY BY CYCCLE 종류
+ 기술성 TCTP technique type 종류
+ 차종 CAR_TP car type 종류
+ 사무직 OFFC office 종류
+ 항목 ITEM item 종류
+ 적립식 ACTP accumulation type 종류
+ 세분류 DTL_CLAS detail class 종류
+ 세부 DTL detail 종류
+ 원가식 PRTP principal add type 종류
+ 시장성 MKTP market type 종류
+ 본타당성 MADQ main adequate 종류
+ 상세 DTL detail 종류
+ 가급 ESAL extra salary 증감
+ 감면 EXMP exempt 증감
+ 순증 NINC net increse 증감
+ 차감 MNS minus 증감
+ 가감 IND increase and decrease 증감
+ 추가 ADD add 증감
+ 감소 DECR decrease 증감
+ 할증 PREM premium 증감
+ 증설 INCR incerase 증감
+ 가중 WT weight 증감
+ 증가 INCR increase 증감
+ 면제 EXMP exempt 증감
+ 체감 GDCR successive diminution; decrease in order 증감
+ 체증 GICR gradual increase 증감
+ 증감 IND increase and [or] decrease 증감
+ 가산 ADD add 증감
+2구역 DST2 2 DISTRICT 지역
+1급지 DGR1 1 DEGREE 지역
+2급지 DGR2 2 DEGREE 지역
+3급지 DGR3 3 DEGREE 지역
+3구역 DST3 3 DISTRICT 지역
+4구역 DST4 4 DISTRICT 지역
+5구역 DST5 5 DISTRICT 지역
+6구역 DST6 6 DISTRICT 지역
+7구역 DST7 7 DISTRICT 지역
+1구역 DST1 1 DISTRICT 지역
+ 공장 FAC factory 지역/장소
+ 현업 SITE site 지역/장소
+ 사무소 OFFC office 지역/장소
+ 지하 UGRD underground 지역/장소
+ 거래소 EXCH exchange 지역/장소
+ 사업장 BUSI_PLC business place 지역/장소
+ 내재 INHR inherence 지역/장소
+ 선급지 PPAY_PLC prepayment place 지역/장소
+ 출발지 DPRT_PLC departure place 지역/장소
+ 타점 THER there 지역/장소
+ 국내외 DNF domestic and foreign 지역/장소
+ 당점 HERE here 지역/장소
+ 지상 GRND ground 지역/장소
+ 국내 DM domestic 지역/장소
+ 연락처 CNTC_PLC contact place 지역/장소
+ 도시 CITY city 지역/장소
+ 소재지 LOCT location 지역/장소
+ 구입처 BUY_PLC buying place 지역/장소
+ 장소 PLC place 지역/장소
+ 대륙 CNTI continent 지역/장소
+ 역내 DM domestic 지역/장소
+ 거래처 CLNT A CLIENT 지역/장소
+ 선적지 LPRT loading port 지역/장소
+ 선적항 LPRT loading port 지역/장소
+ 출처 SRC soruce 지역/장소
+ 교환소 CLRH a clearing house 지역/장소
+ 해외 FR foreign 지역/장소
+ 국외 FR foreign 지역/장소
+ 원산지 ORIG origin 지역/장소
+ 외국 FORN foreign country 지역/장소
+ 현지 LOC local 지역/장소
+ 근무지 WORK_PLC work place 지역/장소
+ 도착지 PARV port of arrival 지역/장소
+ 급지 PPLC the place of payment 지역/장소
+ 내국 LOC local 지역/장소
+ 지목 LCAT land category 지역/장소
+ 청구지 ASK_PLC ask place 지역/장소
+ 지역 ZONE zone 지역/장소
+ 사무실 OFFC office 지역/장소
+ 직장 OFFC Office 지역/장소
+ 역외 OFSH offshore 지역/장소
+ 당지 HERE here 지역/장소
+ 권역 REGN region 지역/장소
+ 가입처 ENTR_PLC entry place 지역/장소
+ 타지 THER there 지역/장소
+ 창구 WID window 지역/장소
+ 공단 PCP public corporation 지역/장소
+ 토지 LAND land 지역/장소
+ 차회 NTRN next turn 차수
+ 순위 ORD order 차수
+ 순서 ORD order 차수
+ 빈도 FREQ frequency 차수
+ 회차 TURN turn 차수
+ 사모 PRIS private subscription 채권
+ 견질어음 SBIL show bill 채권
+ 국공채 NPBD national and public bond 채권
+ 공사채 PPBD public and private bond 채권
+ 어음 BILL bill 채권
+ 주채무 MDEB main debt 채권
+ 공모 PUBS public subscription 채권
+ 공모채 SBD publicly subscribed bonds 채권
+ 유가증권 SNB stocks and bonds 채권
+ 우선주 PFRN preference 채권
+ 이표 PINT per interest 채권
+ 수익증권 BNCR beneficiary certificate 채권
+ 채무 DEBT debt 채권
+ 기채 IBD an issue of bonds 채권
+ 환매채 RP repurchase 채권
+ 국채 NBD national bonds 채권
+ 산금채 KBD kdb bond 채권
+ 공채 PBD public bond 채권
+ 회사채 CBD company bond 채권
+ 평점 GRD grade 척도
+ 진척도 PROC_DEG process degree 척도
+ 포인트 PNT point 척도
+ 신용도 CRDT_DEG credit degree 척도
+ 민감도 SENS_DEG sensitive degree 척도
+ 서열 GRD grade 척도
+ 표준 STND Standard 척도
+ 기여도 CNTB_DEG contribute degree 척도
+ 규모 SCAL scale 척도
+ 평 PYNG pyung 척도
+DHL DHL dhl 통신
+ 텔렉스 TLX telex 통신
+TLX TLX telex 통신
+ 호출기 BP beeper 통신
+ 휴대폰 HP handphone 통신
+ 전신 TELE telegraph 통신
+ 폰 TEL telephone 통신
+ 통신 COMM communication 통신
+ 우편 MAIL mail 통신
+ 통화 CUR currency 통화
+ 금전 COIN coin 통화
+ 환어음 EBIL exchange bill 통화
+ 수표 CHK check 통화
+ 자기앞 SELF self 통화
+ 주화 COIN coin 통화
+ 지폐 PMNY paper money 통화
+ 현찰 CASH cash 통화
+ 원화 WCUR won currency 통화
+ 당점권 UCHK our check 통화
+ 화폐 CUR currency 통화
+ 달러 DOL dollar 통화
+ 타점권 OCHK other check 통화
+ 외화 FCUR foreign currency 통화
+ 현금 CASH cash 통화
+ 성과 RSLT result 평가
+ 평가 ESTM estimate 평가
+ 절하 DVAL devaluation 평가
+ 재평가 RVAL re-valuation 평가
+ 기여 CNTB contribute 평가
+ 절상 UVAL up valuation 평가
+ 신고서 DECL_SH declaration sheet 표
+ 신청서 OFFR_SH offer sheet 표
+ 재무제표 FNSH financial sheet 표
+ 명세표 SPEC_SH specification sheet 표
+ 수령증 RECP_SH receipt sheet 표
+ 확인서 CNFM_SH confirm sheet 표
+ 청약서 SUBS_SH subscription sheet 표
+ 보증서 GUAR_SH guarantee_sheet 표
+ 손익계산서 PL statement of profit and loss 표
+ 대차대조표 BS balance sheet 표
+ 영수증 RSHT receipt sheet 표
+ 보고서 RPRT report 표
+ 메시지 MSG message 한글워드: 메시지 로 등록되어 있음.
+검사 TEST test 확인
+ 대조 CNST contrast 확인
+ 검수 CNR check and receive 확인
+ 비교 CMPR compare 확인
+ 대비 CMPR compare 확인
+ 입증 PRF proof 확인
+ 감사 ADT audit 확인
+ 심의 REVW review 확인
+ 결정 DTRM determine 확인
+ 판정 JUD judgment 확인
+ 판단 JUD judgment 확인
+ 감정 JUD judgment 확인
+ 검토 EXAM examine 확인
+ 담당 CHRG charge 확인
+ 확정 FIX fix 확인
+ 심사 INSP inspection 확인
+ 조사 SRVY survey 확인
+ 결제 STLM settlement 확인
