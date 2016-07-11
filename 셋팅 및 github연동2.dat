@@ -8,9 +8,17 @@
 
     windows > Perspective > Open perspective > other
 
-    Cloan a Git repositiory 
+    Cloan a Git repositiory
+    
+ * 프로젝트 연동
+   1. 해당 프로젝트 마우스 우클릭 > TEAM > Share Project
+   2. Repositiory에 git 셋팅
+   cf) commit 후 기본적으로 github에도 올릴지 물어봄
+   
     
 [er master 셋팅]
+* 오라클 연동
+http://goodlsw.tistory.com/entry/Plugin%EC%84%A4%EC%B9%98ERMaster
 
 [oracle express]
 *	기본설치후 command mode 
@@ -28,3 +36,7 @@ XE                 XE
 
 
 
+[오라클 클라이언트 무료]
+http://orasqler.com
+OraSqler.exe
+ 

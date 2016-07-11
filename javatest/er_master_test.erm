@@ -146,7 +146,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2016-06-15 18:39:44</creation_date>
-			<updated_date>2016-07-07 18:35:26</updated_date>
+			<updated_date>2016-07-11 10:41:42</updated_date>
 			<model_property>
 				<name>프로젝트명</name>
 				<value></value>
@@ -181,22 +181,6 @@
 	<dictionary>
 		<word>
 			<id>0</id>
-			<length>null</length>
-			<decimal>null</decimal>
-			<array>false</array>
-			<array_dimension>null</array_dimension>
-			<unsigned>false</unsigned>
-			<zerofill>false</zerofill>
-			<binary>false</binary>
-			<args></args>
-			<char_semantics>false</char_semantics>
-			<description></description>
-			<logical_name>fgfgf</logical_name>
-			<physical_name>fgfgf</physical_name>
-			<type></type>
-		</word>
-		<word>
-			<id>1</id>
 			<length>30</length>
 			<decimal>null</decimal>
 			<array>false</array>
@@ -212,7 +196,7 @@
 			<type>varchar(n)</type>
 		</word>
 		<word>
-			<id>2</id>
+			<id>1</id>
 			<length>100</length>
 			<decimal>null</decimal>
 			<array>false</array>
@@ -228,7 +212,7 @@
 			<type>varchar(n)</type>
 		</word>
 		<word>
-			<id>3</id>
+			<id>2</id>
 			<length>3</length>
 			<decimal>null</decimal>
 			<array>false</array>
@@ -244,7 +228,7 @@
 			<type>character(n)</type>
 		</word>
 		<word>
-			<id>4</id>
+			<id>3</id>
 			<length>3</length>
 			<decimal>null</decimal>
 			<array>false</array>
@@ -286,7 +270,7 @@
 			<option></option>
 			<columns>
 				<normal_column>
-					<word_id>3</word_id>
+					<word_id>2</word_id>
 					<id>0</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -319,7 +303,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
-					<word_id>1</word_id>
+					<word_id>0</word_id>
 					<id>1</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -352,7 +336,7 @@
 					</sequence>
 				</normal_column>
 				<normal_column>
-					<word_id>2</word_id>
+					<word_id>1</word_id>
 					<id>2</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -416,7 +400,7 @@
 			<option></option>
 			<columns>
 				<normal_column>
-					<word_id>4</word_id>
+					<word_id>3</word_id>
 					<id>3</id>
 					<description></description>
 					<unique_key_name></unique_key_name>
@@ -429,39 +413,6 @@
 					<foreign_key>false</foreign_key>
 					<not_null>true</not_null>
 					<primary_key>true</primary_key>
-					<unique_key>false</unique_key>
-					<character_set></character_set>
-					<collation></collation>
-					<sequence>
-						<name></name>
-						<schema></schema>
-						<increment></increment>
-						<min_value></min_value>
-						<max_value></max_value>
-						<start></start>
-						<cache></cache>
-						<nocache>false</nocache>
-						<cycle>false</cycle>
-						<order>false</order>
-						<description></description>
-						<data_type></data_type>
-						<decimal_size>0</decimal_size>
-					</sequence>
-				</normal_column>
-				<normal_column>
-					<word_id>0</word_id>
-					<id>4</id>
-					<description></description>
-					<unique_key_name></unique_key_name>
-					<logical_name></logical_name>
-					<physical_name></physical_name>
-					<type></type>
-					<constraint></constraint>
-					<default_value></default_value>
-					<auto_increment>false</auto_increment>
-					<foreign_key>false</foreign_key>
-					<not_null>false</not_null>
-					<primary_key>false</primary_key>
 					<unique_key>false</unique_key>
 					<character_set></character_set>
 					<collation></collation>
