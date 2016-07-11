@@ -23,8 +23,7 @@ http://goodlsw.tistory.com/entry/Plugin%EC%84%A4%EC%B9%98ERMaster
 [oracle express]
 *	기본설치후 command mode 
 	> connect 
-	> azam
-	> azam
+	> 
 	
 
 * sid, dbname 확인
