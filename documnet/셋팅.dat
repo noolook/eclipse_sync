@@ -15,6 +15,16 @@
    2. Repositiory에 git 셋팅
    cf) commit 후 기본적으로 github에도 올릴지 물어봄
    
+   
+[STS]
+ * 한글 글꼴 셋팅 http://millky.com/@origoni/post/759
+ * 한글 깨짐 인코딩 옵션 설정 UTF-8로 변경
+    http://nota.tistory.com/3
+ * Github 연동은 기본적으로 URL만 붙여 넣으면 연동됨 
+   http://jwgye.tistory.com/38 
+ 
+ 
+   
     
 [er master 셋팅]
 * 오라클 연동
@@ -42,3 +52,14 @@ OraSqler.exe
 
 2. 올챙이
 https://sites.google.com/site/tadpolefordb/ 0
+
+
+
+[스프링 공부]
+
+# 스프링 설정과 properties 사용
+    http://jijs.tistory.com/entry/spring-%EC%84%A4%EC%A0%95-xml%EA%B3%BC-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C%EC%97%90%EC%84%9C-properties-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0
+    DB관련프로퍼티나 개발 / 운영 환경을 분리해서 많이 사용하는 듯..
+    패스워드는 ENC(password) 로 암호화 해서 많이 사용.. 
+
+# DBCP(Data Base Connection Pool) commons-DBCP2 라이브러리 많이 사용.
