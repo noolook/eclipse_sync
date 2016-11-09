@@ -14,7 +14,7 @@
    1. 해당 프로젝트 마우스 우클릭 > TEAM > Share Project
    2. Repositiory에 git 셋팅
    cf) commit 후 기본적으로 github에도 올릴지 물어봄
-   
+   ..
    
 [STS]
  * 한글 글꼴 셋팅 http://millky.com/@origoni/post/759
@@ -29,7 +29,11 @@
 [er master 셋팅]
 * 설치 
   STS에서 설치시 참고
-  	http://bitsoul.tistory.com/86
+  Help > Install New Software
+    설치 url입력 http://ermaster.sourceforge.net/update-site/
+    
+  	cf. http://bitsoul.tistory.com/86
+  	
   
 * 오라클 연동1
 http://goodlsw.tistory.com/entry/Plugin%EC%84%A4%EC%B9%98ERMaster
