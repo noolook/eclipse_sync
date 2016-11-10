@@ -1,5 +1,8 @@
 * github "there are no staged files" error
   cf) http://stackoverflow.com/questions/676450/eclipse-git-what-does-staged-mean
   - 신규 파일일 때 staged 상태를 못잡은 
-  Team > Add to index 처리를 하면 Staged 상태 모니터링이 됨.. 이후 commit작업 진행  
+  Team > Add to index 처리를 하면 Staged 상태 모니터링이 됨.. 이후 commit작업 진행
+  
+  
+  
    
